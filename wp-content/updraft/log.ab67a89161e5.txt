@@ -1,0 +1,555 @@
+0000.050 (0) Opened log file at time: Tue, 04 Oct 2016 06:16:28 +0000 on http://localhost/kinectem
+0000.086 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.5M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.123 (0) Free space on disk containing Updraft's temporary directory: 2902.4 Mb
+0000.230 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.249 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.462 (0) Requesting semaphore lock (fd)
+0000.479 (0) Set semaphore last lock (fd) time to 2016-10-04 06:16:29
+0000.542 (0) Semaphore lock (fd) complete
+0000.776 (0) Backup run: resumption=0, nonce=ab67a89161e5, begun at=1475561788 (1s ago), job type=backup
+0000.883 (0) Scheduling a resumption (1) after 600 seconds (1475562389) in case this run gets aborted
+0001.074 (0) Checking if we have a zip executable available
+0001.142 (0) Creation of backups of directories: beginning
+0001.299 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0109.045 (0) Total entities for the zip file: 1131 directories, 8201 files (0 skipped as non-modified), 97.4 Mb
+0109.334 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0112.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (2) files added so far); re-opening (prior size: 187.1 Kb)
+0115.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 Mb, 69 (71) files added so far); re-opening (prior size: 191.6 Kb)
+0119.018 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 100 files added (on-disk size: 431.4 Kb)
+0119.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 Mb, 38 (109) files added so far); re-opening (prior size: 431.4 Kb)
+0120.331 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 200 files added (on-disk size: 512.2 Kb)
+0121.263 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 300 files added (on-disk size: 512.2 Kb)
+0122.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 Mb, 284 (393) files added so far); re-opening (prior size: 512.2 Kb)
+0127.131 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 400 files added (on-disk size: 1290.7 Kb)
+0127.803 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 500 files added (on-disk size: 1290.7 Kb)
+0128.363 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 600 files added (on-disk size: 1290.7 Kb)
+0128.920 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 700 files added (on-disk size: 1290.7 Kb)
+0129.341 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 800 files added (on-disk size: 1290.7 Kb)
+0129.692 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 Mb, 8201 files batched, 501 (894) added so far); re-opening (prior size: 1290.7 Kb)
+0135.085 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 900 files added (on-disk size: 3429.8 Kb)
+0135.685 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1000 files added (on-disk size: 3429.8 Kb)
+0136.247 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1100 files added (on-disk size: 3429.8 Kb)
+0136.695 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1200 files added (on-disk size: 3429.8 Kb)
+0137.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 Mb, 334 (1228) files added so far); re-opening (prior size: 3429.8 Kb)
+0142.397 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1300 files added (on-disk size: 4294 Kb)
+0142.975 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1400 files added (on-disk size: 4294 Kb)
+0143.629 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1500 files added (on-disk size: 4294 Kb)
+0144.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 Mb, 341 (1569) files added so far); re-opening (prior size: 4294 Kb)
+0149.332 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1600 files added (on-disk size: 5969.4 Kb)
+0149.844 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1700 files added (on-disk size: 5969.4 Kb)
+0150.587 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1800 files added (on-disk size: 5969.4 Kb)
+0151.239 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 1900 files added (on-disk size: 5969.4 Kb)
+0151.822 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2000 files added (on-disk size: 5969.4 Kb)
+0152.071 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.1 Mb, 470 (2039) files added so far); re-opening (prior size: 5969.4 Kb)
+0159.894 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2100 files added (on-disk size: 8936.2 Kb)
+0160.613 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2200 files added (on-disk size: 8936.2 Kb)
+0161.776 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2300 files added (on-disk size: 8936.2 Kb)
+0162.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 Mb, 287 (2326) files added so far); re-opening (prior size: 8936.2 Kb)
+0167.407 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2400 files added (on-disk size: 10308.9 Kb)
+0168.530 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2500 files added (on-disk size: 10308.9 Kb)
+0169.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 Mb, 224 (2550) files added so far); re-opening (prior size: 10308.9 Kb)
+0171.121 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2600 files added (on-disk size: 10536.4 Kb)
+0172.377 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2700 files added (on-disk size: 10536.4 Kb)
+0173.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 Mb, 192 (2742) files added so far); re-opening (prior size: 10536.4 Kb)
+0181.018 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2800 files added (on-disk size: 11500.2 Kb)
+0181.668 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 2900 files added (on-disk size: 11500.2 Kb)
+0182.434 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3000 files added (on-disk size: 11500.2 Kb)
+0183.077 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 Mb, 331 (3073) files added so far); re-opening (prior size: 11500.2 Kb)
+0186.489 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3100 files added (on-disk size: 12173 Kb)
+0187.614 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3200 files added (on-disk size: 12173 Kb)
+0188.340 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3300 files added (on-disk size: 12173 Kb)
+0188.866 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3400 files added (on-disk size: 12173 Kb)
+0189.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 Mb, 358 (3431) files added so far); re-opening (prior size: 12173 Kb)
+0195.524 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3500 files added (on-disk size: 13608.1 Kb)
+0196.408 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3600 files added (on-disk size: 13608.1 Kb)
+0197.077 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 Mb, 254 (3685) files added so far); re-opening (prior size: 13608.1 Kb)
+0202.196 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3700 files added (on-disk size: 14697.4 Kb)
+0202.953 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3800 files added (on-disk size: 14697.4 Kb)
+0203.787 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 3900 files added (on-disk size: 14697.4 Kb)
+0204.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.7 Mb, 251 (3936) files added so far); re-opening (prior size: 14697.4 Kb)
+0212.981 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4000 files added (on-disk size: 16400.6 Kb)
+0213.734 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4100 files added (on-disk size: 16400.6 Kb)
+0214.662 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4200 files added (on-disk size: 16400.6 Kb)
+0215.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.6 Mb, 303 (4239) files added so far); re-opening (prior size: 16400.6 Kb)
+0224.264 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4300 files added (on-disk size: 18809.2 Kb)
+0225.269 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4400 files added (on-disk size: 18809.2 Kb)
+0226.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 Mb, 224 (4463) files added so far); re-opening (prior size: 18809.2 Kb)
+0231.531 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4500 files added (on-disk size: 19157.1 Kb)
+0232.976 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4600 files added (on-disk size: 19157.1 Kb)
+0234.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 Mb, 220 (4683) files added so far); re-opening (prior size: 19157.1 Kb)
+0247.955 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4700 files added (on-disk size: 20557.6 Kb)
+0248.843 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4800 files added (on-disk size: 20557.6 Kb)
+0249.355 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 4900 files added (on-disk size: 20557.6 Kb)
+0249.942 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5000 files added (on-disk size: 20557.6 Kb)
+0250.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.7 Mb, 338 (5021) files added so far); re-opening (prior size: 20557.6 Kb)
+0267.143 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5100 files added (on-disk size: 23827.6 Kb)
+0268.324 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5200 files added (on-disk size: 23827.6 Kb)
+0269.395 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 Mb, 271 (5292) files added so far); re-opening (prior size: 23827.6 Kb)
+0285.618 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5300 files added (on-disk size: 25815.7 Kb)
+0286.419 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5400 files added (on-disk size: 25815.7 Kb)
+0286.895 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5500 files added (on-disk size: 25815.7 Kb)
+0287.409 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5600 files added (on-disk size: 25815.7 Kb)
+0288.078 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 Mb, 370 (5662) files added so far); re-opening (prior size: 25815.7 Kb)
+0295.518 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5700 files added (on-disk size: 26518.9 Kb)
+0296.056 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5800 files added (on-disk size: 26518.9 Kb)
+0296.676 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 5900 files added (on-disk size: 26518.9 Kb)
+0297.107 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6000 files added (on-disk size: 26518.9 Kb)
+0297.856 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6100 files added (on-disk size: 26518.9 Kb)
+0298.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 Mb, 465 (6127) files added so far); re-opening (prior size: 26518.9 Kb)
+0319.047 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6200 files added (on-disk size: 27776.4 Kb)
+0320.360 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6300 files added (on-disk size: 27776.4 Kb)
+0321.132 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 Mb, 206 (6333) files added so far); re-opening (prior size: 27776.4 Kb)
+0340.428 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6400 files added (on-disk size: 29294.5 Kb)
+0341.840 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6500 files added (on-disk size: 29294.5 Kb)
+0342.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 Mb, 207 (6540) files added so far); re-opening (prior size: 29294.5 Kb)
+0355.608 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6600 files added (on-disk size: 30999.9 Kb)
+0356.194 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6700 files added (on-disk size: 30999.9 Kb)
+0356.622 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6800 files added (on-disk size: 30999.9 Kb)
+0357.180 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 6900 files added (on-disk size: 30999.9 Kb)
+0358.335 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 Mb, 384 (6924) files added so far); re-opening (prior size: 30999.9 Kb)
+0371.000 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7000 files added (on-disk size: 33490 Kb)
+0372.021 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7100 files added (on-disk size: 33490 Kb)
+0372.778 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7200 files added (on-disk size: 33490 Kb)
+0373.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 Mb, 323 (7247) files added so far); re-opening (prior size: 33490 Kb)
+0383.921 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7300 files added (on-disk size: 34363.4 Kb)
+0384.858 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7400 files added (on-disk size: 34363.4 Kb)
+0385.505 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7500 files added (on-disk size: 34363.4 Kb)
+0386.309 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 Mb, 327 (7574) files added so far); re-opening (prior size: 34363.4 Kb)
+0400.454 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7600 files added (on-disk size: 35206.6 Kb)
+0400.987 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7700 files added (on-disk size: 35206.6 Kb)
+0401.768 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7800 files added (on-disk size: 35206.6 Kb)
+0402.345 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 7900 files added (on-disk size: 35206.6 Kb)
+0402.878 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 8000 files added (on-disk size: 35206.6 Kb)
+0403.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 Mb, 453 (8027) files added so far); re-opening (prior size: 35206.6 Kb)
+0412.241 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 8100 files added (on-disk size: 35584.2 Kb)
+0413.053 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip.tmp: 8200 files added (on-disk size: 35584.2 Kb)
+0415.916 (0) Created plugins zip (0) - 35682.5 Kb in 414.2 s (86.1 Kb/s) (SHA1 checksum: 69585825527f9d92051c41dd7dad3a723d720b59)
+0416.026 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0428.974 (0) Total entities for the zip file: 168 directories, 779 files (0 skipped as non-modified), 14.2 Mb
+0429.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0430.484 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 100 files added (on-disk size: 28.4 Kb)
+0431.389 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 200 files added (on-disk size: 28.4 Kb)
+0432.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.8 Mb, 270 (271) files added so far); re-opening (prior size: 28.4 Kb)
+0439.952 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 300 files added (on-disk size: 5545 Kb)
+0441.381 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 400 files added (on-disk size: 5545 Kb)
+0442.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 Mb, 193 (464) files added so far); re-opening (prior size: 5545 Kb)
+0444.296 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 500 files added (on-disk size: 5881.9 Kb)
+0445.301 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 600 files added (on-disk size: 5881.9 Kb)
+0446.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 Mb, 233 (697) files added so far); re-opening (prior size: 5881.9 Kb)
+0451.212 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip.tmp: 700 files added (on-disk size: 6901.1 Kb)
+0454.294 (0) Created themes zip (0) - 7849.6 Kb in 38.1 s (205.9 Kb/s) (SHA1 checksum: 5294ad0e195ec3b74dba3d6189d87aba5e2e2306)
+0454.474 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0454.552 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content/uploads
+0454.603 (0) finding files: .DS_Store: adding to list (1)
+0454.661 (0) finding files: 2015: adding to list (2)
+0454.719 (0) finding files: 2016: adding to list (3)
+0454.778 (0) finding files: avatars: adding to list (4)
+0454.836 (0) finding files: bpfb: adding to list (5)
+0454.895 (0) finding files: buddypress: adding to list (6)
+0454.911 (0) finding files: bws_captcha_images: adding to list (7)
+0454.929 (0) finding files: group-avatars: adding to list (8)
+0454.986 (0) finding files: js_composer: adding to list (9)
+0455.045 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0460.142 (0) Total entities for the zip file: 147 directories, 288 files (0 skipped as non-modified), 9.7 Mb
+0460.160 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0461.155 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip.tmp: 100 files added (on-disk size: 19.7 Kb)
+0461.715 (0) Zip: backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip.tmp: 200 files added (on-disk size: 19.7 Kb)
+0469.519 (0) Created uploads zip (0) - 9395.7 Kb in 14.4 s (654.7 Kb/s) (SHA1 checksum: f84cf50dd3560bd9d9ecc36cb85914751508e1a8)
+0469.634 (0) Beginning backup of other directories found in the content directory (index: 0)
+0469.693 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0469.755 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content
+0469.811 (0) finding files: .DS_Store: adding to list (1)
+0469.869 (0) finding files: index.php: adding to list (2)
+0469.927 (0) finding files: languages: adding to list (3)
+0469.985 (0) finding files: plugins: skipping: this is the plugins directory
+0470.014 (0) finding files: themes: skipping: this is the themes directory
+0470.066 (0) finding files: updraft: skipping: this is the updraft directory
+0470.120 (0) finding files: upgrade: skipping: excluded by options
+0470.176 (0) finding files: uploads: skipping: this is the uploads directory
+0470.591 (0) Total entities for the zip file: 2 directories, 4 files (0 skipped as non-modified), 0.2 Mb
+0471.804 (0) Created others zip (0) - 40 Kb in 1.5 s (26.4 Kb/s) (SHA1 checksum: 96019aa9bc99a2dfa305e560a6f2b80c2b03788e)
+0472.034 (0) Saving backup status to database (elements: 8)
+0472.151 (0) Beginning creation of database dump (WordPress DB)
+0472.471 (0) Table wp_options: Total expected rows (approximate): 3343
+0472.863 (0) Table wp_options: Total rows added: 591 in 0.34 seconds
+0472.880 (0) Table wp_options: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_options.table.gz - 155.2 Kb)
+0473.061 (0) Table wp_users: Total expected rows (approximate): 32
+0473.115 (0) Table wp_users: Total rows added: 32 in 0.03 seconds
+0473.144 (0) Table wp_users: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_users.table.gz - 2.5 Kb)
+0473.332 (0) Table wp_usermeta: Total expected rows (approximate): 667
+0473.542 (0) Table wp_usermeta: Total rows added: 685 in 0.20 seconds
+0473.573 (0) Table wp_usermeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_usermeta.table.gz - 10.2 Kb)
+0473.754 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0473.817 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0473.832 (0) Table wp_commentmeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0473.962 (0) Table wp_comments: Total expected rows (approximate): 12
+0474.038 (0) Table wp_comments: Total rows added: 12 in 0.02 seconds
+0474.079 (0) Table wp_comments: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_comments.table.gz - 1.2 Kb)
+0474.254 (0) Table wp_links: Total expected rows (approximate): 0
+0474.278 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0474.336 (0) Table wp_links: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_links.table.gz - 0.4 Kb)
+0474.732 (0) Table wp_postmeta: Total expected rows (approximate): 1360
+0475.204 (0) Table wp_postmeta: Total rows added: 1429 in 0.44 seconds
+0475.229 (0) Table wp_postmeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_postmeta.table.gz - 14.2 Kb)
+0475.413 (0) Table wp_posts: Total expected rows (approximate): 148
+0475.779 (0) Table wp_posts: Total rows added: 154 in 0.31 seconds
+0475.894 (0) Table wp_posts: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_posts.table.gz - 9.9 Kb)
+0476.039 (0) Table wp_signups: Total expected rows (approximate): 67
+0476.184 (0) Table wp_signups: Total rows added: 68 in 0.09 seconds
+0476.248 (0) Table wp_signups: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_signups.table.gz - 7.1 Kb)
+0476.422 (0) Table wp_term_relationships: Total expected rows (approximate): 56
+0476.496 (0) Table wp_term_relationships: Total rows added: 61 in 0.02 seconds
+0476.537 (0) Table wp_term_relationships: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_term_relationships.table.gz - 0.5 Kb)
+0476.731 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0476.796 (0) Table wp_term_taxonomy: Total rows added: 5 in 0.01 seconds
+0476.846 (0) Table wp_term_taxonomy: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+0477.123 (0) Table wp_terms: Total expected rows (approximate): 5
+0477.197 (0) Table wp_terms: Total rows added: 5 in 0.01 seconds
+0477.245 (0) Table wp_terms: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_terms.table.gz - 0.5 Kb)
+0477.456 (0) Table wp_agm_maps: Total expected rows (approximate): 39
+0477.497 (0) Table wp_agm_maps: Total rows added: 44 in 0.03 seconds
+0477.529 (0) Table wp_agm_maps: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_agm_maps.table.gz - 2.5 Kb)
+0477.612 (0) Table wp_bp_activity: Total expected rows (approximate): 296
+0477.925 (0) Table wp_bp_activity: Total rows added: 314 in 0.29 seconds
+0478.369 (0) Table wp_bp_activity: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_activity.table.gz - 11.8 Kb)
+0478.514 (0) Table wp_bp_activity_meta: Total expected rows (approximate): 101
+0478.631 (0) Table wp_bp_activity_meta: Total rows added: 107 in 0.05 seconds
+0478.655 (0) Table wp_bp_activity_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_activity_meta.table.gz - 2.7 Kb)
+0478.818 (0) Table wp_bp_follow: Total expected rows (approximate): 0
+0478.840 (0) Table wp_bp_follow: Total rows added: 1 in 0.01 seconds
+0478.857 (0) Table wp_bp_follow: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_follow.table.gz - 0.3 Kb)
+0478.987 (0) Table wp_bp_friends: Total expected rows (approximate): 41
+0479.064 (0) Table wp_bp_friends: Total rows added: 41 in 0.02 seconds
+0479.114 (0) Table wp_bp_friends: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_friends.table.gz - 0.9 Kb)
+0479.317 (0) Table wp_bp_groups: Total expected rows (approximate): 27
+0479.396 (0) Table wp_bp_groups: Total rows added: 27 in 0.03 seconds
+0479.437 (0) Table wp_bp_groups: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups.table.gz - 1.5 Kb)
+0479.581 (0) Table wp_bp_groups_calendars: Total expected rows (approximate): 5
+0479.653 (0) Table wp_bp_groups_calendars: Total rows added: 5 in 0.02 seconds
+0479.705 (0) Table wp_bp_groups_calendars: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_calendars.table.gz - 0.7 Kb)
+0479.905 (0) Table wp_bp_groups_groupmeta: Total expected rows (approximate): 100
+0479.960 (0) Table wp_bp_groups_groupmeta: Total rows added: 100 in 0.04 seconds
+0480.005 (0) Table wp_bp_groups_groupmeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_groupmeta.table.gz - 1.3 Kb)
+0480.165 (0) Table wp_bp_groups_members: Total expected rows (approximate): 56
+0480.260 (0) Table wp_bp_groups_members: Total rows added: 55 in 0.03 seconds
+0480.287 (0) Table wp_bp_groups_members: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_members.table.gz - 1.3 Kb)
+0480.481 (0) Table wp_bp_messages_messages: Total expected rows (approximate): 42
+0480.576 (0) Table wp_bp_messages_messages: Total rows added: 42 in 0.03 seconds
+0480.604 (0) Table wp_bp_messages_messages: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_messages.table.gz - 1.5 Kb)
+0480.754 (0) Table wp_bp_messages_meta: Total expected rows (approximate): 4
+0480.815 (0) Table wp_bp_messages_meta: Total rows added: 4 in 0.01 seconds
+0480.863 (0) Table wp_bp_messages_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_meta.table.gz - 0.5 Kb)
+0481.070 (0) Table wp_bp_messages_notices: Total expected rows (approximate): 0
+0481.139 (0) Table wp_bp_messages_notices: Total rows added: 1 in 0.01 seconds
+0481.187 (0) Table wp_bp_messages_notices: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_notices.table.gz - 0.4 Kb)
+0481.364 (0) Table wp_bp_messages_recipients: Total expected rows (approximate): 75
+0481.457 (0) Table wp_bp_messages_recipients: Total rows added: 75 in 0.04 seconds
+0481.482 (0) Table wp_bp_messages_recipients: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_recipients.table.gz - 0.8 Kb)
+0481.664 (0) Table wp_bp_notifications: Total expected rows (approximate): 165
+0481.837 (0) Table wp_bp_notifications: Total rows added: 165 in 0.11 seconds
+0481.862 (0) Table wp_bp_notifications: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_notifications.table.gz - 2.6 Kb)
+0482.039 (0) Table wp_bp_notifications_meta: Total expected rows (approximate): 0
+0482.104 (0) Table wp_bp_notifications_meta: Total rows added: 0 in 0.01 seconds
+0482.145 (0) Table wp_bp_notifications_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_notifications_meta.table.gz - 0.3 Kb)
+0482.315 (0) Table wp_bp_team_follow: Total expected rows (approximate): 48
+0482.383 (0) Table wp_bp_team_follow: Total rows added: 48 in 0.02 seconds
+0482.422 (0) Table wp_bp_team_follow: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_team_follow.table.gz - 0.5 Kb)
+0482.598 (0) Table wp_bp_user_blogs: Total expected rows (approximate): 0
+0482.664 (0) Table wp_bp_user_blogs: Total rows added: 1 in 0.01 seconds
+0482.712 (0) Table wp_bp_user_blogs: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_user_blogs.table.gz - 0.3 Kb)
+0482.889 (0) Table wp_bp_user_blogs_blogmeta: Total expected rows (approximate): 7
+0482.956 (0) Table wp_bp_user_blogs_blogmeta: Total rows added: 7 in 0.01 seconds
+0483.015 (0) Table wp_bp_user_blogs_blogmeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_user_blogs_blogmeta.table.gz - 0.5 Kb)
+0483.189 (0) Table wp_bp_xprofile_data: Total expected rows (approximate): 125
+0483.299 (0) Table wp_bp_xprofile_data: Total rows added: 127 in 0.05 seconds
+0483.319 (0) Table wp_bp_xprofile_data: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_data.table.gz - 2.3 Kb)
+0483.487 (0) Table wp_bp_xprofile_fields: Total expected rows (approximate): 47
+0483.574 (0) Table wp_bp_xprofile_fields: Total rows added: 47 in 0.04 seconds
+0483.594 (0) Table wp_bp_xprofile_fields: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_fields.table.gz - 1.2 Kb)
+0483.764 (0) Table wp_bp_xprofile_groups: Total expected rows (approximate): 2
+0483.848 (0) Table wp_bp_xprofile_groups: Total rows added: 2 in 0.01 seconds
+0483.878 (0) Table wp_bp_xprofile_groups: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_groups.table.gz - 0.4 Kb)
+0484.055 (0) Table wp_bp_xprofile_meta: Total expected rows (approximate): 42
+0484.098 (0) Table wp_bp_xprofile_meta: Total rows added: 42 in 0.02 seconds
+0484.130 (0) Table wp_bp_xprofile_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_meta.table.gz - 0.7 Kb)
+0484.295 (0) Table wp_dynamic_widgets: Total expected rows (approximate): 0
+0484.350 (0) Table wp_dynamic_widgets: Total rows added: 0 in 0.01 seconds
+0484.466 (0) Table wp_dynamic_widgets: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_dynamic_widgets.table.gz - 0.3 Kb)
+0484.631 (0) Table wp_eab_booking_meta: Total expected rows (approximate): 0
+0484.686 (0) Table wp_eab_booking_meta: Total rows added: 0 in 0.01 seconds
+0484.729 (0) Table wp_eab_booking_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_eab_booking_meta.table.gz - 0.3 Kb)
+0484.881 (0) Table wp_eab_bookings: Total expected rows (approximate): 18
+0484.945 (0) Table wp_eab_bookings: Total rows added: 19 in 0.02 seconds
+0484.987 (0) Table wp_eab_bookings: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_eab_bookings.table.gz - 0.7 Kb)
+0485.206 (0) Table wp_post_views: Total expected rows (approximate): 7
+0485.235 (0) Table wp_post_views: Total rows added: 7 in 0.01 seconds
+0485.279 (0) Table wp_post_views: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_post_views.table.gz - 0.4 Kb)
+0485.438 (0) Table wp_rt_rtm_activity: Total expected rows (approximate): 2
+0485.502 (0) Table wp_rt_rtm_activity: Total rows added: 2 in 0.01 seconds
+0485.545 (0) Table wp_rt_rtm_activity: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_activity.table.gz - 0.3 Kb)
+0485.680 (0) Table wp_rt_rtm_api: Total expected rows (approximate): 0
+0485.729 (0) Table wp_rt_rtm_api: Total rows added: 0 in 0.01 seconds
+0485.777 (0) Table wp_rt_rtm_api: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_api.table.gz - 0.3 Kb)
+0485.972 (0) Table wp_rt_rtm_media: Total expected rows (approximate): 0
+0486.041 (0) Table wp_rt_rtm_media: Total rows added: 1 in 0.01 seconds
+0486.078 (0) Table wp_rt_rtm_media: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media.table.gz - 0.6 Kb)
+0486.245 (0) Table wp_rt_rtm_media_interaction: Total expected rows (approximate): 0
+0486.300 (0) Table wp_rt_rtm_media_interaction: Total rows added: 0 in 0.01 seconds
+0486.352 (0) Table wp_rt_rtm_media_interaction: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media_interaction.table.gz - 0.3 Kb)
+0486.513 (0) Table wp_rt_rtm_media_meta: Total expected rows (approximate): 0
+0486.583 (0) Table wp_rt_rtm_media_meta: Total rows added: 0 in 0.01 seconds
+0486.636 (0) Table wp_rt_rtm_media_meta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media_meta.table.gz - 0.3 Kb)
+0486.770 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0486.833 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0486.879 (0) Table wp_termmeta: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0487.057 (0) Table wp_w3tc_cdn_queue: Total expected rows (approximate): 26
+0487.126 (0) Table wp_w3tc_cdn_queue: Total rows added: 26 in 0.02 seconds
+0487.163 (0) Table wp_w3tc_cdn_queue: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_w3tc_cdn_queue.table.gz - 1.2 Kb)
+0487.488 (0) Table wp_wfbadleechers: Total expected rows (approximate): 0
+0487.545 (0) Table wp_wfbadleechers: Total rows added: 0 in 0.01 seconds
+0487.588 (0) Table wp_wfbadleechers: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfbadleechers.table.gz - 0.3 Kb)
+0487.758 (0) Table wp_wfblockediplog: Total expected rows (approximate): 10
+0487.822 (0) Table wp_wfblockediplog: Total rows added: 10 in 0.01 seconds
+0487.841 (0) Table wp_wfblockediplog: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblockediplog.table.gz - 0.4 Kb)
+0488.055 (0) Table wp_wfblocks: Total expected rows (approximate): 0
+0488.128 (0) Table wp_wfblocks: Total rows added: 0 in 0.02 seconds
+0488.189 (0) Table wp_wfblocks: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblocks.table.gz - 0.4 Kb)
+0488.339 (0) Table wp_wfblocksadv: Total expected rows (approximate): 0
+0488.403 (0) Table wp_wfblocksadv: Total rows added: 0 in 0.01 seconds
+0488.445 (0) Table wp_wfblocksadv: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblocksadv.table.gz - 0.3 Kb)
+0488.615 (0) Table wp_wfconfig: Total expected rows (approximate): 139
+0488.732 (0) Table wp_wfconfig: Total rows added: 139 in 0.06 seconds
+0488.969 (0) Table wp_wfconfig: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfconfig.table.gz - 4.8 Kb)
+0489.098 (0) Table wp_wfcrawlers: Total expected rows (approximate): 12
+0489.163 (0) Table wp_wfcrawlers: Total rows added: 12 in 0.02 seconds
+0489.204 (0) Table wp_wfcrawlers: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfcrawlers.table.gz - 0.6 Kb)
+0489.393 (0) Table wp_wffilemods: Total expected rows (approximate): 11512
+0493.881 (0) Table wp_wffilemods: Total rows added: 11481 in 4.43 seconds
+0493.892 (0) Table wp_wffilemods: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wffilemods.table.gz - 608.7 Kb)
+0494.093 (0) Table wp_wfhits: Total expected rows (approximate): 1614
+0494.869 (0) Table wp_wfhits: Total rows added: 1602 in 0.77 seconds
+0494.881 (0) Table wp_wfhits: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfhits.table.gz - 25.4 Kb)
+0495.038 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0495.055 (0) Table wp_wfhoover: Total rows added: 0 in 0.01 seconds
+0495.110 (0) Table wp_wfhoover: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfhoover.table.gz - 0.3 Kb)
+0495.177 (0) Table wp_wfissues: Total expected rows (approximate): 9
+0495.196 (0) Table wp_wfissues: Total rows added: 9 in 0.01 seconds
+0495.206 (0) Table wp_wfissues: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfissues.table.gz - 2.2 Kb)
+0495.237 (0) Table wp_wfleechers: Total expected rows (approximate): 290
+0495.301 (0) Table wp_wfleechers: Total rows added: 290 in 0.04 seconds
+0495.346 (0) Table wp_wfleechers: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfleechers.table.gz - 1.9 Kb)
+0495.495 (0) Table wp_wflockedout: Total expected rows (approximate): 0
+0495.551 (0) Table wp_wflockedout: Total rows added: 0 in 0.01 seconds
+0495.596 (0) Table wp_wflockedout: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflockedout.table.gz - 0.3 Kb)
+0495.720 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0495.778 (0) Table wp_wflocs: Total rows added: 0 in 0.01 seconds
+0495.822 (0) Table wp_wflocs: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflocs.table.gz - 0.4 Kb)
+0496.004 (0) Table wp_wflogins: Total expected rows (approximate): 516
+0496.244 (0) Table wp_wflogins: Total rows added: 516 in 0.19 seconds
+0496.263 (0) Table wp_wflogins: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflogins.table.gz - 11 Kb)
+0496.421 (0) Table wp_wfnet404s: Total expected rows (approximate): 0
+0496.485 (0) Table wp_wfnet404s: Total rows added: 1 in 0.01 seconds
+0496.535 (0) Table wp_wfnet404s: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfnet404s.table.gz - 0.4 Kb)
+0496.656 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0496.675 (0) Table wp_wfreversecache: Total rows added: 0 in 0.01 seconds
+0496.729 (0) Table wp_wfreversecache: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfreversecache.table.gz - 0.3 Kb)
+0496.854 (0) Table wp_wfscanners: Total expected rows (approximate): 163
+0496.931 (0) Table wp_wfscanners: Total rows added: 163 in 0.02 seconds
+0496.985 (0) Table wp_wfscanners: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfscanners.table.gz - 1.1 Kb)
+0497.131 (0) Table wp_wfstatus: Total expected rows (approximate): 960
+0497.331 (0) Table wp_wfstatus: Total rows added: 960 in 0.17 seconds
+0498.110 (0) Table wp_wfstatus: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfstatus.table.gz - 15.8 Kb)
+0498.425 (0) Table wp_wfthrottlelog: Total expected rows (approximate): 0
+0498.488 (0) Table wp_wfthrottlelog: Total rows added: 0 in 0.01 seconds
+0498.530 (0) Table wp_wfthrottlelog: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfthrottlelog.table.gz - 0.3 Kb)
+0498.693 (0) Table wp_wfvulnscanners: Total expected rows (approximate): 0
+0498.757 (0) Table wp_wfvulnscanners: Total rows added: 0 in 0.01 seconds
+0498.798 (0) Table wp_wfvulnscanners: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfvulnscanners.table.gz - 0.3 Kb)
+0498.972 (0) Table wp_wpmudev_chat_log: Total expected rows (approximate): 0
+0499.001 (0) Table wp_wpmudev_chat_log: Total rows added: 1 in 0.01 seconds
+0499.055 (0) Table wp_wpmudev_chat_log: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_log.table.gz - 0.5 Kb)
+0499.215 (0) Table wp_wpmudev_chat_message: Total expected rows (approximate): 2
+0499.281 (0) Table wp_wpmudev_chat_message: Total rows added: 2 in 0.02 seconds
+0499.325 (0) Table wp_wpmudev_chat_message: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_message.table.gz - 0.8 Kb)
+0499.947 (0) Table wp_wpmudev_chat_users: Total expected rows (approximate): 0
+0499.998 (0) Table wp_wpmudev_chat_users: Total rows added: 1 in 0.01 seconds
+0500.039 (0) Table wp_wpmudev_chat_users: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_users.table.gz - 0.6 Kb)
+0500.207 (0) Table wp_wsluserscontacts: Total expected rows (approximate): 0
+0500.264 (0) Table wp_wsluserscontacts: Total rows added: 0 in 0.01 seconds
+0500.311 (0) Table wp_wsluserscontacts: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wsluserscontacts.table.gz - 0.3 Kb)
+0500.475 (0) Table wp_wslusersprofiles: Total expected rows (approximate): 4
+0500.544 (0) Table wp_wslusersprofiles: Total rows added: 4 in 0.03 seconds
+0500.573 (0) Table wp_wslusersprofiles: finishing file (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wslusersprofiles.table.gz - 0.9 Kb)
+0500.760 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_options.table.gz (1/70): adding to final database dump
+0501.007 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_users.table.gz (2/70): adding to final database dump
+0501.027 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_usermeta.table.gz (3/70): adding to final database dump
+0501.126 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_commentmeta.table.gz (4/70): adding to final database dump
+0501.141 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_comments.table.gz (5/70): adding to final database dump
+0501.200 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_links.table.gz (6/70): adding to final database dump
+0501.250 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_postmeta.table.gz (7/70): adding to final database dump
+0501.414 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_posts.table.gz (8/70): adding to final database dump
+0501.455 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_signups.table.gz (9/70): adding to final database dump
+0501.500 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_term_relationships.table.gz (10/70): adding to final database dump
+0501.550 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_term_taxonomy.table.gz (11/70): adding to final database dump
+0501.600 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_terms.table.gz (12/70): adding to final database dump
+0501.654 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_agm_maps.table.gz (13/70): adding to final database dump
+0501.715 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_activity.table.gz (14/70): adding to final database dump
+0501.789 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_activity_meta.table.gz (15/70): adding to final database dump
+0501.836 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_follow.table.gz (16/70): adding to final database dump
+0501.882 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_friends.table.gz (17/70): adding to final database dump
+0501.941 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups.table.gz (18/70): adding to final database dump
+0501.990 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_calendars.table.gz (19/70): adding to final database dump
+0502.042 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_groupmeta.table.gz (20/70): adding to final database dump
+0502.104 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_groups_members.table.gz (21/70): adding to final database dump
+0502.149 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_messages.table.gz (22/70): adding to final database dump
+0502.198 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_meta.table.gz (23/70): adding to final database dump
+0502.255 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_notices.table.gz (24/70): adding to final database dump
+0502.305 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_messages_recipients.table.gz (25/70): adding to final database dump
+0502.370 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_notifications.table.gz (26/70): adding to final database dump
+0502.421 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_notifications_meta.table.gz (27/70): adding to final database dump
+0502.474 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_team_follow.table.gz (28/70): adding to final database dump
+0502.525 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_user_blogs.table.gz (29/70): adding to final database dump
+0502.583 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_user_blogs_blogmeta.table.gz (30/70): adding to final database dump
+0502.634 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_data.table.gz (31/70): adding to final database dump
+0502.703 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_fields.table.gz (32/70): adding to final database dump
+0502.762 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_groups.table.gz (33/70): adding to final database dump
+0502.841 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_bp_xprofile_meta.table.gz (34/70): adding to final database dump
+0502.912 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_dynamic_widgets.table.gz (35/70): adding to final database dump
+0502.957 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_eab_booking_meta.table.gz (36/70): adding to final database dump
+0503.024 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_eab_bookings.table.gz (37/70): adding to final database dump
+0503.074 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_post_views.table.gz (38/70): adding to final database dump
+0503.130 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_activity.table.gz (39/70): adding to final database dump
+0503.191 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_api.table.gz (40/70): adding to final database dump
+0503.240 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media.table.gz (41/70): adding to final database dump
+0503.302 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media_interaction.table.gz (42/70): adding to final database dump
+0503.348 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_rt_rtm_media_meta.table.gz (43/70): adding to final database dump
+0503.407 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_termmeta.table.gz (44/70): adding to final database dump
+0503.463 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_w3tc_cdn_queue.table.gz (45/70): adding to final database dump
+0503.528 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfbadleechers.table.gz (46/70): adding to final database dump
+0503.570 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblockediplog.table.gz (47/70): adding to final database dump
+0503.624 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblocks.table.gz (48/70): adding to final database dump
+0503.679 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfblocksadv.table.gz (49/70): adding to final database dump
+0503.733 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfconfig.table.gz (50/70): adding to final database dump
+0503.800 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfcrawlers.table.gz (51/70): adding to final database dump
+0503.846 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wffilemods.table.gz (52/70): adding to final database dump
+0505.263 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfhits.table.gz (53/70): adding to final database dump
+0505.450 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfhoover.table.gz (54/70): adding to final database dump
+0505.474 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfissues.table.gz (55/70): adding to final database dump
+0505.529 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfleechers.table.gz (56/70): adding to final database dump
+0505.600 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflockedout.table.gz (57/70): adding to final database dump
+0505.637 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflocs.table.gz (58/70): adding to final database dump
+0505.697 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wflogins.table.gz (59/70): adding to final database dump
+0505.787 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfnet404s.table.gz (60/70): adding to final database dump
+0505.814 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfreversecache.table.gz (61/70): adding to final database dump
+0505.864 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfscanners.table.gz (62/70): adding to final database dump
+0505.927 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfstatus.table.gz (63/70): adding to final database dump
+0506.026 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfthrottlelog.table.gz (64/70): adding to final database dump
+0506.042 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wfvulnscanners.table.gz (65/70): adding to final database dump
+0506.059 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_log.table.gz (66/70): adding to final database dump
+0506.078 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_message.table.gz (67/70): adding to final database dump
+0506.096 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wpmudev_chat_users.table.gz (68/70): adding to final database dump
+0506.115 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wsluserscontacts.table.gz (69/70): adding to final database dump
+0506.132 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db-table-wp_wslusersprofiles.table.gz (70/70): adding to final database dump
+0506.152 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz: finished writing out complete database file (896 Kb)
+0506.264 (0) Total database tables backed up: 70 (backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz, size: 928145, checksum (SHA1): 3695b4ca51646ebfe995a9783d522239e217a175)
+0506.286 (0) Saving backup history
+0506.329 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0506.341 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0506.350 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0506.363 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0506.374 (0) backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0506.402 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0506.511 (0) Cloud backup selection (1/1): s3 (last)
+0506.556 (0) Beginning dispatch of backup to remote (s3)
+0512.970 (0) S3 upload (): backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip (chunks: 7) -> s3://kinectem/backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip
+0513.372 (0) S3 chunked upload: got multipart ID: 4NSVLZ9V02Zp5En5OJcVu.Lk.KqmmsQaedubSToUGqLt5tZrYCD3RX_T7bNvpp7qrMWSKGmhz1B2u4yZKj_SvsA5dyszZEiKI1S_OmRKbC3T.JhjQFonuApHiF64e7wm
+0538.283 (0) S3 chunked upload: 14.3 % uploaded (1, "d8a20f26ddb53ad6e3d18ea9c5c56f42")
+0566.060 (0) The scheduled resumption is within 45 seconds - will reschedule
+0566.086 (0) Rescheduling resumption 1: moving to 645 seconds from now (1475563000)
+0566.188 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 600 + 45 = 645
+0566.225 (0) S3 chunked upload: 28.6 % uploaded (2, "283c86e18803474ed581218305fd557a")
+0591.437 (0) S3 chunked upload: 42.9 % uploaded (3, "12bcff91a51989a99d695939f571bffc")
+0618.772 (0) The time we have been running (618.7) is approaching the resumption interval (645) - increasing resumption interval to 649
+0618.880 (0) S3 chunked upload: 57.1 % uploaded (4, "3d20a0daa2e195e08f6196fe82e1d628")
+0643.278 (0) The time we have been running (643.1) is approaching the resumption interval (649) - increasing resumption interval to 674
+0643.387 (0) S3 chunked upload: 71.4 % uploaded (5, "f8fdc8cd84f87d9aec9d5f4663a8ddef")
+0668.153 (0) The time we have been running (668) is approaching the resumption interval (674) - increasing resumption interval to 698
+0668.274 (0) S3 chunked upload: 85.7 % uploaded (6, "af8897c685b53bd2c85ada208dd3b143")
+0694.067 (0) The time we have been running (693.9) is approaching the resumption interval (698) - increasing resumption interval to 724
+0694.189 (0) S3 chunked upload: 100 % uploaded (7, "b6e2f5be19341553753216a0a3c7eab3")
+0694.355 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0695.327 (0) S3 upload (plugins0): re-assembly succeeded
+0695.392 (0) Recording as successfully uploaded: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip (bb2b25603f8a0903ef0274575a8d4a6a)
+0695.644 (0) Deleting local file: backup_2016-10-04-0216_Kinectem_ab67a89161e5-plugins.zip: OK
+0695.699 (0) S3 upload (): backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip (chunks: 2) -> s3://kinectem/backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip
+0696.062 (0) S3 chunked upload: got multipart ID: 7z_zxaWJGfQowuj8i6JV21sZEINbZl6XfciEQXfmvLLQ8.Wh2QjjNeyUYb2mT.MEV1ZHloqt3pjtHkkQcB4PC7U_ZM9Yg59tWp9zi5ChX48vNw3L4Os0uPzyKXlSXK5Q
+0720.745 (0) The time we have been running (720.6) is approaching the resumption interval (724) - increasing resumption interval to 751
+0720.869 (0) S3 chunked upload: 50 % uploaded (1, "06f1e115dac0d47757e1501ee77d6ba2")
+0734.186 (0) The time we have been running (734) is approaching the resumption interval (751) - increasing resumption interval to 765
+0734.260 (0) S3 chunked upload: 100 % uploaded (2, "7de764c40f99297588f71a41b441dd54")
+0734.475 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0735.668 (0) S3 upload (themes0): re-assembly succeeded
+0735.723 (0) Recording as successfully uploaded: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip (77c780e27e2c2187c65030127d6e33e3)
+0735.908 (0) Deleting local file: backup_2016-10-04-0216_Kinectem_ab67a89161e5-themes.zip: OK
+0735.963 (0) S3 upload (): backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip (chunks: 2) -> s3://kinectem/backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip
+0736.336 (0) S3 chunked upload: got multipart ID: oqlomoYYUmzoE1RvKSEWW0RjJDXlaL6KhwjElH6pHa14w9zXLNusnLm0QzC9SFT3NCZucJWfcXWkhMCFzS.a38DcaLv.wq3.cFZ4Xs.WXC2pG5FdszLHV13xawaNnVm7
+0760.993 (0) The time we have been running (760.8) is approaching the resumption interval (765) - increasing resumption interval to 791
+0761.119 (0) S3 chunked upload: 50 % uploaded (1, "d81864ae174af4773668c24c009a3515")
+0801.173 (0) The time we have been running (801) is approaching the resumption interval (791) - increasing resumption interval to 831
+0801.290 (0) S3 chunked upload: 100 % uploaded (2, "1a65b2d014c10b816312eb7dad3f6a23")
+0801.473 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0802.450 (0) S3 upload (uploads0): re-assembly succeeded
+0802.531 (0) Recording as successfully uploaded: backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip (b0bddf0331d91d56ca5e3006bed7468f)
+0802.707 (0) Deleting local file: backup_2016-10-04-0216_Kinectem_ab67a89161e5-uploads.zip: OK
+0802.767 (0) S3 upload (): backup_2016-10-04-0216_Kinectem_ab67a89161e5-others.zip (chunks: 1) -> s3://kinectem/backup_2016-10-04-0216_Kinectem_ab67a89161e5-others.zip
+0803.349 (0) S3 regular upload: success
+0803.420 (0) Recording as successfully uploaded: backup_2016-10-04-0216_Kinectem_ab67a89161e5-others.zip (e35404cfd4efc741c395c0854a490253)
+0803.520 (0) Deleting local file: backup_2016-10-04-0216_Kinectem_ab67a89161e5-others.zip: OK
+0803.550 (0) S3 upload (): backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz (chunks: 1) -> s3://kinectem/backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz
+0808.639 (0) S3 regular upload: success
+0808.706 (0) Recording as successfully uploaded: backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz (44f6049ee30709457509c0daf84b1489)
+0808.883 (0) Deleting local file: backup_2016-10-04-0216_Kinectem_ab67a89161e5-db.gz: OK
+0808.996 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0809.023 (0) Number of backup sets in history: 7
+0809.088 (0) Examining backup set with datestamp: 1475561788 (Oct 04 2016 06:16:28)
+0809.140 (0) 1475561788: this backup set remains non-empty (1/1); will retain in history
+0809.197 (0) Examining backup set with datestamp: 1474952195 (Sep 27 2016 04:56:35)
+0809.255 (0) 1474952195: this backup set remains non-empty (1/1); will retain in history
+0809.313 (0) Examining backup set with datestamp: 1474346328 (Sep 20 2016 04:38:48)
+0809.372 (0) 1474346328: this backup set remains non-empty (1/1); will retain in history
+0809.439 (0) Examining backup set with datestamp: 1473741532 (Sep 13 2016 04:38:52)
+0809.499 (0) 1473741532: this backup set remains non-empty (1/1); will retain in history
+0809.582 (0) Examining backup set with datestamp: 1473136692 (Sep 06 2016 04:38:12)
+0809.648 (0) 1473136692: this backup set remains non-empty (1/1); will retain in history
+0809.706 (0) Examining backup set with datestamp: 1472531901 (Aug 30 2016 04:38:21)
+0809.765 (0) 1472531901: db: this set includes a database (backup_2016-08-30-0038_Kinectem_0db99ad231db-db.gz); db count is now 6
+0809.831 (0) 1472531901: db: over retain limit (5); will delete this database
+0809.890 (0) Delete file: backup_2016-08-30-0038_Kinectem_0db99ad231db-db.gz, service=s3
+0809.904 (0) S3: Delete remote: bucket=kinectem, URI=backup_2016-08-30-0038_Kinectem_0db99ad231db-db.gz
+0810.390 (0) The time we have been running (810.2) is approaching the resumption interval (831) - increasing resumption interval to 841
+0810.513 (0) plugins: 1472531901: over retain limit (5); will delete this file (backup_2016-08-30-0038_Kinectem_0db99ad231db-plugins.zip)
+0810.573 (0) themes: 1472531901: over retain limit (5); will delete this file (backup_2016-08-30-0038_Kinectem_0db99ad231db-themes.zip)
+0810.632 (0) uploads: 1472531901: over retain limit (5); will delete this file (backup_2016-08-30-0038_Kinectem_0db99ad231db-uploads.zip)
+0810.669 (0) others: 1472531901: over retain limit (5); will delete this file (backup_2016-08-30-0038_Kinectem_0db99ad231db-others.zip)
+0810.736 (0) Delete file: backup_2016-08-30-0038_Kinectem_0db99ad231db-plugins.zip, service=s3
+0810.779 (0) Delete file: backup_2016-08-30-0038_Kinectem_0db99ad231db-themes.zip, service=s3
+0810.840 (0) Delete file: backup_2016-08-30-0038_Kinectem_0db99ad231db-uploads.zip, service=s3
+0810.900 (0) Delete file: backup_2016-08-30-0038_Kinectem_0db99ad231db-others.zip, service=s3
+0810.967 (0) S3: Delete remote: bucket=kinectem, URI=backup_2016-08-30-0038_Kinectem_0db99ad231db-plugins.zip
+0811.335 (0) S3: Delete remote: bucket=kinectem, URI=backup_2016-08-30-0038_Kinectem_0db99ad231db-themes.zip
+0811.742 (0) S3: Delete remote: bucket=kinectem, URI=backup_2016-08-30-0038_Kinectem_0db99ad231db-uploads.zip
+0812.060 (0) S3: Delete remote: bucket=kinectem, URI=backup_2016-08-30-0038_Kinectem_0db99ad231db-others.zip
+0812.519 (0) The time we have been running (812.3) is approaching the resumption interval (841) - increasing resumption interval to 843
+0812.636 (0) 1472531901: this backup set is now empty; will remove from history
+0812.695 (0) 1472531901: corresponding log file not found - must have already been deleted
+0812.752 (0) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+0812.811 (0) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+0812.871 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0813.017 (0) Resume backup (ab67a89161e5, 0): finish run
+0813.057 (0) Decremented the semaphore (fd) by 1
+0813.073 (0) Semaphore (fd) unlocked
+0813.137 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0813.324 (0) Fetching RSS news feed
+0814.074 (0) Fetched RSS news feed; result is a: SimplePie
+0814.162 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 Kb) to: vpanc...
+0816.717 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,570 @@
+0000.002 (0) Opened log file at time: Wed, 17 Aug 2016 10:21:15 +0000 on http://localhost/kinectem
+0000.054 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.8M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.113 (0) Free space on disk containing Updraft's temporary directory: 7034.5 Mb
+0000.173 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.221 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.327 (0) Requesting semaphore lock (fd)
+0000.384 (0) Set semaphore last lock (fd) time to 2016-08-17 10:21:15
+0000.394 (0) Semaphore lock (fd) complete
+0000.461 (0) Backup run: resumption=0, nonce=ca06182af8ad, begun at=1471429275 (0s ago), job type=backup
+0000.547 (0) Scheduling a resumption (1) after 600 seconds (1471429876) in case this run gets aborted
+0000.569 (0) Checking if we have a zip executable available
+0000.621 (0) Creation of backups of directories: beginning
+0000.790 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0015.767 (0) Total entities for the zip file: 1131 directories, 8201 files (0 skipped as non-modified), 97.2 Mb
+0015.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0016.078 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 100 files added (on-disk size: 187.1 Kb)
+0016.234 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 200 files added (on-disk size: 187.1 Kb)
+0016.444 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 300 files added (on-disk size: 187.1 Kb)
+0016.663 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 400 files added (on-disk size: 187.1 Kb)
+0016.853 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 500 files added (on-disk size: 187.1 Kb)
+0016.868 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 Mb, 8201 files batched, 501 (502) added so far); re-opening (prior size: 187.1 Kb)
+0044.393 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 600 files added (on-disk size: 1633.8 Kb)
+0044.761 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 700 files added (on-disk size: 1633.8 Kb)
+0045.137 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 800 files added (on-disk size: 1633.8 Kb)
+0045.417 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 900 files added (on-disk size: 1633.8 Kb)
+0045.716 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1000 files added (on-disk size: 1633.8 Kb)
+0045.738 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 Mb, 8201 files batched, 501 (1003) added so far); re-opening (prior size: 1633.8 Kb)
+0081.493 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1100 files added (on-disk size: 3661 Kb)
+0081.692 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1200 files added (on-disk size: 3661 Kb)
+0081.873 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1300 files added (on-disk size: 3661 Kb)
+0082.048 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1400 files added (on-disk size: 3661 Kb)
+0082.217 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1500 files added (on-disk size: 3661 Kb)
+0082.233 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5 Mb, 8201 files batched, 501 (1504) added so far); re-opening (prior size: 3661 Kb)
+0111.835 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1600 files added (on-disk size: 5831.9 Kb)
+0112.200 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1700 files added (on-disk size: 5831.9 Kb)
+0112.617 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1800 files added (on-disk size: 5831.9 Kb)
+0113.006 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 1900 files added (on-disk size: 5831.9 Kb)
+0113.403 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2000 files added (on-disk size: 5831.9 Kb)
+0113.436 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 Mb, 8201 files batched, 501 (2005) added so far); re-opening (prior size: 5831.9 Kb)
+0130.152 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2100 files added (on-disk size: 8816.7 Kb)
+0130.499 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2200 files added (on-disk size: 8816.7 Kb)
+0130.863 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2300 files added (on-disk size: 8816.7 Kb)
+0131.177 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2400 files added (on-disk size: 8816.7 Kb)
+0131.452 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2500 files added (on-disk size: 8816.7 Kb)
+0131.491 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 Mb, 8201 files batched, 501 (2506) added so far); re-opening (prior size: 8816.7 Kb)
+0145.834 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2600 files added (on-disk size: 10464.3 Kb)
+0146.141 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2700 files added (on-disk size: 10464.3 Kb)
+0146.454 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2800 files added (on-disk size: 10464.3 Kb)
+0146.712 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 2900 files added (on-disk size: 10464.3 Kb)
+0146.970 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3000 files added (on-disk size: 10464.3 Kb)
+0147.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 Mb, 8201 files batched, 501 (3007) added so far); re-opening (prior size: 10464.3 Kb)
+0162.654 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3100 files added (on-disk size: 12063 Kb)
+0163.065 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3200 files added (on-disk size: 12063 Kb)
+0163.296 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3300 files added (on-disk size: 12063 Kb)
+0163.509 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3400 files added (on-disk size: 12063 Kb)
+0163.817 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3500 files added (on-disk size: 12063 Kb)
+0163.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.5 Mb, 8201 files batched, 501 (3508) added so far); re-opening (prior size: 12063 Kb)
+0187.121 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3600 files added (on-disk size: 14204.7 Kb)
+0187.452 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3700 files added (on-disk size: 14204.7 Kb)
+0187.764 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3800 files added (on-disk size: 14204.7 Kb)
+0188.053 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 3900 files added (on-disk size: 14204.7 Kb)
+0188.370 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4000 files added (on-disk size: 14204.7 Kb)
+0188.409 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.8 Mb, 8201 files batched, 501 (4009) added so far); re-opening (prior size: 14204.7 Kb)
+0222.451 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4100 files added (on-disk size: 16573.4 Kb)
+0222.890 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4200 files added (on-disk size: 16573.4 Kb)
+0223.322 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4300 files added (on-disk size: 16573.4 Kb)
+0223.739 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4400 files added (on-disk size: 16573.4 Kb)
+0224.135 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4500 files added (on-disk size: 16573.4 Kb)
+0224.185 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.8 Mb, 8201 files batched, 501 (4510) added so far); re-opening (prior size: 16573.4 Kb)
+0256.657 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4600 files added (on-disk size: 19369.6 Kb)
+0256.886 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4700 files added (on-disk size: 19369.6 Kb)
+0257.341 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4800 files added (on-disk size: 19369.6 Kb)
+0257.906 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 4900 files added (on-disk size: 19369.6 Kb)
+0258.118 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5000 files added (on-disk size: 19369.6 Kb)
+0258.149 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.7 Mb, 8201 files batched, 501 (5011) added so far); re-opening (prior size: 19369.6 Kb)
+0272.500 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5100 files added (on-disk size: 23342.6 Kb)
+0272.672 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5200 files added (on-disk size: 23342.6 Kb)
+0272.879 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5300 files added (on-disk size: 23342.6 Kb)
+0273.201 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5400 files added (on-disk size: 23342.6 Kb)
+0273.382 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5500 files added (on-disk size: 23342.6 Kb)
+0273.412 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.1 Mb, 8201 files batched, 501 (5512) added so far); re-opening (prior size: 23342.6 Kb)
+0296.804 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5600 files added (on-disk size: 26183.5 Kb)
+0297.357 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5700 files added (on-disk size: 26183.5 Kb)
+0297.927 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5800 files added (on-disk size: 26183.5 Kb)
+0298.411 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 5900 files added (on-disk size: 26183.5 Kb)
+0298.537 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 Mb, 413 (5925) files added so far); re-opening (prior size: 26183.5 Kb)
+0319.405 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6000 files added (on-disk size: 27000.6 Kb)
+0319.734 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6100 files added (on-disk size: 27000.6 Kb)
+0320.065 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6200 files added (on-disk size: 27000.6 Kb)
+0320.429 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6300 files added (on-disk size: 27000.6 Kb)
+0320.817 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6400 files added (on-disk size: 27000.6 Kb)
+0320.906 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.5 Mb, 8201 files batched, 501 (6426) added so far); re-opening (prior size: 27000.6 Kb)
+0338.895 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6500 files added (on-disk size: 30457.3 Kb)
+0339.559 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6600 files added (on-disk size: 30457.3 Kb)
+0339.968 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6700 files added (on-disk size: 30457.3 Kb)
+0340.448 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6800 files added (on-disk size: 30457.3 Kb)
+0340.537 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 Mb, 387 (6813) files added so far); re-opening (prior size: 30457.3 Kb)
+0356.365 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 6900 files added (on-disk size: 32731.6 Kb)
+0357.078 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7000 files added (on-disk size: 32731.6 Kb)
+0357.538 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 Mb, 250 (7063) files added so far); re-opening (prior size: 32731.6 Kb)
+0371.070 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7100 files added (on-disk size: 34113.2 Kb)
+0371.789 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7200 files added (on-disk size: 34113.2 Kb)
+0372.462 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7300 files added (on-disk size: 34113.2 Kb)
+0373.160 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7400 files added (on-disk size: 34113.2 Kb)
+0373.539 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 Mb, 405 (7468) files added so far); re-opening (prior size: 34113.2 Kb)
+0375.736 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7500 files added (on-disk size: 34557.5 Kb)
+0376.439 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7600 files added (on-disk size: 34557.5 Kb)
+0377.139 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7700 files added (on-disk size: 34557.5 Kb)
+0377.914 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7800 files added (on-disk size: 34557.5 Kb)
+0378.344 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 7900 files added (on-disk size: 34557.5 Kb)
+0378.535 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 Mb, 470 (7938) files added so far); re-opening (prior size: 34557.5 Kb)
+0395.609 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 8000 files added (on-disk size: 35517 Kb)
+0396.064 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 8100 files added (on-disk size: 35517 Kb)
+0396.594 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip.tmp: 8200 files added (on-disk size: 35517 Kb)
+0404.058 (0) Created plugins zip (0) - 35655 Kb in 403.2 s (88.4 Kb/s) (SHA1 checksum: a897b8ad88afd33a6fa4234902086a85889ecf9f)
+0404.205 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0408.035 (0) Total entities for the zip file: 167 directories, 778 files (0 skipped as non-modified), 14 Mb
+0408.064 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0408.559 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 100 files added (on-disk size: 28.3 Kb)
+0409.137 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 200 files added (on-disk size: 28.3 Kb)
+0409.747 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 300 files added (on-disk size: 28.3 Kb)
+0410.209 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 400 files added (on-disk size: 28.3 Kb)
+0410.535 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.1 Mb, 484 (485) files added so far); re-opening (prior size: 28.3 Kb)
+0452.192 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 500 files added (on-disk size: 5976.8 Kb)
+0452.768 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 600 files added (on-disk size: 5976.8 Kb)
+0453.232 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip.tmp: 700 files added (on-disk size: 5976.8 Kb)
+0471.737 (0) Created themes zip (0) - 7830.5 Kb in 67.4 s (116.1 Kb/s) (SHA1 checksum: 8979d55a58c118f595a167d3606a3fbc6e4bf7e2)
+0471.855 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0471.915 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content/uploads
+0471.960 (0) finding files: .DS_Store: adding to list (1)
+0472.016 (0) finding files: 2015: adding to list (2)
+0472.069 (0) finding files: 2016: adding to list (3)
+0472.134 (0) finding files: avatars: adding to list (4)
+0472.185 (0) finding files: bpfb: adding to list (5)
+0472.245 (0) finding files: buddypress: adding to list (6)
+0472.281 (0) finding files: bws_captcha_images: adding to list (7)
+0472.303 (0) finding files: group-avatars: adding to list (8)
+0472.325 (0) finding files: js_composer: adding to list (9)
+0472.383 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0473.653 (0) Total entities for the zip file: 130 directories, 255 files (0 skipped as non-modified), 9 Mb
+0473.904 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0474.165 (0) Zip: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0480.531 (0) Created uploads zip (0) - 8722.8 Kb in 8 s (1083.8 Kb/s) (SHA1 checksum: 63c4bfa184cb6adf4ac38232aadc7b67645c7713)
+0480.639 (0) Beginning backup of other directories found in the content directory (index: 0)
+0480.698 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0480.760 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content
+0480.814 (0) finding files: .DS_Store: adding to list (1)
+0480.871 (0) finding files: index.php: adding to list (2)
+0480.922 (0) finding files: languages: adding to list (3)
+0481.003 (0) finding files: plugins: skipping: this is the plugins directory
+0481.029 (0) finding files: themes: skipping: this is the themes directory
+0481.083 (0) finding files: updraft: skipping: this is the updraft directory
+0481.137 (0) finding files: upgrade: skipping: excluded by options
+0481.192 (0) finding files: uploads: skipping: this is the uploads directory
+0481.348 (0) Total entities for the zip file: 2 directories, 4 files (0 skipped as non-modified), 0.2 Mb
+0481.704 (0) Created others zip (0) - 40 Kb in 0.4 s (95.2 Kb/s) (SHA1 checksum: eae3f920f2e77b2903cb5339f501e3878900e89b)
+0481.889 (0) Saving backup status to database (elements: 8)
+0482.008 (0) Beginning creation of database dump (WordPress DB)
+0482.243 (0) Table wp_options: Total expected rows (approximate): 1743
+0482.691 (0) Table wp_options: Total rows added: 537 in 0.39 seconds
+0482.723 (0) Table wp_options: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_options.table.gz - 133.9 Kb)
+0482.900 (0) Table wp_users: Total expected rows (approximate): 19
+0482.965 (0) Table wp_users: Total rows added: 22 in 0.04 seconds
+0483.002 (0) Table wp_users: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_users.table.gz - 1.7 Kb)
+0483.229 (0) Table wp_usermeta: Total expected rows (approximate): 376
+0483.474 (0) Table wp_usermeta: Total rows added: 452 in 0.17 seconds
+0483.504 (0) Table wp_usermeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_usermeta.table.gz - 6.9 Kb)
+0483.664 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0483.737 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0483.798 (0) Table wp_commentmeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0483.982 (0) Table wp_comments: Total expected rows (approximate): 12
+0484.087 (0) Table wp_comments: Total rows added: 12 in 0.05 seconds
+0484.119 (0) Table wp_comments: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_comments.table.gz - 1.2 Kb)
+0484.281 (0) Table wp_links: Total expected rows (approximate): 0
+0484.354 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0484.414 (0) Table wp_links: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_links.table.gz - 0.4 Kb)
+0484.597 (0) Table wp_postmeta: Total expected rows (approximate): 1085
+0485.141 (0) Table wp_postmeta: Total rows added: 1107 in 0.46 seconds
+0485.202 (0) Table wp_postmeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_postmeta.table.gz - 11.5 Kb)
+0485.355 (0) Table wp_posts: Total expected rows (approximate): 123
+0485.671 (0) Table wp_posts: Total rows added: 123 in 0.26 seconds
+0485.702 (0) Table wp_posts: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_posts.table.gz - 8.5 Kb)
+0485.917 (0) Table wp_signups: Total expected rows (approximate): 19
+0485.978 (0) Table wp_signups: Total rows added: 20 in 0.04 seconds
+0486.049 (0) Table wp_signups: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_signups.table.gz - 2.6 Kb)
+0486.224 (0) Table wp_term_relationships: Total expected rows (approximate): 37
+0486.303 (0) Table wp_term_relationships: Total rows added: 37 in 0.01 seconds
+0486.357 (0) Table wp_term_relationships: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_term_relationships.table.gz - 0.5 Kb)
+0486.537 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0486.613 (0) Table wp_term_taxonomy: Total rows added: 5 in 0.01 seconds
+0486.674 (0) Table wp_term_taxonomy: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+0486.858 (0) Table wp_terms: Total expected rows (approximate): 5
+0486.926 (0) Table wp_terms: Total rows added: 5 in 0.01 seconds
+0486.978 (0) Table wp_terms: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_terms.table.gz - 0.5 Kb)
+0487.154 (0) Table wp_agm_maps: Total expected rows (approximate): 25
+0487.186 (0) Table wp_agm_maps: Total rows added: 25 in 0.02 seconds
+0487.314 (0) Table wp_agm_maps: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_agm_maps.table.gz - 1.8 Kb)
+0487.444 (0) Table wp_bp_activity: Total expected rows (approximate): 212
+0487.712 (0) Table wp_bp_activity: Total rows added: 212 in 0.21 seconds
+0487.927 (0) Table wp_bp_activity: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_activity.table.gz - 8.3 Kb)
+0488.132 (0) Table wp_bp_activity_meta: Total expected rows (approximate): 28
+0488.174 (0) Table wp_bp_activity_meta: Total rows added: 38 in 0.02 seconds
+0488.223 (0) Table wp_bp_activity_meta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_activity_meta.table.gz - 0.6 Kb)
+0488.395 (0) Table wp_bp_follow: Total expected rows (approximate): 0
+0488.456 (0) Table wp_bp_follow: Total rows added: 1 in 0.01 seconds
+0488.520 (0) Table wp_bp_follow: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_follow.table.gz - 0.3 Kb)
+0488.706 (0) Table wp_bp_friends: Total expected rows (approximate): 17
+0488.785 (0) Table wp_bp_friends: Total rows added: 17 in 0.02 seconds
+0488.845 (0) Table wp_bp_friends: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_friends.table.gz - 0.6 Kb)
+0489.017 (0) Table wp_bp_groups: Total expected rows (approximate): 35
+0489.113 (0) Table wp_bp_groups: Total rows added: 37 in 0.03 seconds
+0489.162 (0) Table wp_bp_groups: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups.table.gz - 1.5 Kb)
+0489.342 (0) Table wp_bp_groups_calendars: Total expected rows (approximate): 5
+0489.430 (0) Table wp_bp_groups_calendars: Total rows added: 5 in 0.02 seconds
+0489.485 (0) Table wp_bp_groups_calendars: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_calendars.table.gz - 0.7 Kb)
+0489.664 (0) Table wp_bp_groups_groupmeta: Total expected rows (approximate): 121
+0489.801 (0) Table wp_bp_groups_groupmeta: Total rows added: 131 in 0.07 seconds
+0489.839 (0) Table wp_bp_groups_groupmeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_groupmeta.table.gz - 1.5 Kb)
+0490.019 (0) Table wp_bp_groups_members: Total expected rows (approximate): 53
+0490.142 (0) Table wp_bp_groups_members: Total rows added: 58 in 0.06 seconds
+0490.181 (0) Table wp_bp_groups_members: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_members.table.gz - 1.3 Kb)
+0490.355 (0) Table wp_bp_messages_messages: Total expected rows (approximate): 31
+0490.438 (0) Table wp_bp_messages_messages: Total rows added: 31 in 0.02 seconds
+0490.542 (0) Table wp_bp_messages_messages: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_messages.table.gz - 1.2 Kb)
+0490.682 (0) Table wp_bp_messages_meta: Total expected rows (approximate): 2
+0490.747 (0) Table wp_bp_messages_meta: Total rows added: 1 in 0.01 seconds
+0490.817 (0) Table wp_bp_messages_meta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_meta.table.gz - 0.5 Kb)
+0490.977 (0) Table wp_bp_messages_notices: Total expected rows (approximate): 3
+0491.056 (0) Table wp_bp_messages_notices: Total rows added: 3 in 0.01 seconds
+0491.115 (0) Table wp_bp_messages_notices: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_notices.table.gz - 0.5 Kb)
+0491.307 (0) Table wp_bp_messages_recipients: Total expected rows (approximate): 50
+0491.352 (0) Table wp_bp_messages_recipients: Total rows added: 50 in 0.03 seconds
+0491.391 (0) Table wp_bp_messages_recipients: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_recipients.table.gz - 0.7 Kb)
+0491.587 (0) Table wp_bp_notifications: Total expected rows (approximate): 101
+0491.729 (0) Table wp_bp_notifications: Total rows added: 104 in 0.07 seconds
+0491.761 (0) Table wp_bp_notifications: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_notifications.table.gz - 1.9 Kb)
+0491.944 (0) Table wp_bp_notifications_meta: Total expected rows (approximate): 0
+0492.009 (0) Table wp_bp_notifications_meta: Total rows added: 0 in 0.01 seconds
+0492.080 (0) Table wp_bp_notifications_meta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_notifications_meta.table.gz - 0.3 Kb)
+0492.251 (0) Table wp_bp_team_follow: Total expected rows (approximate): 34
+0492.334 (0) Table wp_bp_team_follow: Total rows added: 34 in 0.02 seconds
+0492.387 (0) Table wp_bp_team_follow: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_team_follow.table.gz - 0.5 Kb)
+0492.523 (0) Table wp_bp_user_blogs: Total expected rows (approximate): 0
+0492.619 (0) Table wp_bp_user_blogs: Total rows added: 1 in 0.01 seconds
+0492.678 (0) Table wp_bp_user_blogs: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_user_blogs.table.gz - 0.3 Kb)
+0492.950 (0) Table wp_bp_user_blogs_blogmeta: Total expected rows (approximate): 7
+0493.019 (0) Table wp_bp_user_blogs_blogmeta: Total rows added: 7 in 0.01 seconds
+0493.091 (0) Table wp_bp_user_blogs_blogmeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_user_blogs_blogmeta.table.gz - 0.5 Kb)
+0493.281 (0) Table wp_bp_xprofile_data: Total expected rows (approximate): 87
+0493.380 (0) Table wp_bp_xprofile_data: Total rows added: 91 in 0.04 seconds
+0493.421 (0) Table wp_bp_xprofile_data: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_data.table.gz - 1.7 Kb)
+0493.594 (0) Table wp_bp_xprofile_fields: Total expected rows (approximate): 47
+0493.699 (0) Table wp_bp_xprofile_fields: Total rows added: 47 in 0.04 seconds
+0493.775 (0) Table wp_bp_xprofile_fields: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_fields.table.gz - 1.2 Kb)
+0493.956 (0) Table wp_bp_xprofile_groups: Total expected rows (approximate): 2
+0494.026 (0) Table wp_bp_xprofile_groups: Total rows added: 2 in 0.01 seconds
+0494.079 (0) Table wp_bp_xprofile_groups: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_groups.table.gz - 0.4 Kb)
+0494.253 (0) Table wp_bp_xprofile_meta: Total expected rows (approximate): 42
+0494.335 (0) Table wp_bp_xprofile_meta: Total rows added: 42 in 0.03 seconds
+0494.361 (0) Table wp_bp_xprofile_meta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_meta.table.gz - 0.7 Kb)
+0494.536 (0) Table wp_cptch_images: Total expected rows (approximate): 0
+0494.603 (0) Table wp_cptch_images: Total rows added: 0 in 0.01 seconds
+0494.653 (0) Table wp_cptch_images: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_images.table.gz - 0.3 Kb)
+0494.773 (0) Table wp_cptch_packages: Total expected rows (approximate): 12
+0494.833 (0) Table wp_cptch_packages: Total rows added: 12 in 0.01 seconds
+0494.873 (0) Table wp_cptch_packages: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_packages.table.gz - 0.5 Kb)
+0495.019 (0) Table wp_cptch_whitelist: Total expected rows (approximate): 0
+0495.093 (0) Table wp_cptch_whitelist: Total rows added: 0 in 0.01 seconds
+0495.153 (0) Table wp_cptch_whitelist: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_whitelist.table.gz - 0.3 Kb)
+0495.336 (0) Table wp_eab_booking_meta: Total expected rows (approximate): 0
+0495.367 (0) Table wp_eab_booking_meta: Total rows added: 0 in 0.01 seconds
+0495.404 (0) Table wp_eab_booking_meta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_eab_booking_meta.table.gz - 0.3 Kb)
+0495.573 (0) Table wp_eab_bookings: Total expected rows (approximate): 7
+0495.633 (0) Table wp_eab_bookings: Total rows added: 7 in 0.01 seconds
+0495.697 (0) Table wp_eab_bookings: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_eab_bookings.table.gz - 0.6 Kb)
+0495.847 (0) Table wp_post_views: Total expected rows (approximate): 7
+0495.907 (0) Table wp_post_views: Total rows added: 7 in 0.01 seconds
+0495.957 (0) Table wp_post_views: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_post_views.table.gz - 0.4 Kb)
+0496.099 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0496.159 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0496.212 (0) Table wp_termmeta: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0496.361 (0) Table wp_wpmudev_chat_log: Total expected rows (approximate): 0
+0496.416 (0) Table wp_wpmudev_chat_log: Total rows added: 1 in 0.01 seconds
+0496.463 (0) Table wp_wpmudev_chat_log: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_log.table.gz - 0.5 Kb)
+0496.592 (0) Table wp_wpmudev_chat_message: Total expected rows (approximate): 2
+0496.660 (0) Table wp_wpmudev_chat_message: Total rows added: 2 in 0.01 seconds
+0496.706 (0) Table wp_wpmudev_chat_message: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_message.table.gz - 0.8 Kb)
+0496.842 (0) Table wp_wpmudev_chat_users: Total expected rows (approximate): 0
+0496.874 (0) Table wp_wpmudev_chat_users: Total rows added: 1 in 0.01 seconds
+0496.898 (0) Table wp_wpmudev_chat_users: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_users.table.gz - 0.6 Kb)
+0497.107 (0) Table wp_wsluserscontacts: Total expected rows (approximate): 0
+0497.154 (0) Table wp_wsluserscontacts: Total rows added: 0 in 0.01 seconds
+0497.207 (0) Table wp_wsluserscontacts: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wsluserscontacts.table.gz - 0.3 Kb)
+0497.364 (0) Table wp_wslusersprofiles: Total expected rows (approximate): 0
+0497.433 (0) Table wp_wslusersprofiles: Total rows added: 0 in 0.01 seconds
+0497.485 (0) Table wp_wslusersprofiles: finishing file (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wslusersprofiles.table.gz - 0.5 Kb)
+0497.614 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_options.table.gz (1/46): adding to final database dump
+0497.855 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_users.table.gz (2/46): adding to final database dump
+0497.881 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_usermeta.table.gz (3/46): adding to final database dump
+0497.978 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_commentmeta.table.gz (4/46): adding to final database dump
+0498.009 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_comments.table.gz (5/46): adding to final database dump
+0498.124 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_links.table.gz (6/46): adding to final database dump
+0498.149 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_postmeta.table.gz (7/46): adding to final database dump
+0498.275 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_posts.table.gz (8/46): adding to final database dump
+0498.345 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_signups.table.gz (9/46): adding to final database dump
+0498.387 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_term_relationships.table.gz (10/46): adding to final database dump
+0498.444 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_term_taxonomy.table.gz (11/46): adding to final database dump
+0498.495 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_terms.table.gz (12/46): adding to final database dump
+0498.550 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_agm_maps.table.gz (13/46): adding to final database dump
+0498.621 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_activity.table.gz (14/46): adding to final database dump
+0498.702 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_activity_meta.table.gz (15/46): adding to final database dump
+0498.727 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_follow.table.gz (16/46): adding to final database dump
+0498.780 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_friends.table.gz (17/46): adding to final database dump
+0498.842 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups.table.gz (18/46): adding to final database dump
+0498.900 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_calendars.table.gz (19/46): adding to final database dump
+0498.954 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_groupmeta.table.gz (20/46): adding to final database dump
+0499.013 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_groups_members.table.gz (21/46): adding to final database dump
+0499.068 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_messages.table.gz (22/46): adding to final database dump
+0499.146 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_meta.table.gz (23/46): adding to final database dump
+0499.168 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_notices.table.gz (24/46): adding to final database dump
+0499.219 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_messages_recipients.table.gz (25/46): adding to final database dump
+0499.281 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_notifications.table.gz (26/46): adding to final database dump
+0499.339 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_notifications_meta.table.gz (27/46): adding to final database dump
+0499.384 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_team_follow.table.gz (28/46): adding to final database dump
+0499.445 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_user_blogs.table.gz (29/46): adding to final database dump
+0499.464 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_user_blogs_blogmeta.table.gz (30/46): adding to final database dump
+0499.520 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_data.table.gz (31/46): adding to final database dump
+0499.589 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_fields.table.gz (32/46): adding to final database dump
+0499.689 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_groups.table.gz (33/46): adding to final database dump
+0499.715 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_bp_xprofile_meta.table.gz (34/46): adding to final database dump
+0499.766 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_images.table.gz (35/46): adding to final database dump
+0499.824 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_packages.table.gz (36/46): adding to final database dump
+0499.876 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_cptch_whitelist.table.gz (37/46): adding to final database dump
+0499.939 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_eab_booking_meta.table.gz (38/46): adding to final database dump
+0499.991 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_eab_bookings.table.gz (39/46): adding to final database dump
+0500.045 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_post_views.table.gz (40/46): adding to final database dump
+0500.098 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_termmeta.table.gz (41/46): adding to final database dump
+0500.147 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_log.table.gz (42/46): adding to final database dump
+0500.203 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_message.table.gz (43/46): adding to final database dump
+0500.260 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wpmudev_chat_users.table.gz (44/46): adding to final database dump
+0500.314 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wsluserscontacts.table.gz (45/46): adding to final database dump
+0500.373 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db-table-wp_wslusersprofiles.table.gz (46/46): adding to final database dump
+0500.425 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz: finished writing out complete database file (176 Kb)
+0500.613 (0) Total database tables backed up: 46 (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz, size: 192939, checksum (SHA1): 54468dde00132a9f3d2d00286fe614d2c2645392)
+0500.721 (0) Saving backup history
+0500.880 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0500.938 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0500.985 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0501.007 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip: others: This file has not yet been successfully uploaded: will queue
+0501.055 (0) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz: db: This file has not yet been successfully uploaded: will queue
+0501.164 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0501.273 (0) Cloud backup selection (1/1): dropbox (last)
+0501.323 (0) Beginning dispatch of backup to remote (dropbox)
+0501.380 (0) Dropbox: begin cloud upload
+0501.433 (0) Dropbox: access gained
+0506.517 (0) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+0506.530 (0) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip) size is 35654.955078125 b (overall file size; 35654.955078125 b), whereas available quota is only -5733845 b
+0506.544 (0) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip
+0516.612 (0) Dropbox chunked upload: 2.9 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 1048576)
+0523.975 (0) Dropbox chunked upload: 5.7 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 2097152)
+0532.731 (0) Dropbox chunked upload: 8.6 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 3145728)
+0540.778 (0) Dropbox chunked upload: 11.5 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 4194304)
+0548.187 (0) Dropbox chunked upload: 14.4 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 5242880)
+0555.400 (0) Dropbox chunked upload: 17.2 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 6291456)
+0565.815 (0) The scheduled resumption is within 45 seconds - will reschedule
+0565.918 (0) Rescheduling resumption 1: moving to 645 seconds from now (1471430486)
+0566.085 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 600 + 45 = 645
+0566.135 (0) Dropbox chunked upload: 20.1 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 7340032)
+0574.864 (0) Dropbox chunked upload: 23 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 8388608)
+0583.122 (0) Dropbox chunked upload: 25.8 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 9437184)
+0590.817 (0) Dropbox chunked upload: 28.7 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 10485760)
+0598.278 (0) Dropbox chunked upload: 31.6 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 11534336)
+0606.861 (0) Dropbox chunked upload: 34.5 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 12582912)
+0614.520 (0) Dropbox chunked upload: 37.3 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 13631488)
+0621.871 (0) The time we have been running (621.7) is approaching the resumption interval (645) - increasing resumption interval to 652
+0621.986 (0) Dropbox chunked upload: 40.2 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 14680064)
+0630.443 (0) The time we have been running (630.3) is approaching the resumption interval (652) - increasing resumption interval to 661
+0630.540 (0) Dropbox chunked upload: 43.1 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 15728640)
+0642.659 (0) The time we have been running (642.5) is approaching the resumption interval (661) - increasing resumption interval to 673
+0642.734 (0) Dropbox chunked upload: 46 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 16777216)
+0652.442 (0) The time we have been running (652.3) is approaching the resumption interval (673) - increasing resumption interval to 683
+0652.557 (0) Dropbox chunked upload: 48.8 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 17825792)
+0660.181 (0) The time we have been running (660) is approaching the resumption interval (683) - increasing resumption interval to 691
+0660.290 (0) Dropbox chunked upload: 51.7 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 18874368)
+0673.258 (0) The time we have been running (673.1) is approaching the resumption interval (691) - increasing resumption interval to 704
+0673.367 (0) Dropbox chunked upload: 54.6 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 19922944)
+0681.957 (0) The time we have been running (681.8) is approaching the resumption interval (704) - increasing resumption interval to 712
+0682.040 (0) Dropbox chunked upload: 57.4 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 20971520)
+0689.639 (0) The time we have been running (689.5) is approaching the resumption interval (712) - increasing resumption interval to 720
+0689.759 (0) Dropbox chunked upload: 60.3 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 22020096)
+0700.496 (0) The time we have been running (700.3) is approaching the resumption interval (720) - increasing resumption interval to 731
+0700.568 (0) Dropbox chunked upload: 63.2 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 23068672)
+0708.806 (0) The time we have been running (708.6) is approaching the resumption interval (731) - increasing resumption interval to 739
+0708.931 (0) Dropbox chunked upload: 66.1 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 24117248)
+0717.748 (0) The time we have been running (717.7) is approaching the resumption interval (739) - increasing resumption interval to 748
+0717.854 (0) Dropbox chunked upload: 68.9 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 25165824)
+0727.965 (0) The time we have been running (727.8) is approaching the resumption interval (748) - increasing resumption interval to 758
+0728.079 (0) Dropbox chunked upload: 71.8 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 26214400)
+0735.463 (0) The time we have been running (735.3) is approaching the resumption interval (758) - increasing resumption interval to 766
+0735.505 (0) Dropbox chunked upload: 74.7 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 27262976)
+0743.254 (0) The time we have been running (743.1) is approaching the resumption interval (766) - increasing resumption interval to 774
+0743.379 (0) Dropbox chunked upload: 77.5 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 28311552)
+0751.761 (0) The time we have been running (751.6) is approaching the resumption interval (774) - increasing resumption interval to 782
+0751.879 (0) Dropbox chunked upload: 80.4 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 29360128)
+0759.111 (0) The time we have been running (758.9) is approaching the resumption interval (782) - increasing resumption interval to 789
+0759.228 (0) Dropbox chunked upload: 83.3 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 30408704)
+0767.529 (0) The time we have been running (767.3) is approaching the resumption interval (789) - increasing resumption interval to 798
+0767.660 (0) Dropbox chunked upload: 86.2 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 31457280)
+0775.785 (0) The time we have been running (775.7) is approaching the resumption interval (798) - increasing resumption interval to 806
+0775.904 (0) Dropbox chunked upload: 89 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 32505856)
+0784.276 (0) The time we have been running (784.1) is approaching the resumption interval (806) - increasing resumption interval to 815
+0784.376 (0) Dropbox chunked upload: 91.9 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 33554432)
+0791.819 (0) The time we have been running (791.7) is approaching the resumption interval (815) - increasing resumption interval to 822
+0791.887 (0) Dropbox chunked upload: 94.8 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 34603008)
+0799.394 (0) The time we have been running (799.2) is approaching the resumption interval (822) - increasing resumption interval to 830
+0799.495 (0) Dropbox chunked upload: 97.6 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 35651584)
+0806.521 (0) The time we have been running (806.4) is approaching the resumption interval (830) - increasing resumption interval to 837
+0806.627 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAGKvJKKZxSvUVcg, 36510674)
+0810.241 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0810.253 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0811.781 (0) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+0811.794 (0) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip) size is 7830.478515625 b (overall file size; 7830.478515625 b), whereas available quota is only -5733845 b
+0811.851 (0) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip
+0819.194 (0) The time we have been running (819) is approaching the resumption interval (837) - increasing resumption interval to 850
+0819.297 (0) Dropbox chunked upload: 13.1 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 1048576)
+0827.543 (0) The time we have been running (827.4) is approaching the resumption interval (850) - increasing resumption interval to 858
+0827.627 (0) Dropbox chunked upload: 26.2 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 2097152)
+0844.554 (0) The time we have been running (844.5) is approaching the resumption interval (858) - increasing resumption interval to 875
+0844.649 (0) Dropbox chunked upload: 39.2 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 3145728)
+0853.367 (0) The time we have been running (853.2) is approaching the resumption interval (875) - increasing resumption interval to 884
+0853.476 (0) Dropbox chunked upload: 52.3 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 4194304)
+0866.958 (0) The time we have been running (866.9) is approaching the resumption interval (884) - increasing resumption interval to 897
+0867.067 (0) Dropbox chunked upload: 65.4 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 5242880)
+0874.580 (0) The time we have been running (874.5) is approaching the resumption interval (897) - increasing resumption interval to 905
+0874.609 (0) Dropbox chunked upload: 78.5 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 6291456)
+0883.474 (0) The time we have been running (883.3) is approaching the resumption interval (905) - increasing resumption interval to 914
+0883.591 (0) Dropbox chunked upload: 91.5 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 7340032)
+0893.272 (0) The time we have been running (893.1) is approaching the resumption interval (914) - increasing resumption interval to 924
+0893.390 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAGKxdZ3EI3SYMcg, 8018410)
+0897.399 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0897.411 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0901.462 (0) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+0901.480 (0) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip) size is 8722.822265625 b (overall file size; 8722.822265625 b), whereas available quota is only -5733845 b
+0901.523 (0) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip
+0909.205 (0) The time we have been running (909.1) is approaching the resumption interval (924) - increasing resumption interval to 940
+0909.322 (0) Dropbox chunked upload: 11.7 % uploaded (AAAAAAAAGK02ul8F_TawMw, 1048576)
+0916.829 (0) The time we have been running (916.7) is approaching the resumption interval (940) - increasing resumption interval to 947
+0916.947 (0) Dropbox chunked upload: 23.5 % uploaded (AAAAAAAAGK02ul8F_TawMw, 2097152)
+0924.580 (0) The time we have been running (924.4) is approaching the resumption interval (947) - increasing resumption interval to 955
+0924.671 (0) Dropbox chunked upload: 35.2 % uploaded (AAAAAAAAGK02ul8F_TawMw, 3145728)
+0934.079 (0) The time we have been running (933.9) is approaching the resumption interval (955) - increasing resumption interval to 964
+0934.162 (0) Dropbox chunked upload: 47 % uploaded (AAAAAAAAGK02ul8F_TawMw, 4194304)
+0941.380 (0) The time we have been running (941.2) is approaching the resumption interval (964) - increasing resumption interval to 972
+0941.488 (0) Dropbox chunked upload: 58.7 % uploaded (AAAAAAAAGK02ul8F_TawMw, 5242880)
+0948.922 (0) The time we have been running (948.8) is approaching the resumption interval (972) - increasing resumption interval to 979
+0949.047 (0) Dropbox chunked upload: 70.4 % uploaded (AAAAAAAAGK02ul8F_TawMw, 6291456)
+0956.528 (0) The time we have been running (956.5) is approaching the resumption interval (979) - increasing resumption interval to 987
+0956.645 (0) Dropbox chunked upload: 82.2 % uploaded (AAAAAAAAGK02ul8F_TawMw, 7340032)
+0964.882 (0) The time we have been running (964.8) is approaching the resumption interval (987) - increasing resumption interval to 995
+0965.011 (0) Dropbox chunked upload: 93.9 % uploaded (AAAAAAAAGK02ul8F_TawMw, 8388608)
+0970.327 (0) The time we have been running (970.2) is approaching the resumption interval (995) - increasing resumption interval to 1001
+0970.446 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAGK02ul8F_TawMw, 8932170)
+0972.776 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0972.798 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0974.400 (0) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+0974.422 (0) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip) size is 39.97265625 b (overall file size; 39.97265625 b), whereas available quota is only -5733845 b
+0974.471 (0) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip
+0977.662 (0) The time we have been running (977.5) is approaching the resumption interval (1001) - increasing resumption interval to 1008
+0977.786 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAGK4NkVh5_OM0Kg, 40932)
+0979.956 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0979.976 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0981.542 (0) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+0981.565 (0) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz) size is 188.4169921875 b (overall file size; 188.4169921875 b), whereas available quota is only -5733845 b
+0981.629 (0) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz
+0985.104 (0) The time we have been running (984.9) is approaching the resumption interval (1008) - increasing resumption interval to 1015
+0985.219 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAGK-COQb9ZsVxXw, 192939)
+0987.428 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0987.448 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0987.554 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0987.624 (0) Number of backup sets in history: 6
+0987.684 (0) Examining backup set with datestamp: 1471429275 (Aug 17 2016 10:21:15)
+0987.740 (0) 1471429275: this backup set remains non-empty (1/1); will retain in history
+0987.760 (0) Examining backup set with datestamp: 1471356378 (Aug 16 2016 14:06:18)
+0987.872 (0) 1471356378: this backup set remains non-empty (1/1); will retain in history
+0987.889 (0) Examining backup set with datestamp: 1471264325 (Aug 15 2016 12:32:05)
+0987.952 (0) 1471264325: this backup set remains non-empty (1/1); will retain in history
+0988.012 (0) Examining backup set with datestamp: 1471071987 (Aug 13 2016 07:06:27)
+0988.071 (0) 1471071987: this backup set remains non-empty (1/1); will retain in history
+0988.127 (0) Examining backup set with datestamp: 1470985263 (Aug 12 2016 07:01:03)
+0988.187 (0) 1470985263: this backup set remains non-empty (1/1); will retain in history
+0988.245 (0) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+0988.263 (0) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+0988.327 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0988.447 (0) Resume backup (ca06182af8ad, 0): finish run
+0988.577 (0) Decremented the semaphore (fd) by 1
+0988.669 (0) Semaphore (fd) unlocked
+0988.719 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0988.814 (0) The backup has not finished; a resumption is scheduled
+3015.187 (1) Opened log file at time: Wed, 17 Aug 2016 11:11:30 +0000 on http://localhost/kinectem
+3015.195 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.2M | 9.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+3015.248 (1) Free space on disk containing Updraft's temporary directory: 6985.1 Mb
+3015.316 (1) Backup run: resumption=1, nonce=ca06182af8ad, begun at=1471429275 (3015s ago), job type=backup, previous check-in=984.9s
+3015.365 (1) Long time past since expected resumption time: approx expected=1471431275.8, now=1471432290.5, diff=1014.7
+3015.401 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+3015.417 (1) Scheduling a resumption (2) after 1015 seconds (1471433305) in case this run gets aborted
+3015.442 (1) Checking if we have a zip executable available
+3015.491 (1) Creation of backups of directories: already finished
+3015.542 (1) Saving backup status to database (elements: 8)
+3015.651 (1) Database dump (WordPress DB): Creation was completed already
+3015.660 (1) Saving backup history
+3015.696 (1) backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3015.704 (1) backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3015.712 (1) backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3015.722 (1) backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip: others: This file has not yet been successfully uploaded: will queue
+3015.775 (1) backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz: db: This file has not yet been successfully uploaded: will queue
+3015.875 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+3015.976 (1) Cloud backup selection (1/1): dropbox (last)
+3015.986 (1) Beginning dispatch of backup to remote (dropbox)
+3015.995 (1) Dropbox: begin cloud upload
+3016.006 (1) Dropbox: access gained
+3021.040 (1) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+3021.055 (1) This is a resumption: 36510674 bytes had already been uploaded
+3021.092 (1) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-plugins.zip
+3027.420 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+3027.433 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+3027.477 (1) An error condition has occurred for the first time during this job
+3028.996 (1) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+3029.017 (1) This is a resumption: 8018410 bytes had already been uploaded
+3029.084 (1) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-themes.zip
+3031.129 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+3031.147 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+3032.673 (1) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+3032.693 (1) This is a resumption: 8932170 bytes had already been uploaded
+3032.740 (1) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-uploads.zip
+3035.527 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+3035.548 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+3037.334 (1) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+3037.356 (1) This is a resumption: 40932 bytes had already been uploaded
+3037.424 (1) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -5733845 b
+3037.485 (1) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-others.zip
+3039.572 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+3039.637 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+3041.331 (1) Dropbox quota usage: normal=14827 Mb, shared=410.5 Mb, total=15232 Mb, available=-5.5 Mb
+3041.342 (1) This is a resumption: 192939 bytes had already been uploaded
+3041.383 (1) File upload expected to fail: file data remaining to upload (backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz) size is -192750.58300781 b (overall file size; 188.4169921875 b), whereas available quota is only -5733845 b
+3041.450 (1) Dropbox: Attempt to upload: backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz to: backup_2016-08-17-0621_Kinectem_ca06182af8ad-db.gz
+3043.409 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+3043.423 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+3043.541 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+3043.603 (1) Number of backup sets in history: 6
+3043.672 (1) Examining backup set with datestamp: 1471429275 (Aug 17 2016 10:21:15)
+3043.743 (1) 1471429275: this backup set remains non-empty (1/1); will retain in history
+3043.801 (1) Examining backup set with datestamp: 1471356378 (Aug 16 2016 14:06:18)
+3043.867 (1) 1471356378: this backup set remains non-empty (1/1); will retain in history
+3043.925 (1) Examining backup set with datestamp: 1471264325 (Aug 15 2016 12:32:05)
+3044.001 (1) 1471264325: this backup set remains non-empty (1/1); will retain in history
+3044.059 (1) Examining backup set with datestamp: 1471071987 (Aug 13 2016 07:06:27)
+3044.126 (1) 1471071987: this backup set remains non-empty (1/1); will retain in history
+3044.144 (1) Examining backup set with datestamp: 1470985263 (Aug 12 2016 07:01:03)
+3044.199 (1) 1470985263: this backup set remains non-empty (1/1); will retain in history
+3044.256 (1) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+3044.314 (1) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+3044.373 (1) Retain: saving new backup history (sets now: 6) and finishing retain operation
+3044.500 (1) Resume backup (ca06182af8ad, 1): finish run
+3044.625 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3044.728 (1) The backup has not finished; a resumption is scheduled
+173008.752 (2) Opened log file at time: Fri, 19 Aug 2016 10:24:44 +0000 on http://localhost/kinectem
+173008.772 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.5M | 9.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+173008.840 (2) Free space on disk containing Updraft's temporary directory: 6924.7 Mb
+173008.888 (2) This backup task is either complete or began over 2 days ago: ending (1471602284.0459, 1471429275)

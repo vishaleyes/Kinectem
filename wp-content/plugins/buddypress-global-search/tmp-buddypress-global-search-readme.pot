@@ -1,0 +1,270 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "BuddyPress Global Search"
+msgstr ""
+
+#. Short description.
+msgid "BuddyPress Global Search allows for a global, unified search of all BuddyPress components, with a live dropdown as you type."
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>Dropdown</strong> - live dropdown showing results from all BuddyPress components"
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>Admin</strong> - set which components should be searchable"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Let your members search through every BuddyPress component, along with pages and posts and custom post types of your choice, all in one unified search bar with a live dropdown of results."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Just activate the plugin, and every WordPress search input will instantly search your entire BuddyPress site, returning the results in a native tabbed interface right on your default Search Results template, automatically styled by BuddyPress to fit with your theme."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "BuddyPress Global Search is built by the experienced developers at BuddyBoss who also offer premium <a href=\"http://www.buddyboss.com/themes/\" title=\"BuddyPress themes from BuddyBoss\">BuddyPress themes</a> and <a href=\"http://www.buddyboss.com/plugins/\" title=\"BuddyPress plugins from BuddyBoss\">plugins</a> to build your social network."
+msgstr ""
+
+#. Found in installation header.
+msgid "From your WordPress dashboard"
+msgstr ""
+
+#. Found in installation header.
+msgid "From WordPress.org"
+msgstr ""
+
+#. Found in installation header.
+msgid "Configuration"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Visit 'Plugins &gt; Add New'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for 'BuddyPress Global Search'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate BuddyPress Global Search from your Plugins page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download BuddyPress Global Search."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the 'buddypress-global-search' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, etc...)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Visit 'Settings &gt; BP Global Search' and select which components should be searchable."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Adjust the CSS of your theme as needed, to make everything pretty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter to search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made individual search queries filterable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Message Compose Autocomplete conflict"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed CSS conflicts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed plugin conflict with Invite Anyone"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed plugin conflict with Form Maker"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Advanced Custom Fields (ACF) plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added topic title to forum search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added patch for XSS Vulnerability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CSS fixes for Ajax search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed warning messages with latest BuddyPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added French translations - credits to Jean-Pierre Michaud"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Brazilian Portuguese translations - credits to Filipi Zimermann"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Member search by xProfile fields (username, email, etc.)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Properly handle hidden groups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove dependency on BP activity component"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Italian translations - credits to Massimiliano Napoli"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Another Wordpress Classifieds Plugin (AWPCP)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multisite compatibility, no longer requires network activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added links to Group titles in dropdown"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed page Shortcodes displaying in dropdown"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed unformatted \"Nothing Found\" dropdown in WP Toolbar search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed dropdown hovering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Persian translation files - credits to Mahdiar Amani"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to disable AutoSuggest search dropdown"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Formatting adjustments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow search to work if site is loaded in iframe"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Forum search results now displaying in dropdown"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Swedish translations - credits to Anton Andreasson"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added German translations - credits to Marianne Taubl"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated readme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial public release"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed WP-Updates, now updating via WP-Repo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed empty <a> tag from autosuggest dropdown items</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made pagination links dynamic, instead of page refresh"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial beta version"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I find documentation and tutorials?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does this plugin require BuddyPress?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will it work with my theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I code a search input into my theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does it come with a language translation file?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I request customizations?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For help setting up and configuring any BuddyBoss plugin please refer to our <a href=\"http://www.buddyboss.com/tutorials/\">tutorials</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, it requires <a href=\"https://wordpress.org/plugins/buddypress/\">BuddyPress</a> to work."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, BuddyPress Global Search should work with any theme, and will adopt your BuddyPress styling for search results. It may require some styling to make it match perfectly, depending on your theme."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "BuddyPress Global Search displays results in the default WordPress search inputs, meaning you can use the standard methods for <a href=\"http://codex.wordpress.org/Function_Reference/get_search_form\">adding a search into your theme</a>. Usually, this will work: <code>&lt;?php get_search_form( $echo ); ?&gt;</code>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, as well as translations for English, German, and Swedish"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For BuddyPress customizations, submit your request at <a href=\"http://www.buddyboss.com/buddypress-developers/\">BuddyBoss</a>."
+msgstr ""

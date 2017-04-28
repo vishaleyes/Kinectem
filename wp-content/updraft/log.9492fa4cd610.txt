@@ -1,0 +1,8 @@
+0000.001 (1) Opened log file at time: Wed, 24 Aug 2016 08:10:32 +0000 on http://localhost/kinectem
+0000.047 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.4M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.083 (1) Free space on disk containing Updraft's temporary directory: 6885.5 Mb
+0000.111 (1) This backup task is either complete or began over 2 days ago: ending (1472026232.5091, )
+0000.001 (1) Opened log file at time: Wed, 24 Aug 2016 08:17:10 +0000 on http://localhost/kinectem
+0000.053 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.12 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.4M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.248 (1) Free space on disk containing Updraft's temporary directory: 6868.4 Mb
+0000.387 (1) This backup task is either complete or began over 2 days ago: ending (1472026630.3494, )

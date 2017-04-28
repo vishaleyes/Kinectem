@@ -1,0 +1,140 @@
+@import '../fonts/font-awesome/css/font-awesome.min.css';
+
+/*--------------------------------------------------------------
+Visual Composer Element Icons
+--------------------------------------------------------------*/
+
+i.vc_element-icon[class*='gp-icon-'] {
+background-image: none;
+color: #666;
+font-size: 28px;
+line-height: 1;
+font-style: normal;
+font-weight: normal;
+}
+i.vc_element-icon[class*='gp-icon-']:before {
+font-family: 'FontAwesome';
+-webkit-font-smoothing: antialiased;
+}
+.gp-icon-activity:before {
+content: '\f086';
+}
+.gp-icon-advertisement:before {
+content: '\f26c';
+}
+.gp-icon-blog:before {
+content: '\f009';
+}
+.gp-icon-bp-groups:before {
+content: '\f0c0';
+}
+.gp-icon-bp-members:before {
+content: '\f007';
+}
+.gp-icon-bp-friends:before {
+content: '\f234';
+}
+.gp-icon-bbp-search:before {
+content: '\f002';
+}
+.gp-icon-bbp-forums-list:before {
+content: '\f075';
+}
+.gp-icon-bbp-recent-replies:before {
+content: '\f075';
+}
+.gp-icon-bbp-recent-topics:before {
+content: '\f075';
+}
+.gp-icon-carousel:before {
+content: '\f07e';
+}
+.gp-icon-events-list:before {
+content: '\f133';
+}
+.gp-icon-login:before {
+content: '\f023';
+}
+.gp-icon-portfolio:before {
+content: '\f00a';
+}
+.gp-icon-pricing-table:before {
+content: '\f0ce';
+}
+.gp-icon-team:before {
+content: '\f0c0';
+}
+.gp-icon-testimonial-slider:before {
+content: '\f10d';
+}
+.gp-icon-slider:before {
+content: '\f022';
+}
+.gp-icon-showcase:before {
+content: '\f145';
+}
+.gp-icon-social:before {
+content: '\f1e0';
+}
+.gp-icon-statistics:before,
+.gp-icon-bbp-statistics:before {
+content: '\f1fe';
+}
+
+/*--------------------------------------------------------------
+Visual Composer Color Picker Option
+--------------------------------------------------------------*/
+
+.wpb_edit_form_elements .wp-color-picker {
+width: 80px !important;
+height: 24px;
+}
+.wpb_edit_form_elements .wp-picker-clear {
+padding-bottom: 0;
+height: 24px;
+}
+
+/*--------------------------------------------------------------
+Visual Composer Other
+--------------------------------------------------------------*/
+
+/* VC fix to constrain Text widgets to container width */
+.wpb_vc_wp_text.wpb_content_element.wpb_vc_wp_widget img {
+max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+Visual Composer Icon Selection Option
+--------------------------------------------------------------*/
+
+.gp-icon-link {
+display: block;
+float: left;
+margin: 0 2px 2px 0;
+padding: 5px 2px;
+width: 23px;
+border: 1px solid #eee;
+background: #f8f8f8 !important;
+color: #000 !important;
+text-align: center;
+}
+.gp-icon-link.gp-selected {
+border: 1px solid #d54e21;
+color: #d54e21 !important;
+}
+
+/*--------------------------------------------------------------
+Theme Options
+--------------------------------------------------------------*/
+
+.gp-new-option {
+padding: 1px 5px !important;
+color: #C09853 !important;
+background: #FCF8E3 !important;
+display: inline !important;
+font-weight: bold !important;
+border: 1px solid #E7E7E7 !important;
+border-radius: 3px !important;
+font-size: 12px !important;
+text-transform: uppercase !important;
+}

@@ -1,0 +1,1129 @@
+0000.003 (0) Opened log file at time: Wed, 07 Dec 2016 12:53:50 +0000 on http://localhost/kinectem
+0000.059 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.2M | 10.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.110 (0) Free space on disk containing Updraft's temporary directory: 3310.6 Mb
+0000.191 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.241 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.292 (0) Requesting semaphore lock (fd)
+0000.432 (0) Set semaphore last lock (fd) time to 2016-12-07 12:53:51
+0000.541 (0) Semaphore lock (fd) complete
+0000.758 (0) Backup run: resumption=0, nonce=ad2d5375f931, begun at=1481115230 (1s ago), job type=backup
+0000.827 (0) Scheduling a resumption (1) after 600 seconds (1481115831) in case this run gets aborted
+0000.929 (0) Checking if we have a zip executable available
+0000.983 (0) Creation of backups of directories: beginning
+0001.109 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0038.103 (0) Total entities for the zip file: 1131 directories, 8202 files (0 skipped as non-modified), 97.5 Mb
+0038.142 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0038.489 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 100 files added (on-disk size: 187.1 Kb)
+0038.731 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 200 files added (on-disk size: 187.1 Kb)
+0038.995 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 300 files added (on-disk size: 187.1 Kb)
+0039.293 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 400 files added (on-disk size: 187.1 Kb)
+0039.974 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 500 files added (on-disk size: 187.1 Kb)
+0040.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 Mb, 8202 files batched, 501 (502) added so far); re-opening (prior size: 187.1 Kb)
+0043.854 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 600 files added (on-disk size: 1634.1 Kb)
+0044.696 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 700 files added (on-disk size: 1634.1 Kb)
+0045.329 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 Mb, 260 (762) files added so far); re-opening (prior size: 1634.1 Kb)
+0047.616 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 800 files added (on-disk size: 3003 Kb)
+0048.364 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 900 files added (on-disk size: 3003 Kb)
+0049.309 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1000 files added (on-disk size: 3003 Kb)
+0049.329 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 Mb, 239 (1001) files added so far); re-opening (prior size: 3003 Kb)
+0051.629 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1100 files added (on-disk size: 3660.8 Kb)
+0052.497 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1200 files added (on-disk size: 3660.8 Kb)
+0053.329 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1300 files added (on-disk size: 3660.8 Kb)
+0053.351 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 Mb, 300 (1301) files added so far); re-opening (prior size: 3660.8 Kb)
+0055.836 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1400 files added (on-disk size: 4946.5 Kb)
+0056.565 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1500 files added (on-disk size: 4946.5 Kb)
+0057.300 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1600 files added (on-disk size: 4946.5 Kb)
+0057.333 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 Mb, 303 (1604) files added so far); re-opening (prior size: 4946.5 Kb)
+0059.521 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1700 files added (on-disk size: 6045.7 Kb)
+0060.287 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1800 files added (on-disk size: 6045.7 Kb)
+0061.010 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 1900 files added (on-disk size: 6045.7 Kb)
+0061.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 Mb, 338 (1942) files added so far); re-opening (prior size: 6045.7 Kb)
+0064.835 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2000 files added (on-disk size: 8686.9 Kb)
+0065.591 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2100 files added (on-disk size: 8686.9 Kb)
+0066.272 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2200 files added (on-disk size: 8686.9 Kb)
+0067.222 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2300 files added (on-disk size: 8686.9 Kb)
+0067.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 Mb, 368 (2310) files added so far); re-opening (prior size: 8686.9 Kb)
+0070.838 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2400 files added (on-disk size: 10290.2 Kb)
+0071.962 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2500 files added (on-disk size: 10290.2 Kb)
+0072.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 Mb, 225 (2535) files added so far); re-opening (prior size: 10290.2 Kb)
+0074.119 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2600 files added (on-disk size: 10538.6 Kb)
+0075.280 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2700 files added (on-disk size: 10538.6 Kb)
+0076.333 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 Mb, 250 (2785) files added so far); re-opening (prior size: 10538.6 Kb)
+0078.815 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2800 files added (on-disk size: 11646.8 Kb)
+0079.739 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 2900 files added (on-disk size: 11646.8 Kb)
+0080.593 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3000 files added (on-disk size: 11646.8 Kb)
+0081.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 Mb, 290 (3075) files added so far); re-opening (prior size: 11646.8 Kb)
+0083.329 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3100 files added (on-disk size: 12188.3 Kb)
+0084.320 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3200 files added (on-disk size: 12188.3 Kb)
+0085.195 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3300 files added (on-disk size: 12188.3 Kb)
+0085.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 Mb, 237 (3312) files added so far); re-opening (prior size: 12188.3 Kb)
+0088.092 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3400 files added (on-disk size: 12926.8 Kb)
+0088.943 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3500 files added (on-disk size: 12926.8 Kb)
+0089.834 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3600 files added (on-disk size: 12926.8 Kb)
+0090.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 Mb, 344 (3656) files added so far); re-opening (prior size: 12926.8 Kb)
+0093.458 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3700 files added (on-disk size: 14639.9 Kb)
+0094.281 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3800 files added (on-disk size: 14639.9 Kb)
+0095.063 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 3900 files added (on-disk size: 14639.9 Kb)
+0095.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.7 Mb, 274 (3930) files added so far); re-opening (prior size: 14639.9 Kb)
+0098.916 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4000 files added (on-disk size: 16337.9 Kb)
+0099.462 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4100 files added (on-disk size: 16337.9 Kb)
+0100.044 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4200 files added (on-disk size: 16337.9 Kb)
+0101.000 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4300 files added (on-disk size: 16337.9 Kb)
+0101.344 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.1 Mb, 403 (4333) files added so far); re-opening (prior size: 16337.9 Kb)
+0108.133 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4400 files added (on-disk size: 18942.3 Kb)
+0109.106 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4500 files added (on-disk size: 18942.3 Kb)
+0110.138 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4600 files added (on-disk size: 18942.3 Kb)
+0110.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 Mb, 276 (4609) files added so far); re-opening (prior size: 18942.3 Kb)
+0113.638 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4700 files added (on-disk size: 20080.1 Kb)
+0114.644 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4800 files added (on-disk size: 20080.1 Kb)
+0115.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 Mb, 280 (4889) files added so far); re-opening (prior size: 20080.1 Kb)
+0118.545 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 4900 files added (on-disk size: 21801.2 Kb)
+0119.393 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5000 files added (on-disk size: 21801.2 Kb)
+0120.112 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5100 files added (on-disk size: 21801.2 Kb)
+0121.185 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5200 files added (on-disk size: 21801.2 Kb)
+0121.335 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.8 Mb, 319 (5208) files added so far); re-opening (prior size: 21801.2 Kb)
+0129.740 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5300 files added (on-disk size: 25773 Kb)
+0130.174 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5400 files added (on-disk size: 25773 Kb)
+0130.578 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5500 files added (on-disk size: 25773 Kb)
+0131.084 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5600 files added (on-disk size: 25773 Kb)
+0131.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 Mb, 431 (5639) files added so far); re-opening (prior size: 25773 Kb)
+0133.779 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5700 files added (on-disk size: 26367.3 Kb)
+0134.133 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5800 files added (on-disk size: 26367.3 Kb)
+0134.586 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 5900 files added (on-disk size: 26367.3 Kb)
+0135.227 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6000 files added (on-disk size: 26367.3 Kb)
+0135.657 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6100 files added (on-disk size: 26367.3 Kb)
+0135.912 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 Mb, 8202 files batched, 501 (6140) added so far); re-opening (prior size: 26367.3 Kb)
+0138.698 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6200 files added (on-disk size: 27983.3 Kb)
+0139.147 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6300 files added (on-disk size: 27983.3 Kb)
+0139.739 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6400 files added (on-disk size: 27983.3 Kb)
+0140.361 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6500 files added (on-disk size: 27983.3 Kb)
+0140.834 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6600 files added (on-disk size: 27983.3 Kb)
+0141.053 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 Mb, 8202 files batched, 501 (6641) added so far); re-opening (prior size: 27983.3 Kb)
+0145.291 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6700 files added (on-disk size: 32226.4 Kb)
+0145.749 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6800 files added (on-disk size: 32226.4 Kb)
+0146.511 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 6900 files added (on-disk size: 32226.4 Kb)
+0147.304 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7000 files added (on-disk size: 32226.4 Kb)
+0147.335 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 Mb, 363 (7004) files added so far); re-opening (prior size: 32226.4 Kb)
+0151.258 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7100 files added (on-disk size: 33695.5 Kb)
+0152.100 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7200 files added (on-disk size: 33695.5 Kb)
+0152.953 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7300 files added (on-disk size: 33695.5 Kb)
+0153.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 Mb, 378 (7382) files added so far); re-opening (prior size: 33695.5 Kb)
+0155.458 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7400 files added (on-disk size: 34501.8 Kb)
+0155.970 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7500 files added (on-disk size: 34501.8 Kb)
+0156.457 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7600 files added (on-disk size: 34501.8 Kb)
+0157.316 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7700 files added (on-disk size: 34501.8 Kb)
+0158.332 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7800 files added (on-disk size: 34501.8 Kb)
+0158.393 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 Mb, 419 (7801) files added so far); re-opening (prior size: 34501.8 Kb)
+0161.510 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 7900 files added (on-disk size: 35453.8 Kb)
+0162.888 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 8000 files added (on-disk size: 35453.8 Kb)
+0163.346 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 Mb, 231 (8032) files added so far); re-opening (prior size: 35453.8 Kb)
+0166.131 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 8100 files added (on-disk size: 35600.6 Kb)
+0167.336 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 Mb, 160 (8192) files added so far); re-opening (prior size: 35600.6 Kb)
+0168.545 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip.tmp: 8200 files added (on-disk size: 35683.9 Kb)
+0169.922 (0) Created plugins zip (0) - 35697.3 Kb in 168.6 s (211.7 Kb/s) (SHA1 checksum: a4bf549ca38c7090ddad3026aca4608691e72f40)
+0170.025 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0181.990 (0) Total entities for the zip file: 256 directories, 1166 files (0 skipped as non-modified), 25.8 Mb
+0182.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0182.927 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 100 files added (on-disk size: 41.1 Kb)
+0183.685 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 200 files added (on-disk size: 41.1 Kb)
+0184.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 Mb, 293 (294) files added so far); re-opening (prior size: 41.1 Kb)
+0187.512 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 300 files added (on-disk size: 3452.8 Kb)
+0188.112 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 400 files added (on-disk size: 3452.8 Kb)
+0189.009 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 500 files added (on-disk size: 3452.8 Kb)
+0190.222 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 600 files added (on-disk size: 3452.8 Kb)
+0190.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.6 Mb, 311 (605) files added so far); re-opening (prior size: 3452.8 Kb)
+0197.521 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 700 files added (on-disk size: 11244.9 Kb)
+0198.702 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 800 files added (on-disk size: 11244.9 Kb)
+0199.332 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 Mb, 255 (860) files added so far); re-opening (prior size: 11244.9 Kb)
+0201.179 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 900 files added (on-disk size: 11712.8 Kb)
+0202.042 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 1000 files added (on-disk size: 11712.8 Kb)
+0202.720 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip.tmp: 1100 files added (on-disk size: 11712.8 Kb)
+0205.758 (0) Created themes zip (0) - 13633.6 Kb in 35.6 s (382.7 Kb/s) (SHA1 checksum: 11ff73bfea59a185793e2102e222522b7a7afef8)
+0205.873 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0205.934 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content/uploads
+0205.956 (0) finding files: .DS_Store: adding to list (1)
+0205.970 (0) finding files: 2015: adding to list (2)
+0206.030 (0) finding files: 2016: adding to list (3)
+0206.040 (0) finding files: avatars: adding to list (4)
+0206.048 (0) finding files: bpfb: adding to list (5)
+0206.105 (0) finding files: buddypress: adding to list (6)
+0206.164 (0) finding files: bws_captcha_images: adding to list (7)
+0206.232 (0) finding files: group-avatars: adding to list (8)
+0206.289 (0) finding files: js_composer: adding to list (9)
+0206.415 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0212.131 (0) Total entities for the zip file: 162 directories, 310 files (0 skipped as non-modified), 11 Mb
+0212.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0213.010 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip.tmp: 100 files added (on-disk size: 21.7 Kb)
+0213.619 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip.tmp: 200 files added (on-disk size: 21.7 Kb)
+0214.179 (0) Zip: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip.tmp: 300 files added (on-disk size: 21.7 Kb)
+0223.056 (0) Created uploads zip (0) - 10545.7 Kb in 16.5 s (638.5 Kb/s) (SHA1 checksum: 700be17dd6308ec059b1a217b20647ecc11d7a12)
+0223.180 (0) Beginning backup of other directories found in the content directory (index: 0)
+0223.237 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0223.304 (0) Looking for candidates to back up in: E:\wamp\www\kinectem/wp-content
+0223.422 (0) finding files: .DS_Store: adding to list (1)
+0223.438 (0) finding files: index.php: adding to list (2)
+0223.506 (0) finding files: languages: adding to list (3)
+0223.563 (0) finding files: plugins: skipping: this is the plugins directory
+0223.614 (0) finding files: themes: skipping: this is the themes directory
+0223.638 (0) finding files: updraft: skipping: this is the updraft directory
+0223.705 (0) finding files: upgrade: skipping: excluded by options
+0223.763 (0) finding files: uploads: skipping: this is the uploads directory
+0223.887 (0) Total entities for the zip file: 2 directories, 4 files (0 skipped as non-modified), 0.2 Mb
+0224.174 (0) Created others zip (0) - 40 Kb in 0.3 s (121 Kb/s) (SHA1 checksum: bb66b57c445bf49a9d8fb22b6774c0ac37829510)
+0224.412 (0) Saving backup status to database (elements: 8)
+0224.537 (0) Beginning creation of database dump (WordPress DB)
+0224.691 (0) Table wp_options: Total expected rows (approximate): 3779
+0225.049 (0) Table wp_options: Total rows added: 557 in 0.31 seconds
+0225.061 (0) Table wp_options: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_options.table.gz - 251.5 Kb)
+0225.195 (0) Table wp_users: Total expected rows (approximate): 50
+0225.270 (0) Table wp_users: Total rows added: 50 in 0.02 seconds
+0225.318 (0) Table wp_users: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_users.table.gz - 3.3 Kb)
+0225.600 (0) Table wp_usermeta: Total expected rows (approximate): 776
+0225.738 (0) Table wp_usermeta: Total rows added: 787 in 0.09 seconds
+0225.750 (0) Table wp_usermeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_usermeta.table.gz - 10.6 Kb)
+0225.908 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0225.971 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0226.024 (0) Table wp_commentmeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0226.166 (0) Table wp_comments: Total expected rows (approximate): 12
+0226.203 (0) Table wp_comments: Total rows added: 12 in 0.01 seconds
+0226.258 (0) Table wp_comments: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_comments.table.gz - 1.2 Kb)
+0226.461 (0) Table wp_links: Total expected rows (approximate): 0
+0226.520 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0226.564 (0) Table wp_links: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_links.table.gz - 0.4 Kb)
+0226.724 (0) Table wp_postmeta: Total expected rows (approximate): 1339
+0226.866 (0) Table wp_postmeta: Total rows added: 1339 in 0.11 seconds
+0226.879 (0) Table wp_postmeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_postmeta.table.gz - 13 Kb)
+0226.994 (0) Table wp_posts: Total expected rows (approximate): 159
+0227.121 (0) Table wp_posts: Total rows added: 159 in 0.07 seconds
+0227.134 (0) Table wp_posts: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_posts.table.gz - 10.7 Kb)
+0227.283 (0) Table wp_signups: Total expected rows (approximate): 19
+0227.394 (0) Table wp_signups: Total rows added: 21 in 0.01 seconds
+0227.434 (0) Table wp_signups: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_signups.table.gz - 2.7 Kb)
+0227.573 (0) Table wp_term_relationships: Total expected rows (approximate): 53
+0227.640 (0) Table wp_term_relationships: Total rows added: 53 in 0.01 seconds
+0227.689 (0) Table wp_term_relationships: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_term_relationships.table.gz - 0.5 Kb)
+0227.798 (0) Table wp_term_taxonomy: Total expected rows (approximate): 21
+0227.859 (0) Table wp_term_taxonomy: Total rows added: 21 in 0.01 seconds
+0227.898 (0) Table wp_term_taxonomy: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_term_taxonomy.table.gz - 0.8 Kb)
+0228.015 (0) Table wp_terms: Total expected rows (approximate): 21
+0228.047 (0) Table wp_terms: Total rows added: 21 in 0.01 seconds
+0228.100 (0) Table wp_terms: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_terms.table.gz - 0.7 Kb)
+0228.223 (0) Table wp_agm_maps: Total expected rows (approximate): 42
+0228.269 (0) Table wp_agm_maps: Total rows added: 42 in 0.01 seconds
+0228.337 (0) Table wp_agm_maps: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_agm_maps.table.gz - 2.1 Kb)
+0228.534 (0) Table wp_bp_activity: Total expected rows (approximate): 290
+0228.618 (0) Table wp_bp_activity: Total rows added: 291 in 0.08 seconds
+0228.630 (0) Table wp_bp_activity: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_activity.table.gz - 10.7 Kb)
+0228.792 (0) Table wp_bp_activity_meta: Total expected rows (approximate): 60
+0228.857 (0) Table wp_bp_activity_meta: Total rows added: 72 in 0.01 seconds
+0228.900 (0) Table wp_bp_activity_meta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_activity_meta.table.gz - 0.8 Kb)
+0229.032 (0) Table wp_bp_follow: Total expected rows (approximate): 0
+0229.080 (0) Table wp_bp_follow: Total rows added: 1 in 0.01 seconds
+0229.106 (0) Table wp_bp_follow: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_follow.table.gz - 0.3 Kb)
+0229.238 (0) Table wp_bp_friends: Total expected rows (approximate): 48
+0229.301 (0) Table wp_bp_friends: Total rows added: 53 in 0.01 seconds
+0229.398 (0) Table wp_bp_friends: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_friends.table.gz - 0.9 Kb)
+0229.524 (0) Table wp_bp_groups: Total expected rows (approximate): 45
+0229.591 (0) Table wp_bp_groups: Total rows added: 45 in 0.02 seconds
+0229.602 (0) Table wp_bp_groups: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups.table.gz - 1.7 Kb)
+0229.679 (0) Table wp_bp_groups_calendars: Total expected rows (approximate): 5
+0229.739 (0) Table wp_bp_groups_calendars: Total rows added: 5 in 0.01 seconds
+0229.783 (0) Table wp_bp_groups_calendars: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_calendars.table.gz - 0.7 Kb)
+0229.900 (0) Table wp_bp_groups_groupmeta: Total expected rows (approximate): 121
+0229.952 (0) Table wp_bp_groups_groupmeta: Total rows added: 160 in 0.02 seconds
+0229.991 (0) Table wp_bp_groups_groupmeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_groupmeta.table.gz - 1.8 Kb)
+0230.088 (0) Table wp_bp_groups_members: Total expected rows (approximate): 70
+0230.120 (0) Table wp_bp_groups_members: Total rows added: 83 in 0.02 seconds
+0230.160 (0) Table wp_bp_groups_members: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_members.table.gz - 1.6 Kb)
+0230.316 (0) Table wp_bp_messages_messages: Total expected rows (approximate): 31
+0230.404 (0) Table wp_bp_messages_messages: Total rows added: 43 in 0.01 seconds
+0230.444 (0) Table wp_bp_messages_messages: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_messages.table.gz - 1.5 Kb)
+0230.600 (0) Table wp_bp_messages_meta: Total expected rows (approximate): 5
+0230.632 (0) Table wp_bp_messages_meta: Total rows added: 6 in 0.01 seconds
+0230.682 (0) Table wp_bp_messages_meta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_meta.table.gz - 0.5 Kb)
+0230.828 (0) Table wp_bp_messages_notices: Total expected rows (approximate): 3
+0230.887 (0) Table wp_bp_messages_notices: Total rows added: 3 in 0.01 seconds
+0230.933 (0) Table wp_bp_messages_notices: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_notices.table.gz - 0.5 Kb)
+0231.024 (0) Table wp_bp_messages_recipients: Total expected rows (approximate): 75
+0231.084 (0) Table wp_bp_messages_recipients: Total rows added: 75 in 0.01 seconds
+0231.107 (0) Table wp_bp_messages_recipients: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_recipients.table.gz - 0.8 Kb)
+0231.250 (0) Table wp_bp_notifications: Total expected rows (approximate): 132
+0231.281 (0) Table wp_bp_notifications: Total rows added: 132 in 0.02 seconds
+0231.370 (0) Table wp_bp_notifications: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_notifications.table.gz - 2.2 Kb)
+0231.543 (0) Table wp_bp_notifications_meta: Total expected rows (approximate): 0
+0231.597 (0) Table wp_bp_notifications_meta: Total rows added: 0 in 0.00 seconds
+0231.652 (0) Table wp_bp_notifications_meta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_notifications_meta.table.gz - 0.3 Kb)
+0231.810 (0) Table wp_bp_team_follow: Total expected rows (approximate): 41
+0231.867 (0) Table wp_bp_team_follow: Total rows added: 41 in 0.01 seconds
+0231.918 (0) Table wp_bp_team_follow: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_team_follow.table.gz - 0.5 Kb)
+0232.036 (0) Table wp_bp_user_blogs: Total expected rows (approximate): 0
+0232.081 (0) Table wp_bp_user_blogs: Total rows added: 1 in 0.01 seconds
+0232.127 (0) Table wp_bp_user_blogs: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_user_blogs.table.gz - 0.3 Kb)
+0232.291 (0) Table wp_bp_user_blogs_blogmeta: Total expected rows (approximate): 7
+0232.403 (0) Table wp_bp_user_blogs_blogmeta: Total rows added: 7 in 0.01 seconds
+0232.460 (0) Table wp_bp_user_blogs_blogmeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_user_blogs_blogmeta.table.gz - 0.5 Kb)
+0232.578 (0) Table wp_bp_xprofile_data: Total expected rows (approximate): 114
+0232.647 (0) Table wp_bp_xprofile_data: Total rows added: 123 in 0.01 seconds
+0232.686 (0) Table wp_bp_xprofile_data: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_data.table.gz - 2.2 Kb)
+0232.844 (0) Table wp_bp_xprofile_fields: Total expected rows (approximate): 47
+0232.910 (0) Table wp_bp_xprofile_fields: Total rows added: 47 in 0.01 seconds
+0232.960 (0) Table wp_bp_xprofile_fields: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_fields.table.gz - 1.2 Kb)
+0233.125 (0) Table wp_bp_xprofile_groups: Total expected rows (approximate): 2
+0233.179 (0) Table wp_bp_xprofile_groups: Total rows added: 2 in 0.01 seconds
+0233.233 (0) Table wp_bp_xprofile_groups: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_groups.table.gz - 0.4 Kb)
+0233.411 (0) Table wp_bp_xprofile_meta: Total expected rows (approximate): 42
+0233.475 (0) Table wp_bp_xprofile_meta: Total rows added: 42 in 0.01 seconds
+0233.517 (0) Table wp_bp_xprofile_meta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_meta.table.gz - 0.7 Kb)
+0233.663 (0) Table wp_cptch_images: Total expected rows (approximate): 0
+0233.697 (0) Table wp_cptch_images: Total rows added: 0 in 0.01 seconds
+0233.711 (0) Table wp_cptch_images: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_images.table.gz - 0.3 Kb)
+0233.815 (0) Table wp_cptch_packages: Total expected rows (approximate): 12
+0233.842 (0) Table wp_cptch_packages: Total rows added: 12 in 0.01 seconds
+0233.894 (0) Table wp_cptch_packages: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_packages.table.gz - 0.5 Kb)
+0234.052 (0) Table wp_cptch_whitelist: Total expected rows (approximate): 0
+0234.110 (0) Table wp_cptch_whitelist: Total rows added: 0 in 0.00 seconds
+0234.169 (0) Table wp_cptch_whitelist: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_whitelist.table.gz - 0.3 Kb)
+0234.296 (0) Table wp_eab_booking_meta: Total expected rows (approximate): 0
+0234.407 (0) Table wp_eab_booking_meta: Total rows added: 0 in 0.01 seconds
+0234.458 (0) Table wp_eab_booking_meta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_eab_booking_meta.table.gz - 0.3 Kb)
+0234.619 (0) Table wp_eab_bookings: Total expected rows (approximate): 22
+0234.681 (0) Table wp_eab_bookings: Total rows added: 22 in 0.01 seconds
+0234.726 (0) Table wp_eab_bookings: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_eab_bookings.table.gz - 0.7 Kb)
+0234.874 (0) Table wp_post_views: Total expected rows (approximate): 7
+0234.935 (0) Table wp_post_views: Total rows added: 7 in 0.01 seconds
+0234.984 (0) Table wp_post_views: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_post_views.table.gz - 0.4 Kb)
+0235.181 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0235.249 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0235.294 (0) Table wp_termmeta: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0235.661 (0) Table wp_wpmudev_chat_log: Total expected rows (approximate): 0
+0235.723 (0) Table wp_wpmudev_chat_log: Total rows added: 1 in 0.01 seconds
+0235.767 (0) Table wp_wpmudev_chat_log: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_log.table.gz - 0.5 Kb)
+0235.911 (0) Table wp_wpmudev_chat_message: Total expected rows (approximate): 2
+0235.968 (0) Table wp_wpmudev_chat_message: Total rows added: 2 in 0.01 seconds
+0236.028 (0) Table wp_wpmudev_chat_message: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_message.table.gz - 0.8 Kb)
+0236.176 (0) Table wp_wpmudev_chat_users: Total expected rows (approximate): 0
+0236.241 (0) Table wp_wpmudev_chat_users: Total rows added: 1 in 0.01 seconds
+0236.298 (0) Table wp_wpmudev_chat_users: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_users.table.gz - 0.6 Kb)
+0236.418 (0) Table wp_wsluserscontacts: Total expected rows (approximate): 0
+0236.435 (0) Table wp_wsluserscontacts: Total rows added: 0 in 0.01 seconds
+0236.446 (0) Table wp_wsluserscontacts: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wsluserscontacts.table.gz - 0.3 Kb)
+0236.481 (0) Table wp_wslusersprofiles: Total expected rows (approximate): 0
+0236.504 (0) Table wp_wslusersprofiles: Total rows added: 0 in 0.01 seconds
+0236.537 (0) Table wp_wslusersprofiles: finishing file (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wslusersprofiles.table.gz - 0.5 Kb)
+0236.617 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_options.table.gz (1/46): adding to final database dump
+0236.908 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_users.table.gz (2/46): adding to final database dump
+0236.920 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_usermeta.table.gz (3/46): adding to final database dump
+0236.943 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_commentmeta.table.gz (4/46): adding to final database dump
+0237.006 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_comments.table.gz (5/46): adding to final database dump
+0237.063 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_links.table.gz (6/46): adding to final database dump
+0237.120 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_postmeta.table.gz (7/46): adding to final database dump
+0237.203 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_posts.table.gz (8/46): adding to final database dump
+0237.247 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_signups.table.gz (9/46): adding to final database dump
+0237.296 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_term_relationships.table.gz (10/46): adding to final database dump
+0237.413 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_term_taxonomy.table.gz (11/46): adding to final database dump
+0237.470 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_terms.table.gz (12/46): adding to final database dump
+0237.528 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_agm_maps.table.gz (13/46): adding to final database dump
+0237.591 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_activity.table.gz (14/46): adding to final database dump
+0237.658 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_activity_meta.table.gz (15/46): adding to final database dump
+0237.703 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_follow.table.gz (16/46): adding to final database dump
+0237.761 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_friends.table.gz (17/46): adding to final database dump
+0237.823 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups.table.gz (18/46): adding to final database dump
+0237.888 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_calendars.table.gz (19/46): adding to final database dump
+0237.944 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_groupmeta.table.gz (20/46): adding to final database dump
+0238.006 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_groups_members.table.gz (21/46): adding to final database dump
+0238.063 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_messages.table.gz (22/46): adding to final database dump
+0238.122 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_meta.table.gz (23/46): adding to final database dump
+0238.181 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_notices.table.gz (24/46): adding to final database dump
+0238.244 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_messages_recipients.table.gz (25/46): adding to final database dump
+0238.255 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_notifications.table.gz (26/46): adding to final database dump
+0238.322 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_notifications_meta.table.gz (27/46): adding to final database dump
+0238.441 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_team_follow.table.gz (28/46): adding to final database dump
+0238.495 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_user_blogs.table.gz (29/46): adding to final database dump
+0238.553 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_user_blogs_blogmeta.table.gz (30/46): adding to final database dump
+0238.575 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_data.table.gz (31/46): adding to final database dump
+0238.629 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_fields.table.gz (32/46): adding to final database dump
+0238.681 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_groups.table.gz (33/46): adding to final database dump
+0238.744 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_bp_xprofile_meta.table.gz (34/46): adding to final database dump
+0238.806 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_images.table.gz (35/46): adding to final database dump
+0238.869 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_packages.table.gz (36/46): adding to final database dump
+0238.929 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_cptch_whitelist.table.gz (37/46): adding to final database dump
+0238.944 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_eab_booking_meta.table.gz (38/46): adding to final database dump
+0239.000 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_eab_bookings.table.gz (39/46): adding to final database dump
+0239.053 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_post_views.table.gz (40/46): adding to final database dump
+0239.120 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_termmeta.table.gz (41/46): adding to final database dump
+0239.179 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_log.table.gz (42/46): adding to final database dump
+0239.237 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_message.table.gz (43/46): adding to final database dump
+0239.303 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wpmudev_chat_users.table.gz (44/46): adding to final database dump
+0239.428 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wsluserscontacts.table.gz (45/46): adding to final database dump
+0239.487 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db-table-wp_wslusersprofiles.table.gz (46/46): adding to final database dump
+0239.554 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: finished writing out complete database file (288 Kb)
+0239.773 (0) Total database tables backed up: 46 (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz, size: 329687, checksum (SHA1): 5b95e39d40682e5b8f26d8d471025e4edd2e3bea)
+0239.885 (0) Saving backup history
+0240.044 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0240.086 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0240.147 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0240.202 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+0240.261 (0) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+0240.334 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0240.505 (0) Cloud backup selection (1/1): dropbox (last)
+0240.571 (0) Beginning dispatch of backup to remote (dropbox)
+0240.583 (0) Dropbox: begin cloud upload
+0240.596 (0) Dropbox: access gained
+0242.129 (0) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+0242.183 (0) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is 35697.2890625 b (overall file size; 35697.2890625 b), whereas available quota is only -52370022 b
+0242.202 (0) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+0248.210 (0) Dropbox chunked upload: 2.9 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 1048576)
+0255.492 (0) Dropbox chunked upload: 5.7 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 2097152)
+0261.594 (0) Dropbox chunked upload: 8.6 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 3145728)
+0268.252 (0) Dropbox chunked upload: 11.5 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 4194304)
+0274.177 (0) Dropbox chunked upload: 14.3 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 5242880)
+0280.293 (0) Dropbox chunked upload: 17.2 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 6291456)
+0286.260 (0) Dropbox chunked upload: 20.1 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 7340032)
+0292.672 (0) Dropbox chunked upload: 22.9 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 8388608)
+0298.596 (0) Dropbox chunked upload: 25.8 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 9437184)
+0304.442 (0) Dropbox chunked upload: 28.7 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 10485760)
+0312.691 (0) Dropbox chunked upload: 31.6 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 11534336)
+0319.445 (0) Dropbox chunked upload: 34.4 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 12582912)
+0325.107 (0) Dropbox chunked upload: 37.3 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 13631488)
+0330.963 (0) Dropbox chunked upload: 40.2 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 14680064)
+0336.865 (0) Dropbox chunked upload: 43 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 15728640)
+0343.424 (0) Dropbox chunked upload: 45.9 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 16777216)
+0349.037 (0) Dropbox chunked upload: 48.8 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 17825792)
+0354.855 (0) Dropbox chunked upload: 51.6 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 18874368)
+0360.839 (0) Dropbox chunked upload: 54.5 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 19922944)
+0367.854 (0) Dropbox chunked upload: 57.4 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 20971520)
+0375.094 (0) Dropbox chunked upload: 60.2 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 22020096)
+0381.056 (0) Dropbox chunked upload: 63.1 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 23068672)
+0387.369 (0) Dropbox chunked upload: 66 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 24117248)
+0394.044 (0) Dropbox chunked upload: 68.8 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 25165824)
+0399.766 (0) Dropbox chunked upload: 71.7 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 26214400)
+0406.535 (0) Dropbox chunked upload: 74.6 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 27262976)
+0412.435 (0) Dropbox chunked upload: 77.5 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 28311552)
+0419.193 (0) Dropbox chunked upload: 80.3 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 29360128)
+0424.993 (0) Dropbox chunked upload: 83.2 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 30408704)
+0431.134 (0) Dropbox chunked upload: 86.1 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 31457280)
+0437.192 (0) Dropbox chunked upload: 88.9 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 32505856)
+0443.820 (0) Dropbox chunked upload: 91.8 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 33554432)
+0449.691 (0) Dropbox chunked upload: 94.7 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 34603008)
+0455.561 (0) Dropbox chunked upload: 97.5 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 35651584)
+0461.224 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAHS-E0hQ1qlPytg, 36554024)
+0463.924 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0463.946 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0465.472 (0) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+0465.508 (0) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is 13633.596679688 b (overall file size; 13633.596679688 b), whereas available quota is only -52370022 b
+0465.534 (0) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+0471.278 (0) Dropbox chunked upload: 7.5 % uploaded (AAAAAAAAHTD484QO-W3mfA, 1048576)
+0477.498 (0) Dropbox chunked upload: 15 % uploaded (AAAAAAAAHTD484QO-W3mfA, 2097152)
+0483.776 (0) Dropbox chunked upload: 22.5 % uploaded (AAAAAAAAHTD484QO-W3mfA, 3145728)
+0490.444 (0) Dropbox chunked upload: 30 % uploaded (AAAAAAAAHTD484QO-W3mfA, 4194304)
+0496.607 (0) Dropbox chunked upload: 37.6 % uploaded (AAAAAAAAHTD484QO-W3mfA, 5242880)
+0502.888 (0) Dropbox chunked upload: 45.1 % uploaded (AAAAAAAAHTD484QO-W3mfA, 6291456)
+0508.996 (0) Dropbox chunked upload: 52.6 % uploaded (AAAAAAAAHTD484QO-W3mfA, 7340032)
+0515.673 (0) Dropbox chunked upload: 60.1 % uploaded (AAAAAAAAHTD484QO-W3mfA, 8388608)
+0521.492 (0) Dropbox chunked upload: 67.6 % uploaded (AAAAAAAAHTD484QO-W3mfA, 9437184)
+0527.679 (0) Dropbox chunked upload: 75.1 % uploaded (AAAAAAAAHTD484QO-W3mfA, 10485760)
+0533.885 (0) Dropbox chunked upload: 82.6 % uploaded (AAAAAAAAHTD484QO-W3mfA, 11534336)
+0540.503 (0) Dropbox chunked upload: 90.1 % uploaded (AAAAAAAAHTD484QO-W3mfA, 12582912)
+0546.725 (0) Dropbox chunked upload: 97.6 % uploaded (AAAAAAAAHTD484QO-W3mfA, 13631488)
+0550.054 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAHTD484QO-W3mfA, 13960803)
+0552.470 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0552.524 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0555.125 (0) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+0555.185 (0) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is 10545.711914062 b (overall file size; 10545.711914062 b), whereas available quota is only -52370022 b
+0555.241 (0) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+0560.977 (0) The scheduled resumption is within 45 seconds - will reschedule
+0561.063 (0) Rescheduling resumption 1: moving to 645 seconds from now (1481116436)
+0561.242 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 600 + 45 = 645
+0561.302 (0) Dropbox chunked upload: 9.7 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 1048576)
+0568.024 (0) Dropbox chunked upload: 19.4 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 2097152)
+0577.252 (0) Dropbox chunked upload: 29.1 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 3145728)
+0583.949 (0) Dropbox chunked upload: 38.8 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 4194304)
+0589.894 (0) Dropbox chunked upload: 48.6 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 5242880)
+0595.937 (0) Dropbox chunked upload: 58.3 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 6291456)
+0601.884 (0) Dropbox chunked upload: 68 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 7340032)
+0608.172 (0) Dropbox chunked upload: 77.7 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 8388608)
+0615.351 (0) The time we have been running (615.2) is approaching the resumption interval (645) - increasing resumption interval to 646
+0615.565 (0) Dropbox chunked upload: 87.4 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 9437184)
+0622.176 (0) The time we have been running (622.1) is approaching the resumption interval (646) - increasing resumption interval to 653
+0622.264 (0) Dropbox chunked upload: 97.1 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 10485760)
+0626.126 (0) The time we have been running (626) is approaching the resumption interval (653) - increasing resumption interval to 656
+0626.213 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAHTG6-LMGLmMHIQ, 10798809)
+0628.770 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0628.789 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0630.372 (0) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+0630.391 (0) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is 39.97265625 b (overall file size; 39.97265625 b), whereas available quota is only -52370022 b
+0630.401 (0) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+0632.256 (0) The time we have been running (632.2) is approaching the resumption interval (656) - increasing resumption interval to 663
+0632.321 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAHTJOpHTv1unX6g, 40932)
+0634.248 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0634.270 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0635.795 (0) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+0635.825 (0) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is 321.9599609375 b (overall file size; 321.9599609375 b), whereas available quota is only -52370022 b
+0635.845 (0) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+0639.092 (0) The time we have been running (639) is approaching the resumption interval (663) - increasing resumption interval to 669
+0639.190 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAHTNdtDFjGRy1LQ, 329687)
+0642.443 (0) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0642.461 (0) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+0642.534 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0642.564 (0) Number of backup sets in history: 7
+0642.614 (0) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+0642.663 (0) 1481115230: this backup set remains non-empty (1/1); will retain in history
+0642.712 (0) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+0642.762 (0) 1481021132: this backup set remains non-empty (1/1); will retain in history
+0642.812 (0) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+0642.862 (0) 1480943143: this backup set remains non-empty (1/1); will retain in history
+0642.912 (0) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+0642.962 (0) 1480662472: this backup set remains non-empty (1/1); will retain in history
+0643.012 (0) Examining backup set with datestamp: 1480404767 (Nov 29 2016 07:32:47)
+0643.021 (0) 1480404767: this backup set remains non-empty (1/1); will retain in history
+0643.066 (0) Examining backup set with datestamp: 1480328299 (Nov 28 2016 10:18:19)
+0643.113 (0) 1480328299: db: this set includes a database (backup_2016-11-28-0518_Kinectem_927f861dc60f-db.gz); db count is now 6
+0643.158 (0) 1480328299: db: over retain limit (5); will delete this database
+0643.200 (0) Delete file: backup_2016-11-28-0518_Kinectem_927f861dc60f-db.gz, service=dropbox
+0643.238 (0) Deleting local copy (backup_2016-11-28-0518_Kinectem_927f861dc60f-db.gz)
+0643.291 (0) Dropbox: request deletion: backup_2016-11-28-0518_Kinectem_927f861dc60f-db.gz
+0644.952 (0) Dropbox error: Path '/backup_2016-11-28-0518_kinectem_927f861dc60f-db.gz' not found (line: 171, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0645.170 (0) The time we have been running (645) is approaching the resumption interval (669) - increasing resumption interval to 676
+0645.271 (0) plugins: 1480328299: over retain limit (5); will delete this file (backup_2016-11-28-0518_Kinectem_927f861dc60f-plugins.zip)
+0645.321 (0) themes: 1480328299: over retain limit (5); will delete this file (backup_2016-11-28-0518_Kinectem_927f861dc60f-themes.zip)
+0645.388 (0) uploads: 1480328299: over retain limit (5); will delete this file (backup_2016-11-28-0518_Kinectem_927f861dc60f-uploads.zip)
+0645.437 (0) others: 1480328299: over retain limit (5); will delete this file (backup_2016-11-28-0518_Kinectem_927f861dc60f-others.zip)
+0645.552 (0) Delete file: backup_2016-11-28-0518_Kinectem_927f861dc60f-plugins.zip, service=dropbox
+0645.564 (0) Deleting local copy (backup_2016-11-28-0518_Kinectem_927f861dc60f-plugins.zip)
+0645.608 (0) Delete file: backup_2016-11-28-0518_Kinectem_927f861dc60f-themes.zip, service=dropbox
+0645.653 (0) Deleting local copy (backup_2016-11-28-0518_Kinectem_927f861dc60f-themes.zip)
+0645.700 (0) Delete file: backup_2016-11-28-0518_Kinectem_927f861dc60f-uploads.zip, service=dropbox
+0645.749 (0) Deleting local copy (backup_2016-11-28-0518_Kinectem_927f861dc60f-uploads.zip)
+0645.796 (0) Delete file: backup_2016-11-28-0518_Kinectem_927f861dc60f-others.zip, service=dropbox
+0645.848 (0) Deleting local copy (backup_2016-11-28-0518_Kinectem_927f861dc60f-others.zip)
+0645.898 (0) Dropbox: request deletion: backup_2016-11-28-0518_Kinectem_927f861dc60f-plugins.zip
+0647.508 (0) Dropbox error: Path '/backup_2016-11-28-0518_kinectem_927f861dc60f-plugins.zip' not found (line: 171, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0647.692 (0) The time we have been running (647.5) is approaching the resumption interval (676) - increasing resumption interval to 678
+0647.783 (0) 1480328299: this backup set is now empty; will remove from history
+0647.828 (0) 1480328299: deleting log file (log.927f861dc60f.txt)
+0647.880 (0) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+0647.917 (0) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+0647.963 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0648.117 (0) Resume backup (ad2d5375f931, 0): finish run
+0648.224 (0) Decremented the semaphore (fd) by 1
+0648.318 (0) Semaphore (fd) unlocked
+0648.422 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0648.455 (0) The backup has not finished; a resumption is scheduled
+1764.611 (1) Opened log file at time: Wed, 07 Dec 2016 13:23:15 +0000 on http://localhost/kinectem
+1764.649 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.7M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1764.699 (1) Free space on disk containing Updraft's temporary directory: 3310.6 Mb
+1764.769 (1) Backup run: resumption=1, nonce=ad2d5375f931, begun at=1481115230 (1765s ago), job type=backup, previous check-in=647.5s
+1764.872 (1) Scheduling a resumption (2) after 678 seconds (1481117673) in case this run gets aborted
+1765.013 (1) Checking if we have a zip executable available
+1765.032 (1) Creation of backups of directories: already finished
+1765.072 (1) Saving backup status to database (elements: 8)
+1765.177 (1) Database dump (WordPress DB): Creation was completed already
+1765.236 (1) Saving backup history
+1765.462 (1) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1765.514 (1) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1765.629 (1) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1765.639 (1) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+1765.648 (1) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+1765.725 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+1765.805 (1) Cloud backup selection (1/1): dropbox (last)
+1765.861 (1) Beginning dispatch of backup to remote (dropbox)
+1765.911 (1) Dropbox: begin cloud upload
+1765.972 (1) Dropbox: access gained
+1767.526 (1) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+1767.578 (1) This is a resumption: 36554024 bytes had already been uploaded
+1767.624 (1) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -52370022 b
+1767.643 (1) An error condition has occurred for the first time during this job
+1767.697 (1) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+1769.537 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+1769.552 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+1771.059 (1) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+1771.111 (1) This is a resumption: 13960803 bytes had already been uploaded
+1771.123 (1) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -52370022 b
+1771.177 (1) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+1772.845 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+1772.861 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+1774.370 (1) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+1774.415 (1) This is a resumption: 10798809 bytes had already been uploaded
+1774.469 (1) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -52370022 b
+1774.523 (1) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+1776.145 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+1776.218 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+1777.807 (1) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+1777.824 (1) This is a resumption: 40932 bytes had already been uploaded
+1777.834 (1) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -52370022 b
+1777.871 (1) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+1779.509 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+1779.525 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+1780.996 (1) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+1781.049 (1) This is a resumption: 329687 bytes had already been uploaded
+1781.059 (1) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -52370022 b
+1781.114 (1) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+1782.761 (1) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+1782.815 (1) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+1782.881 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+1782.893 (1) Number of backup sets in history: 6
+1782.952 (1) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+1783.001 (1) 1481115230: this backup set remains non-empty (1/1); will retain in history
+1783.054 (1) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+1783.110 (1) 1481021132: this backup set remains non-empty (1/1); will retain in history
+1783.118 (1) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+1783.135 (1) 1480943143: this backup set remains non-empty (1/1); will retain in history
+1783.189 (1) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+1783.240 (1) 1480662472: this backup set remains non-empty (1/1); will retain in history
+1783.251 (1) Examining backup set with datestamp: 1480404767 (Nov 29 2016 07:32:47)
+1783.304 (1) 1480404767: this backup set remains non-empty (1/1); will retain in history
+1783.409 (1) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+1783.462 (1) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+1783.517 (1) Retain: saving new backup history (sets now: 6) and finishing retain operation
+1783.584 (1) Resume backup (ad2d5375f931, 1): finish run
+1783.691 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1783.793 (1) The backup has not finished; a resumption is scheduled
+2701.772 (2) Opened log file at time: Wed, 07 Dec 2016 13:38:52 +0000 on http://localhost/kinectem
+2701.781 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.7M | 10M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2701.867 (2) Free space on disk containing Updraft's temporary directory: 3310.6 Mb
+2701.946 (2) Backup run: resumption=2, nonce=ad2d5375f931, begun at=1481115230 (2702s ago), job type=backup
+2702.051 (2) Scheduling a resumption (3) after 678 seconds (1481118610) in case this run gets aborted
+2702.209 (2) Checking if we have a zip executable available
+2702.233 (2) Creation of backups of directories: already finished
+2702.384 (2) Saving backup status to database (elements: 8)
+2702.511 (2) Database dump (WordPress DB): Creation was completed already
+2702.568 (2) Saving backup history
+2702.758 (2) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2702.811 (2) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2702.861 (2) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2702.892 (2) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+2702.926 (2) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+2703.034 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+2703.135 (2) Cloud backup selection (1/1): dropbox (last)
+2703.482 (2) Beginning dispatch of backup to remote (dropbox)
+2703.495 (2) Dropbox: begin cloud upload
+2704.727 (2) Dropbox: access gained
+2707.725 (2) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+2707.736 (2) This is a resumption: 36554024 bytes had already been uploaded
+2707.743 (2) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -52370022 b
+2707.748 (2) An error condition has occurred for the first time during this job
+2707.756 (2) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+2709.362 (2) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+2709.389 (2) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+2710.983 (2) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+2711.056 (2) This is a resumption: 13960803 bytes had already been uploaded
+2711.113 (2) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -52370022 b
+2711.170 (2) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+2712.862 (2) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+2712.912 (2) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+2715.611 (2) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+2715.660 (2) This is a resumption: 10798809 bytes had already been uploaded
+2715.716 (2) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -52370022 b
+2715.767 (2) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+2717.536 (2) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+2717.595 (2) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+2719.178 (2) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+2719.239 (2) This is a resumption: 40932 bytes had already been uploaded
+2719.295 (2) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -52370022 b
+2719.361 (2) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+2720.944 (2) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+2720.995 (2) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+2722.487 (2) Dropbox quota usage: normal=15383.4 Mb, shared=410.5 Mb, total=15744 Mb, available=-49.9 Mb
+2722.535 (2) This is a resumption: 329687 bytes had already been uploaded
+2722.583 (2) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -52370022 b
+2722.641 (2) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+2724.307 (2) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+2724.369 (2) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+2724.545 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+2724.607 (2) Number of backup sets in history: 6
+2724.675 (2) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+2724.729 (2) 1481115230: this backup set remains non-empty (1/1); will retain in history
+2724.786 (2) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+2724.845 (2) 1481021132: this backup set remains non-empty (1/1); will retain in history
+2724.853 (2) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+2724.911 (2) 1480943143: this backup set remains non-empty (1/1); will retain in history
+2724.970 (2) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+2725.029 (2) 1480662472: this backup set remains non-empty (1/1); will retain in history
+2725.066 (2) Examining backup set with datestamp: 1480404767 (Nov 29 2016 07:32:47)
+2725.114 (2) 1480404767: this backup set remains non-empty (1/1); will retain in history
+2725.174 (2) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+2725.229 (2) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+2725.286 (2) Retain: saving new backup history (sets now: 6) and finishing retain operation
+2725.462 (2) Resume backup (ad2d5375f931, 2): finish run
+2725.523 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2725.638 (2) The backup has not finished; a resumption is scheduled
+75790.336 (3) Opened log file at time: Thu, 08 Dec 2016 09:57:01 +0000 on http://localhost/kinectem
+75790.434 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10M | 10.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+75790.524 (3) Free space on disk containing Updraft's temporary directory: 3289.7 Mb
+75790.596 (3) Backup run: resumption=3, nonce=ad2d5375f931, begun at=1481115230 (75791s ago), job type=backup
+75790.646 (3) Long time past since expected resumption time: approx expected=1481118610.4, now=1481191020.9, diff=72410.5
+75790.692 (3) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+75790.758 (3) Scheduling a resumption (4) after 678 seconds (1481191699) in case this run gets aborted
+75791.103 (3) Checking if we have a zip executable available
+75791.112 (3) Creation of backups of directories: already finished
+75791.196 (3) Saving backup status to database (elements: 8)
+75791.286 (3) Database dump (WordPress DB): Creation was completed already
+75791.344 (3) Saving backup history
+75791.534 (3) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+75791.580 (3) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+75791.630 (3) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+75791.680 (3) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+75791.723 (3) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+75791.826 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+75791.936 (3) Cloud backup selection (1/1): dropbox (last)
+75792.073 (3) Beginning dispatch of backup to remote (dropbox)
+75792.083 (3) Dropbox: begin cloud upload
+75792.264 (3) Dropbox: access gained
+75793.862 (3) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+75793.935 (3) This is a resumption: 36554024 bytes had already been uploaded
+75793.984 (3) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+75794.038 (3) An error condition has occurred for the first time during this job
+75794.052 (3) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+75795.962 (3) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+75795.986 (3) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+75797.691 (3) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+75797.743 (3) This is a resumption: 13960803 bytes had already been uploaded
+75797.801 (3) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+75797.851 (3) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+75799.496 (3) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+75799.554 (3) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+75801.061 (3) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+75801.081 (3) This is a resumption: 10798809 bytes had already been uploaded
+75801.093 (3) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+75801.105 (3) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+75802.691 (3) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+75802.762 (3) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+75804.340 (3) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+75804.421 (3) This is a resumption: 40932 bytes had already been uploaded
+75804.471 (3) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+75804.529 (3) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+75806.427 (3) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+75806.448 (3) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+75807.979 (3) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+75808.038 (3) This is a resumption: 329687 bytes had already been uploaded
+75808.095 (3) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+75808.145 (3) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+75809.680 (3) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+75809.724 (3) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+75809.791 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+75809.846 (3) Number of backup sets in history: 6
+75809.901 (3) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+75809.950 (3) 1481115230: this backup set remains non-empty (1/1); will retain in history
+75809.995 (3) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+75810.016 (3) 1481021132: this backup set remains non-empty (1/1); will retain in history
+75810.071 (3) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+75810.124 (3) 1480943143: this backup set remains non-empty (1/1); will retain in history
+75810.215 (3) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+75810.231 (3) 1480662472: this backup set remains non-empty (1/1); will retain in history
+75810.282 (3) Examining backup set with datestamp: 1480404767 (Nov 29 2016 07:32:47)
+75810.342 (3) 1480404767: this backup set remains non-empty (1/1); will retain in history
+75810.351 (3) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+75810.361 (3) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+75810.413 (3) Retain: saving new backup history (sets now: 6) and finishing retain operation
+75810.521 (3) Resume backup (ad2d5375f931, 3): finish run
+75810.579 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+75810.621 (3) The backup has not finished; a resumption is scheduled
+90903.935 (4) Opened log file at time: Thu, 08 Dec 2016 14:08:54 +0000 on http://localhost/kinectem
+90903.946 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+90904.001 (4) Free space on disk containing Updraft's temporary directory: 3304.4 Mb
+90904.100 (4) Backup run: resumption=4, nonce=ad2d5375f931, begun at=1481115230 (90904s ago), job type=backup
+90904.150 (4) Long time past since expected resumption time: approx expected=1481191698.9, now=1481206134.5, diff=14435.7
+90904.204 (4) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+90904.363 (4) Scheduling a resumption (5) after 678 seconds (1481206813) in case this run gets aborted
+90904.469 (4) Checking if we have a zip executable available
+90904.530 (4) Creation of backups of directories: already finished
+90904.594 (4) Saving backup status to database (elements: 8)
+90904.690 (4) Database dump (WordPress DB): Creation was completed already
+90904.744 (4) Saving backup history
+90904.904 (4) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+90904.961 (4) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+90905.021 (4) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+90905.080 (4) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+90905.124 (4) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+90905.227 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+90905.395 (4) Cloud backup selection (1/1): dropbox (last)
+90905.456 (4) Beginning dispatch of backup to remote (dropbox)
+90905.513 (4) Dropbox: begin cloud upload
+90905.537 (4) Dropbox: access gained
+90907.207 (4) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+90907.238 (4) This is a resumption: 36554024 bytes had already been uploaded
+90907.254 (4) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+90907.315 (4) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+90909.029 (4) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+90909.087 (4) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+90910.644 (4) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+90910.692 (4) This is a resumption: 13960803 bytes had already been uploaded
+90910.743 (4) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+90910.770 (4) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+90912.389 (4) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+90912.462 (4) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+90914.040 (4) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+90914.129 (4) This is a resumption: 10798809 bytes had already been uploaded
+90914.187 (4) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+90914.231 (4) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+90915.990 (4) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+90916.078 (4) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+90917.632 (4) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+90917.690 (4) This is a resumption: 40932 bytes had already been uploaded
+90917.748 (4) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+90917.817 (4) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+90919.629 (4) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+90919.674 (4) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+90921.209 (4) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+90921.226 (4) This is a resumption: 329687 bytes had already been uploaded
+90921.238 (4) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+90921.278 (4) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+90922.928 (4) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+90922.945 (4) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+90923.009 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+90923.065 (4) Number of backup sets in history: 6
+90923.119 (4) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+90923.167 (4) 1481191063: this backup set remains non-empty (1/1); will retain in history
+90923.218 (4) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+90923.278 (4) 1481115230: this backup set remains non-empty (1/1); will retain in history
+90923.344 (4) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+90923.355 (4) 1481021132: this backup set remains non-empty (1/1); will retain in history
+90923.408 (4) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+90923.461 (4) 1480943143: this backup set remains non-empty (1/1); will retain in history
+90923.484 (4) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+90923.545 (4) 1480662472: this backup set remains non-empty (1/1); will retain in history
+90923.603 (4) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+90923.633 (4) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+90923.688 (4) Retain: saving new backup history (sets now: 6) and finishing retain operation
+90923.798 (4) Resume backup (ad2d5375f931, 4): finish run
+90923.880 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+90923.968 (4) The backup has not finished; a resumption is scheduled
+144595.627 (5) Opened log file at time: Fri, 09 Dec 2016 05:03:46 +0000 on http://localhost/kinectem
+144595.659 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+144595.718 (5) Free space on disk containing Updraft's temporary directory: 3304.4 Mb
+144595.843 (5) Backup run: resumption=5, nonce=ad2d5375f931, begun at=1481115230 (144596s ago), job type=backup
+144595.960 (5) Scheduling a resumption (6) after 678 seconds (1481260504) in case this run gets aborted
+144596.036 (5) Checking if we have a zip executable available
+144596.093 (5) Creation of backups of directories: already finished
+144596.157 (5) Saving backup status to database (elements: 8)
+144596.178 (5) Database dump (WordPress DB): Creation was completed already
+144596.236 (5) Saving backup history
+144596.430 (5) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+144596.467 (5) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+144596.524 (5) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+144596.576 (5) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+144596.633 (5) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+144596.752 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+144596.823 (5) Cloud backup selection (1/1): dropbox (last)
+144596.886 (5) Beginning dispatch of backup to remote (dropbox)
+144596.931 (5) Dropbox: begin cloud upload
+144596.993 (5) Dropbox: access gained
+144598.474 (5) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+144598.519 (5) This is a resumption: 36554024 bytes had already been uploaded
+144598.539 (5) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+144598.590 (5) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+144600.366 (5) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+144600.426 (5) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+144602.003 (5) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+144602.020 (5) This is a resumption: 13960803 bytes had already been uploaded
+144602.028 (5) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+144602.038 (5) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+144604.189 (5) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+144604.239 (5) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+144605.790 (5) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+144605.869 (5) This is a resumption: 10798809 bytes had already been uploaded
+144605.925 (5) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+144605.964 (5) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+144607.527 (5) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+144607.602 (5) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+144609.086 (5) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+144609.143 (5) This is a resumption: 40932 bytes had already been uploaded
+144609.152 (5) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+144609.161 (5) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+144610.716 (5) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+144610.788 (5) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+144612.361 (5) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+144612.439 (5) This is a resumption: 329687 bytes had already been uploaded
+144612.500 (5) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+144612.566 (5) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+144614.565 (5) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+144614.581 (5) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+144614.643 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+144614.701 (5) Number of backup sets in history: 6
+144614.761 (5) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+144614.770 (5) 1481191063: this backup set remains non-empty (1/1); will retain in history
+144614.779 (5) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+144614.788 (5) 1481115230: this backup set remains non-empty (1/1); will retain in history
+144614.851 (5) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+144614.860 (5) 1481021132: this backup set remains non-empty (1/1); will retain in history
+144614.868 (5) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+144614.877 (5) 1480943143: this backup set remains non-empty (1/1); will retain in history
+144614.886 (5) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+144614.948 (5) 1480662472: this backup set remains non-empty (1/1); will retain in history
+144615.005 (5) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+144615.055 (5) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+144615.083 (5) Retain: saving new backup history (sets now: 6) and finishing retain operation
+144615.209 (5) Resume backup (ad2d5375f931, 5): finish run
+144615.309 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+144615.434 (5) The backup has not finished; a resumption is scheduled
+147105.824 (6) Opened log file at time: Fri, 09 Dec 2016 05:45:36 +0000 on http://localhost/kinectem
+147105.830 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+147105.837 (6) Free space on disk containing Updraft's temporary directory: 3304.4 Mb
+147105.859 (6) Backup run: resumption=6, nonce=ad2d5375f931, begun at=1481115230 (147106s ago), job type=backup
+147105.874 (6) Scheduling a resumption (7) after 678 seconds (1481263014) in case this run gets aborted
+147105.944 (6) Checking if we have a zip executable available
+147105.949 (6) Creation of backups of directories: already finished
+147105.954 (6) Saving backup status to database (elements: 8)
+147106.002 (6) Database dump (WordPress DB): Creation was completed already
+147106.011 (6) Saving backup history
+147106.035 (6) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+147106.041 (6) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+147106.061 (6) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+147106.103 (6) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+147106.152 (6) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+147106.241 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+147106.381 (6) Cloud backup selection (1/1): dropbox (last)
+147106.432 (6) Beginning dispatch of backup to remote (dropbox)
+147106.451 (6) Dropbox: begin cloud upload
+147106.513 (6) Dropbox: access gained
+147108.094 (6) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147108.107 (6) This is a resumption: 36554024 bytes had already been uploaded
+147108.147 (6) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+147108.198 (6) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+147109.764 (6) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147109.777 (6) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147111.317 (6) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147111.330 (6) This is a resumption: 13960803 bytes had already been uploaded
+147111.348 (6) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+147111.356 (6) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+147112.910 (6) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147112.937 (6) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147114.473 (6) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147114.527 (6) This is a resumption: 10798809 bytes had already been uploaded
+147114.580 (6) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+147114.635 (6) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+147116.407 (6) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147116.464 (6) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147118.109 (6) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147118.164 (6) This is a resumption: 40932 bytes had already been uploaded
+147118.218 (6) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+147118.229 (6) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+147120.245 (6) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147120.305 (6) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147122.162 (6) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147122.215 (6) This is a resumption: 329687 bytes had already been uploaded
+147122.228 (6) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+147122.281 (6) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+147125.189 (6) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147125.200 (6) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147125.246 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+147125.262 (6) Number of backup sets in history: 6
+147125.269 (6) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+147125.275 (6) 1481191063: this backup set remains non-empty (1/1); will retain in history
+147125.281 (6) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+147125.287 (6) 1481115230: this backup set remains non-empty (1/1); will retain in history
+147125.309 (6) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+147125.317 (6) 1481021132: this backup set remains non-empty (1/1); will retain in history
+147125.367 (6) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+147125.413 (6) 1480943143: this backup set remains non-empty (1/1); will retain in history
+147125.467 (6) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+147125.517 (6) 1480662472: this backup set remains non-empty (1/1); will retain in history
+147125.530 (6) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+147125.536 (6) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+147125.541 (6) Retain: saving new backup history (sets now: 6) and finishing retain operation
+147125.563 (6) Resume backup (ad2d5375f931, 6): finish run
+147125.609 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+147125.672 (6) The backup has not finished; a resumption is scheduled
+147906.866 (7) Opened log file at time: Fri, 09 Dec 2016 05:58:57 +0000 on http://localhost/kinectem
+147906.920 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+147906.981 (7) Free space on disk containing Updraft's temporary directory: 3304.3 Mb
+147907.095 (7) Backup run: resumption=7, nonce=ad2d5375f931, begun at=1481115230 (147907s ago), job type=backup
+147907.212 (7) Scheduling a resumption (8) after 678 seconds (1481263815) in case this run gets aborted
+147907.340 (7) Checking if we have a zip executable available
+147907.395 (7) Creation of backups of directories: already finished
+147907.409 (7) Saving backup status to database (elements: 8)
+147907.521 (7) Database dump (WordPress DB): Creation was completed already
+147907.537 (7) Saving backup history
+147907.706 (7) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+147907.765 (7) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+147907.821 (7) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+147907.880 (7) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+147907.939 (7) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+147908.039 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+147908.145 (7) Cloud backup selection (1/1): dropbox (last)
+147908.199 (7) Beginning dispatch of backup to remote (dropbox)
+147908.254 (7) Dropbox: begin cloud upload
+147908.320 (7) Dropbox: access gained
+147909.874 (7) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147909.928 (7) This is a resumption: 36554024 bytes had already been uploaded
+147909.938 (7) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+147909.997 (7) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+147911.602 (7) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147911.662 (7) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147913.099 (7) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147913.155 (7) This is a resumption: 13960803 bytes had already been uploaded
+147913.212 (7) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+147913.271 (7) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+147915.674 (7) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147915.697 (7) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147917.222 (7) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147917.238 (7) This is a resumption: 10798809 bytes had already been uploaded
+147917.247 (7) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+147917.255 (7) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+147918.822 (7) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147918.869 (7) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147920.381 (7) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147920.397 (7) This is a resumption: 40932 bytes had already been uploaded
+147920.412 (7) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+147920.470 (7) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+147922.059 (7) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147922.119 (7) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147923.693 (7) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+147923.712 (7) This is a resumption: 329687 bytes had already been uploaded
+147923.721 (7) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+147923.761 (7) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+147925.787 (7) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+147925.803 (7) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+147925.855 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+147925.913 (7) Number of backup sets in history: 6
+147925.972 (7) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+147926.010 (7) 1481191063: this backup set remains non-empty (1/1); will retain in history
+147926.062 (7) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+147926.118 (7) 1481115230: this backup set remains non-empty (1/1); will retain in history
+147926.169 (7) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+147926.238 (7) 1481021132: this backup set remains non-empty (1/1); will retain in history
+147926.294 (7) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+147926.385 (7) 1480943143: this backup set remains non-empty (1/1); will retain in history
+147926.435 (7) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+147926.444 (7) 1480662472: this backup set remains non-empty (1/1); will retain in history
+147926.501 (7) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+147926.552 (7) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+147926.578 (7) Retain: saving new backup history (sets now: 6) and finishing retain operation
+147926.704 (7) Resume backup (ad2d5375f931, 7): finish run
+147926.812 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+147926.888 (7) The backup has not finished; a resumption is scheduled
+148945.247 (8) Opened log file at time: Fri, 09 Dec 2016 06:16:15 +0000 on http://localhost/kinectem
+148945.302 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+148945.369 (8) Free space on disk containing Updraft's temporary directory: 3304.3 Mb
+148945.486 (8) Backup run: resumption=8, nonce=ad2d5375f931, begun at=1481115230 (148946s ago), job type=backup
+148945.561 (8) Scheduling a resumption (9) after 678 seconds (1481264854) in case this run gets aborted
+148945.670 (8) Checking if we have a zip executable available
+148945.727 (8) Creation of backups of directories: already finished
+148945.792 (8) Saving backup status to database (elements: 8)
+148945.894 (8) Database dump (WordPress DB): Creation was completed already
+148945.937 (8) Saving backup history
+148946.123 (8) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+148946.153 (8) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+148946.195 (8) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+148946.254 (8) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+148946.297 (8) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+148946.445 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+148946.562 (8) Cloud backup selection (1/1): dropbox (last)
+148946.630 (8) Beginning dispatch of backup to remote (dropbox)
+148946.687 (8) Dropbox: begin cloud upload
+148946.711 (8) Dropbox: access gained
+148948.292 (8) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+148948.308 (8) This is a resumption: 36554024 bytes had already been uploaded
+148948.387 (8) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+148948.436 (8) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+148950.112 (8) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+148950.133 (8) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+148951.619 (8) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+148951.678 (8) This is a resumption: 13960803 bytes had already been uploaded
+148951.736 (8) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+148951.794 (8) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+148953.450 (8) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+148953.466 (8) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+148954.907 (8) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+148954.923 (8) This is a resumption: 10798809 bytes had already been uploaded
+148954.942 (8) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+148954.979 (8) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+148956.553 (8) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+148956.571 (8) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+148958.112 (8) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+148958.139 (8) This is a resumption: 40932 bytes had already been uploaded
+148958.186 (8) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+148958.244 (8) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+148959.863 (8) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+148959.953 (8) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+148961.548 (8) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+148961.564 (8) This is a resumption: 329687 bytes had already been uploaded
+148961.575 (8) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+148961.635 (8) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+148963.228 (8) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+148963.287 (8) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+148963.434 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+148963.495 (8) Number of backup sets in history: 6
+148963.553 (8) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+148963.610 (8) 1481191063: this backup set remains non-empty (1/1); will retain in history
+148963.669 (8) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+148963.727 (8) 1481115230: this backup set remains non-empty (1/1); will retain in history
+148963.750 (8) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+148963.811 (8) 1481021132: this backup set remains non-empty (1/1); will retain in history
+148963.861 (8) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+148963.910 (8) 1480943143: this backup set remains non-empty (1/1); will retain in history
+148963.968 (8) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+148964.027 (8) 1480662472: this backup set remains non-empty (1/1); will retain in history
+148964.086 (8) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+148964.103 (8) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+148964.117 (8) Retain: saving new backup history (sets now: 6) and finishing retain operation
+148964.237 (8) Resume backup (ad2d5375f931, 8): finish run
+148964.385 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+148964.467 (8) The backup has not finished; a resumption is scheduled
+149669.412 (9) Opened log file at time: Fri, 09 Dec 2016 06:28:20 +0000 on http://localhost/kinectem
+149669.466 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.0.13 PHP: 5.5.12 (Windows NT WIN-OG6VOE9M3CQ 6.2 build 9200 (Windows 8 Business Edition) i586) MySQL: 5.6.17 Server: Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.9M | 10.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+149669.502 (9) Free space on disk containing Updraft's temporary directory: 3303.7 Mb
+149669.528 (9) Backup run: resumption=9, nonce=ad2d5375f931, begun at=1481115230 (149670s ago), job type=backup
+149669.636 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+149669.695 (9) Creation of backups of directories: already finished
+149669.750 (9) Saving backup status to database (elements: 8)
+149669.853 (9) Database dump (WordPress DB): Creation was completed already
+149669.913 (9) Saving backup history
+149670.046 (9) backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+149670.078 (9) backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+149670.141 (9) backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+149670.200 (9) backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip: others: This file has not yet been successfully uploaded: will queue
+149670.261 (9) backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz: db: This file has not yet been successfully uploaded: will queue
+149670.403 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+149670.519 (9) Cloud backup selection (1/1): dropbox (last)
+149670.584 (9) Beginning dispatch of backup to remote (dropbox)
+149670.641 (9) Dropbox: begin cloud upload
+149670.716 (9) Dropbox: access gained
+149672.321 (9) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+149672.391 (9) This is a resumption: 36554024 bytes had already been uploaded
+149672.449 (9) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip) size is -36518326.710938 b (overall file size; 35697.2890625 b), whereas available quota is only -74222819 b
+149672.489 (9) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-plugins.zip
+149674.551 (9) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+149674.607 (9) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+149676.202 (9) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+149676.218 (9) This is a resumption: 13960803 bytes had already been uploaded
+149676.226 (9) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip) size is -13947169.40332 b (overall file size; 13633.596679688 b), whereas available quota is only -74222819 b
+149676.235 (9) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-themes.zip
+149677.785 (9) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+149677.803 (9) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+149679.337 (9) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+149679.402 (9) This is a resumption: 10798809 bytes had already been uploaded
+149679.424 (9) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip) size is -10788263.288086 b (overall file size; 10545.711914062 b), whereas available quota is only -74222819 b
+149679.482 (9) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-uploads.zip
+149681.050 (9) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+149681.109 (9) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+149682.706 (9) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+149682.768 (9) This is a resumption: 40932 bytes had already been uploaded
+149682.823 (9) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip) size is -40892.02734375 b (overall file size; 39.97265625 b), whereas available quota is only -74222819 b
+149682.884 (9) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-others.zip
+149684.833 (9) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+149684.885 (9) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+149686.440 (9) Dropbox quota usage: normal=15404.3 Mb, shared=410.5 Mb, total=15744 Mb, available=-70.8 Mb
+149686.457 (9) This is a resumption: 329687 bytes had already been uploaded
+149686.470 (9) File upload expected to fail: file data remaining to upload (backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz) size is -329365.04003906 b (overall file size; 321.9599609375 b), whereas available quota is only -74222819 b
+149686.525 (9) Dropbox: Attempt to upload: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz to: backup_2016-12-07-0753_Kinectem_ad2d5375f931-db.gz
+149688.185 (9) Dropbox chunked upload exception (Dropbox_Exception): Dropbox was unable to complete this action because of a storage quota limit. (line: 177, file: E:\wamp\www\kinectem\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+149688.240 (9) Dropbox error: Dropbox was unable to complete this action because of a storage quota limit.
+149688.392 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+149688.444 (9) Number of backup sets in history: 6
+149688.493 (9) Examining backup set with datestamp: 1481191063 (Dec 08 2016 09:57:43)
+149688.549 (9) 1481191063: this backup set remains non-empty (1/1); will retain in history
+149688.592 (9) Examining backup set with datestamp: 1481115230 (Dec 07 2016 12:53:50)
+149688.643 (9) 1481115230: this backup set remains non-empty (1/1); will retain in history
+149688.674 (9) Examining backup set with datestamp: 1481021132 (Dec 06 2016 10:45:32)
+149688.701 (9) 1481021132: this backup set remains non-empty (1/1); will retain in history
+149688.756 (9) Examining backup set with datestamp: 1480943143 (Dec 05 2016 13:05:43)
+149688.817 (9) 1480943143: this backup set remains non-empty (1/1); will retain in history
+149688.873 (9) Examining backup set with datestamp: 1480662472 (Dec 02 2016 07:07:52)
+149688.917 (9) 1480662472: this backup set remains non-empty (1/1); will retain in history
+149688.971 (9) Examining backup set with datestamp: 1450498380 (Dec 19 2015 04:13:00)
+149689.027 (9) This backup set (1450498380) was imported from a remote location, so will not be counted or pruned. Skipping.
+149689.050 (9) Retain: saving new backup history (sets now: 6) and finishing retain operation
+149689.174 (9) Resume backup (ad2d5375f931, 9): finish run
+149689.240 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+149689.424 (9) The backup has not finished; a resumption is scheduled

@@ -1,0 +1,657 @@
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 10:20:02</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/get_my_teams</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 122
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/get_my_teams'> http://localhost/kinectem/api/buddypressread/get_my_teams</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 12:05:48</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/updateDeviceToken</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [device_type] => 2
+    [device_token] => b2b43ead5a93cd0a255afcbc79855a0d39afc5118d1dcd6d1a33cd761fbe2ee8
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/updateDeviceToken'> http://localhost/kinectem/api/user/updateDeviceToken</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 12:07:12</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/updateDeviceToken</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [device_type] => 2
+    [device_token] => b2b43ead5a93cd0a255afcbc79855a0d39afc5118d1dcd6d1a33cd761fbe2ee8
+    [insecure] => cool
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/updateDeviceToken'> http://localhost/kinectem/api/user/updateDeviceToken</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 12:08:28</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/updateDeviceToken</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [device_type] => 2
+    [device_token] => b2b43ead5a93cd0a255afcbc79855a0d39afc5118d1dcd6d1a33cd761fbe2ee8
+    [insecure] => cool
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/updateDeviceToken'> http://localhost/kinectem/api/user/updateDeviceToken</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 12:39:20</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 122
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-31
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/get_organized_event'> http://localhost/kinectem/api/user/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-24 12:39:41</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 122
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-31
+    [insecure] => cool
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/get_organized_event'> http://localhost/kinectem/api/user/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:20:41</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link/?data=youtu.be/9Z_z8TAG73U</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => youtu.be/9Z_z8TAG73U
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link/?data=youtu.be/9Z_z8TAG73U'> http://localhost/kinectem/api/buddypressread/activity_preview_link/?data=youtu.be/9Z_z8TAG73U</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:28:52</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link/?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U
+    [feature] => youtu.be
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link/?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be'> http://localhost/kinectem/api/buddypressread/activity_preview_link/?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:40:09</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U
+    [feature] => youtu.be
+    [gl] => IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN'> http://localhost/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:40:22</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=bdB_CL-daxA</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=bdB_CL-daxA'> http://localhost/kinectem/api/BuddypressRead/ajax_preview_video?data=https://www.youtube.com/watch?v=bdB_CL-daxA</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:41:51</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/ajax_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/ajax_preview_video'> http://localhost/kinectem/api/BuddypressRead/ajax_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:45:55</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:46:07</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:46:42</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:47:35</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:48:09</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:48:31</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=bdB_CL-daxA
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:51:27</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_video</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_video'> http://localhost/kinectem/api/BuddypressRead/activity_preview_video</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:55:49</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_link</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_link'> http://localhost/kinectem/api/BuddypressRead/activity_preview_link</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:56:25</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_link</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_link'> http://localhost/kinectem/api/BuddypressRead/activity_preview_link</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:56:43</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/activity_preview_link</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/activity_preview_link'> http://localhost/kinectem/api/BuddypressRead/activity_preview_link</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:57:05</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:57:26</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:58:57</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=youtu.be/9Z_z8TAG73U</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 10:59:18</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=bdB_CL-daxA</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=bdB_CL-daxA'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=bdB_CL-daxA</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 13:35:30</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+    [feature] => youtu.be
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-25 13:35:33</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be&gl=IN
+    [feature] => youtu.be
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.youtube.com/watch?v=9Z_z8TAG73U&feature=youtu.be</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-27 05:38:37</i></b></font> <br><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-27 05:38:37</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/search_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [keyword] => Maxx
+    [user_id] => 131
+    [type] => my
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/search_team'> http://localhost/kinectem/api/BuddypressRead/search_team</a></div>
+</div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-28 10:24:12</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/posts/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-31
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/posts/get_organized_event'> http://localhost/kinectem/api/posts/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-28 10:31:05</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/posts/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-31
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/posts/get_organized_event'> http://localhost/kinectem/api/posts/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-28 10:31:20</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/posts/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-12
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/posts/get_organized_event'> http://localhost/kinectem/api/posts/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-03-28 10:39:55</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/posts/get_organized_event</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 124
+    [event_start] => 2017-03-01
+    [event_end] => 2017-03-12
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/posts/get_organized_event'> http://localhost/kinectem/api/posts/get_organized_event</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 07:25:41</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/generate_auth_cookie/</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [username] => nimisha
+    [password] => 111111
+    [insecure] => cool
+    [device_type] => 2
+    [device_token] => asdfasdfasdfasdfasf
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/user/generate_auth_cookie/'> http://localhost/kinectem/api/user/generate_auth_cookie/</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 07:35:06</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/user/generate_auth_cookie/</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [username] => nimisha
+    [password] => 111111
+    [insecure] => cool
+    [device_type] => 2
+    [device_token] => asdfasdfasdfasdfasf
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://kinectem-dev.com/kinectem/api/user/generate_auth_cookie/'> http://kinectem-dev.com/kinectem/api/user/generate_auth_cookie/</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:02:44</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => {\"name\":\"Top 11\"}
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:02:48</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => Top 11
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:03:09</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => Top 11
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:04:43</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => Top 11
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:05:16</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => Top 11
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-08 14:05:50</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/update_team</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [user_id] => 22
+    [group_id] => 96
+    [name] => Top 11
+    [description] => Top 11
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/update_team'> http://localhost/kinectem/api/BuddypressRead/update_team</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 07:59:51</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:01:25</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=http://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:01:28</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:02:44</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:03:45</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:09:07</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:10:25</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:10:55</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:11:46</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:12:40</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:13:23</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:14:25</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:15:26</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:16:21</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:16:52</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:17:08</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:17:22</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:17:37</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:19:46</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:21:23</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:24:52</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:25:13</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_video?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:25:40</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.google.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:26:30</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-21 08:27:37</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [data] => https://www.apple.com
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com'> http://localhost/kinectem/api/buddypressread/activity_preview_link?data=https://www.apple.com</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>API call Time</b> : <font size='6' style='color:orange;'><b><i>2017-04-27 14:44:44</i></b></font> <br><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>/kinectem/api/BuddypressRead/groups_join_unjoin_group/?userid=22&groupid=51&actionType=join</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [userid] => 22
+    [groupid] => 51
+    [actionType] => join
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/kinectem/api/BuddypressRead/groups_join_unjoin_group/?userid=22&groupid=51&actionType=join'> http://localhost/kinectem/api/BuddypressRead/groups_join_unjoin_group/?userid=22&groupid=51&actionType=join</a></div>

@@ -1,0 +1,19 @@
+
+.clear {
+    clear:both;
+    display:block;
+}
+
+.vc-addon-select {
+    padding: 7px !important;
+    height: auto !important;
+    margin: 7px 0;
+}
+
+.post-type-vc-element #postdivrich,
+.post-type-vc-element .composer-switch {
+    width:0 !important;
+    height:0 !important;
+    visibility:hidden;
+    display:none !important;
+}

@@ -1,0 +1,1117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Forecast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-04 16:46+0200\n"
+"PO-Revision-Date: 2010-09-08 12:44+0200\n"
+"Last-Translator: Петър Петров <petar.petrov@marketing-forge.com>\n"
+"Language-Team: My Team <petar.petrov@marketing-forge.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#: class-wpf_widget.php:75 wp-forecast-admin.php:108
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: class-wpf_widget.php:83 wp-forecast-admin.php:232
+msgid "Available widgets"
+msgstr "Налични джаджи"
+
+#: func_bug.php:222
+msgid "Location does not exist"
+msgstr "Мястото не е открито"
+
+#: func_bug.php:363 func_bug.php:391 xgettextdummy.php:150
+msgid "Unknown"
+msgstr ""
+
+#: shortcodes.php:38
+msgid "wp-forecast shortcode: This browser does not support iframes."
+msgstr "wp-forecast shortcode: Браузърът Ви не поддържа iframes."
+
+#: wp-forecast-admin.php:111
+msgid "widget_hint"
+msgstr "widget_hint"
+
+#: wp-forecast-admin.php:220 wp-forecast.php:378
+msgid "How many wp-forecast widgets would you like?"
+msgstr "Колко джаджи на WP-Forecast да има?"
+
+#: wp-forecast-admin.php:229 wp-forecast-admin.php:255
+#: wp-forecast-admin.php:271 wp-forecast-admin.php:280 wp-forecast.php:387
+msgid "Save"
+msgstr "Запази"
+
+#: wp-forecast-admin.php:248
+msgid "Select widget"
+msgstr "Избери джаджа"
+
+#: wp-forecast-admin.php:253 wpf_sa_admin.php:221
+msgid "Timeout for weatherprovider connections (secs.)?"
+msgstr "Времеви интервал на връзката с доставчика (сек.)?"
+
+#: wp-forecast-admin.php:259 wpf_sa_admin.php:229
+msgid "Preselect wordpress transfer method"
+msgstr "Изберете метод за трансфер на Wordpress"
+
+#: wp-forecast-admin.php:261 wpf_sa_admin.php:231
+msgid "default"
+msgstr "стандартен"
+
+#: wp-forecast-admin.php:275 wpf_sa_admin.php:244
+msgid "Delete options during plugin deactivation?"
+msgstr "Да изтрия ли настройките при деактивиране на плъгина?"
+
+#: wp-forecast-admin.php:283
+msgid "Check connection to Weatherprovider"
+msgstr "Връзка към доставчика"
+
+#: wp-forecast-admin.php:468 wpf_sa_admin.php:195
+msgid "Settings successfully updated"
+msgstr "Настройките са успешно обновени"
+
+#: wp-forecast-admin.php:470
+msgid "You have to change a field to update settings."
+msgstr "Трябва да направите промяна, преди да обновите настройките."
+
+#: wp-forecast-admin.php:517
+msgid "WP-Forecast Setup"
+msgstr "Настройки на WP-Forecast"
+
+#: wp-forecast-admin.php:522 wpf_sa_admin.php:265
+msgid "Weatherservice"
+msgstr "Доставчик"
+
+#: wp-forecast-admin.php:524 wpf_sa_admin.php:267
+msgid "AccuWeather"
+msgstr "AccuWeather"
+
+#: wp-forecast-admin.php:525 wpf_sa_admin.php:268
+msgid "WeatherBug"
+msgstr "WeatherBug"
+
+#: wp-forecast-admin.php:526
+msgid "GoogleWeather"
+msgstr "Времето"
+
+#: wp-forecast-admin.php:529
+msgid "Partner ID"
+msgstr "Партньорско ID"
+
+#: wp-forecast-admin.php:532 wpf_sa_admin.php:274
+msgid "Licensekey"
+msgstr "Лицензионен ключ"
+
+#: wp-forecast-admin.php:537 wpf_sa_admin.php:279
+msgid "Location"
+msgstr "Място"
+
+#: wp-forecast-admin.php:546 wpf_sa_admin.php:282
+msgid "Press Update options to save new location."
+msgstr "Натиснете \"Обнови\", за да запазите новото място."
+
+#: wp-forecast-admin.php:549 wpf_sa_admin.php:285
+msgid "Locationname"
+msgstr "Име на мястото"
+
+#: wp-forecast-admin.php:551 wpf_sa_admin.php:288
+msgid "Refresh cache after"
+msgstr "Обнови кеша след"
+
+#: wp-forecast-admin.php:553 wpf_sa_admin.php:290
+msgid "secs."
+msgstr "сек."
+
+#: wp-forecast-admin.php:554 wpf_sa_admin.php:291
+msgid "Use metric units"
+msgstr "Използвай метрична система"
+
+#: wp-forecast-admin.php:557 wpf_sa_admin.php:294
+msgid "Use current time"
+msgstr "Използвай местно време"
+
+#: wp-forecast-admin.php:558 wpf_sa_admin.php:295
+msgid "Time-Offset"
+msgstr "Измести времето с"
+
+#: wp-forecast-admin.php:558 wpf_sa_admin.php:295
+msgid "minutes"
+msgstr "минути"
+
+#: wp-forecast-admin.php:561 wpf_sa_admin.php:298
+msgid "Windspeed-Unit"
+msgstr "Скорост на вятъра в"
+
+#: wp-forecast-admin.php:562 wpf_sa_admin.php:299
+msgid "Meter/Second (m/s)"
+msgstr "Метри в секунда (м/с)"
+
+#: wp-forecast-admin.php:563 wpf_sa_admin.php:300
+msgid "Kilometer/Hour (km/h)"
+msgstr "Километри в час (кмч)"
+
+#: wp-forecast-admin.php:564 wpf_sa_admin.php:301
+msgid "Miles/Hour (mph)"
+msgstr "Мили в час (м/ч)"
+
+#: wp-forecast-admin.php:565 wpf_sa_admin.php:302
+msgid "Knots (kts)"
+msgstr "Възли (взл)"
+
+#: wp-forecast-admin.php:566 wpf_sa_admin.php:303
+msgid "Beaufort (bft)"
+msgstr ""
+
+#: wp-forecast-admin.php:573 wpf_sa_admin.php:310
+msgid "Language"
+msgstr "Език"
+
+#: wp-forecast-admin.php:602 wpf_sa_admin.php:329
+msgid "Show forecast as ajax pull-down"
+msgstr "Покажи прогнозата като падащо меню"
+
+#: wp-forecast-admin.php:606 wpf_sa_admin.php:333
+msgid "First day in pull-down"
+msgstr "От кой ден да се скрива прогнозата"
+
+#: wp-forecast-admin.php:620
+msgid "Show wind condition as icon"
+msgstr ""
+
+#: wp-forecast-admin.php:622
+msgid "Use CSS-Sprites for showing icons"
+msgstr ""
+
+#: wp-forecast-admin.php:627 wpf_sa_admin.php:538
+msgid "Update options"
+msgstr "Обнови"
+
+#: wp-forecast-admin.php:634 wpf_sa_admin.php:351
+msgid "Display Configuration"
+msgstr "Display Configuration"
+
+#: wp-forecast-admin.php:638 wpf_sa_admin.php:355
+msgid "Current Conditions"
+msgstr "Текущо състояние"
+
+#: wp-forecast-admin.php:639 wpf_sa_admin.php:356
+msgid "Forecast Day"
+msgstr "Прогноза за деня"
+
+#: wp-forecast-admin.php:640 wpf_sa_admin.php:357
+msgid "Forecast Night"
+msgstr "Прогноза за вечерта"
+
+#: wp-forecast-admin.php:643 wpf_sa_admin.php:360
+msgid "Icon"
+msgstr "Икона"
+
+#: wp-forecast-admin.php:652 wpf_sa_admin.php:369
+msgid "Date"
+msgstr "Дата"
+
+#: wp-forecast-admin.php:659 wpf_sa_admin.php:376
+msgid "Time"
+msgstr "Час"
+
+#: wp-forecast-admin.php:666 wpf_sa_admin.php:383
+msgid "Short Description"
+msgstr "Кратко описание"
+
+#: wp-forecast-admin.php:675 wpf_sa_admin.php:392
+msgid "Temperature"
+msgstr "Температура"
+
+#: wp-forecast-admin.php:684 wpf_sa_admin.php:401
+msgid "Realfeel"
+msgstr "Усеща се като"
+
+#: wp-forecast-admin.php:691 wpf_sa_admin.php:408
+msgid "Pressure"
+msgstr "Налягане"
+
+#: wp-forecast-admin.php:698 wpf_sa_admin.php:415
+msgid "Humidity"
+msgstr "Влажност"
+
+#: wp-forecast-admin.php:705 wpf_sa_admin.php:422
+msgid "Wind"
+msgstr "Вятър"
+
+#: wp-forecast-admin.php:714 wp-forecast-show.php:345 wp-forecast-show.php:470
+#: wp-forecast-show.php:538 wpf_sa_admin.php:431
+msgid "Windgusts"
+msgstr "Ветровито"
+
+#: wp-forecast-admin.php:724 wp-forecast-show.php:349
+msgid "UV-Index"
+msgstr ""
+
+#: wp-forecast-admin.php:734 wpf_sa_admin.php:440
+msgid "Sunrise"
+msgstr "Изгрев"
+
+#: wp-forecast-admin.php:741 wpf_sa_admin.php:447
+msgid "Sunset"
+msgstr "Залез"
+
+#: wp-forecast-admin.php:748 wpf_sa_admin.php:454
+msgid "Copyright"
+msgstr "Copyright"
+
+#: wp-forecast-admin.php:755 wpf_sa_admin.php:461
+msgid "Link to Weatherprovider"
+msgstr "Връзка към доставчика"
+
+#: wp-forecast-admin.php:758 wpf_sa_admin.php:464
+msgid "Open in new Window"
+msgstr "Отвори в нов прозорец"
+
+#: wp-forecast-admin.php:766 wp-forecast-show.php:398 wpf_sa_admin.php:472
+msgid "Forecast"
+msgstr "Прогноза за"
+
+#: wp-forecast-admin.php:771 wpf_sa_admin.php:477
+msgid "All"
+msgstr "Всички"
+
+#: wp-forecast-admin.php:772 wp-forecast-admin.php:773
+#: wp-forecast-admin.php:774 wp-forecast-admin.php:775
+#: wp-forecast-admin.php:776 wp-forecast-admin.php:777
+#: wp-forecast-admin.php:778 wp-forecast-admin.php:779
+#: wp-forecast-admin.php:780 wpf_sa_admin.php:478 wpf_sa_admin.php:479
+#: wpf_sa_admin.php:480 wpf_sa_admin.php:481 wpf_sa_admin.php:482
+#: wpf_sa_admin.php:483 wpf_sa_admin.php:484 wpf_sa_admin.php:485
+#: wpf_sa_admin.php:486
+msgid "Day"
+msgstr "Ден"
+
+#: wp-forecast-admin.php:782 wpf_sa_admin.php:488
+msgid "Daytime"
+msgstr "Дневно време"
+
+#: wp-forecast-admin.php:803 wpf_sa_admin.php:509
+msgid "Nighttime"
+msgstr "Нощно време"
+
+#: wp-forecast-admin.php:844
+msgid ""
+"If you are looking for instructions or help on wp-forecast, \n"
+"   please use the following ressources. If you are stuck you can \n"
+"   always write an email to"
+msgstr ""
+
+#: wp-forecast-admin.php:851
+msgid "English Manual"
+msgstr ""
+
+#: wp-forecast-admin.php:854
+msgid "German Manual"
+msgstr ""
+
+#: wp-forecast-admin.php:857
+#, fuzzy
+msgid "Checklist for connection test"
+msgstr "Връзка към доставчика"
+
+#: wp-forecast-admin.php:860
+#, fuzzy
+msgid "wp-forecast on WordPress.org"
+msgstr "wp-forecast %s"
+
+#: wp-forecast-admin.php:863
+#, fuzzy
+msgid "German wp-forecast Site"
+msgstr "wp-forecast %s"
+
+#: wp-forecast-admin.php:866
+msgid "Using wp-forecast with WPML (german)"
+msgstr ""
+
+#: wp-forecast-admin.php:869
+msgid "Changelog"
+msgstr ""
+
+#: wp-forecast-admin.php:872
+#, fuzzy
+msgid "Links will open in new Window/Tab."
+msgstr "Отвори в нов прозорец"
+
+#: wp-forecast-check.php:173
+msgid "Connection-check"
+msgstr "Проверка на връзката"
+
+#: wp-forecast-check.php:176
+msgid "Select weatherprovider"
+msgstr "Връзка към доставчика"
+
+#: wp-forecast-check.php:188
+msgid "Start check"
+msgstr "Започни проверка"
+
+#: wp-forecast-check.php:191
+msgid "Close"
+msgstr "Затвори"
+
+#: wp-forecast-search.php:35
+#, fuzzy
+msgid "Searchresults"
+msgstr "Резултати от търсенето"
+
+#: wp-forecast-search.php:37
+msgid "No WeatherBug Partner-ID given. WeatherBug will not be searched."
+msgstr ""
+
+#: wp-forecast-search.php:38
+msgid ""
+"Enter a correct Partner-ID in the admin panel and save it to search "
+"WeatherBug."
+msgstr ""
+
+#: wp-forecast-search.php:41
+msgid "Please enter a non empty searchstring"
+msgstr ""
+
+#: wp-forecast-search.php:44
+#, fuzzy
+msgid "Please select a location"
+msgstr "Маркирайте своя град и натиснете \"Избери място\"."
+
+#: wp-forecast-search.php:70
+#, fuzzy
+msgid "Accuweather Hits"
+msgstr "AccuWeather"
+
+#: wp-forecast-search.php:71
+#, fuzzy
+msgid "WeatherBug Hits"
+msgstr "WeatherBug"
+
+#: wp-forecast-search.php:149 wp-forecast-search.php:157
+msgid "Search location"
+msgstr "Търси място"
+
+#: wp-forecast-search.php:151
+msgid "Searchterm"
+msgstr "Търси за"
+
+#: wp-forecast-search.php:153
+msgid "Please replace german Umlaute ä,ö,ü with a, o, u in your searchterm."
+msgstr "Заменете \"ä, ö, ü\" с \"a, o, u\" в търсенето."
+
+#: wp-forecast-search.php:154
+msgid ""
+"Google does not support searching for locations. Only Accuweather and "
+"WeatherBug will be searched."
+msgstr ""
+
+#: wp-forecast-show.php:143
+msgid "Locations:"
+msgstr "Места:"
+
+#: wp-forecast-show.php:178
+msgid "Failure notice from provider"
+msgstr "Грешка от доставчика"
+
+#: wp-forecast-show.php:195
+msgid "Sorry, no valid weather data available."
+msgstr "Няма налична информация."
+
+#: wp-forecast-show.php:196
+msgid "Please try again later."
+msgstr "Опитайте отново по-късно."
+
+#: wp-forecast-show.php:255
+msgid "time"
+msgstr "Време"
+
+#: wp-forecast-show.php:325
+msgid "flik"
+msgstr "Усеща се като"
+
+#: wp-forecast-show.php:328
+msgid "barr"
+msgstr "Налягане"
+
+#: wp-forecast-show.php:336
+msgid "hmid"
+msgstr "Влажност"
+
+#: wp-forecast-show.php:340 wp-forecast-show.php:465 wp-forecast-show.php:531
+msgid "winds"
+msgstr "Вятър"
+
+#: wp-forecast-show.php:353
+msgid "sunrise"
+msgstr "Изгрев"
+
+#: wp-forecast-show.php:357
+msgid "sunset"
+msgstr "Залез"
+
+#: wp-forecast-show.php:407
+msgid "day"
+msgstr "Ден"
+
+#: wp-forecast-show.php:475 wp-forecast-show.php:543
+msgid "max. UV-Index"
+msgstr ""
+
+#: wp-forecast-show.php:487
+msgid "night"
+msgstr "Нощ"
+
+#: wp-forecast-show.php:568 wp-forecast-show.php:569
+msgid "Less forecast..."
+msgstr "Скрий прогнозата"
+
+#: wp-forecast-show.php:570
+msgid "More forecast..."
+msgstr "Покажи прогнозата за 3 дни"
+
+#: wp-forecast.php:419
+#, php-format
+msgid "wp-forecast %s"
+msgstr "wp-forecast %s"
+
+#: wpf_sa_admin.php:64
+msgid "wp-forecast plugin not found. Please install and activate wp-forecast."
+msgstr ""
+"Разширението wp-forecast не е открито. Моля, инсталирайте и активирайте wp-"
+"forecast."
+
+#: wpf_sa_admin.php:208
+msgid "Check the colored checkboxes to user enable the options"
+msgstr ""
+
+#: wpf_sa_admin.php:213
+#, fuzzy
+msgid "Maximal number of widgets per user"
+msgstr "Брой на джаджите на потребител"
+
+#: wpf_sa_admin.php:252
+msgid "Delete SuperAdmin options"
+msgstr ""
+
+#: wpf_sa_admin.php:253
+msgid "Delete SA-Options"
+msgstr ""
+
+#: wpf_sa_admin.php:262
+msgid "Widget-Setup"
+msgstr "Настройка на джаджата"
+
+#: wpf_sa_admin.php:271
+msgid "Partner-ID"
+msgstr "Партньорско ID"
+
+#: wpf_setup.php:93
+msgid "The Weather"
+msgstr "Времето"
+
+#: xgettextdummy.php:5
+msgid "loc"
+msgstr "място"
+
+#: xgettextdummy.php:6
+msgid "01"
+msgstr "Слънчево"
+
+#: xgettextdummy.php:7
+msgid "02"
+msgstr "Предимно слънчево"
+
+#: xgettextdummy.php:8
+msgid "03"
+msgstr "Частично слънчево"
+
+#: xgettextdummy.php:9
+msgid "04"
+msgstr "Разкъсана облачност"
+
+#: xgettextdummy.php:10
+msgid "05"
+msgstr "Слънчево с мараня"
+
+#: xgettextdummy.php:11
+msgid "06"
+msgstr "Предимно облачно"
+
+#: xgettextdummy.php:12
+msgid "07"
+msgstr "Облачно"
+
+#: xgettextdummy.php:13
+msgid "08"
+msgstr "Притъмняване"
+
+#: xgettextdummy.php:14
+msgid "11"
+msgstr "Мъгла"
+
+#: xgettextdummy.php:15
+msgid "12"
+msgstr "Порои"
+
+#: xgettextdummy.php:16
+msgid "13"
+msgstr "Предимно облачно с порои"
+
+#: xgettextdummy.php:17
+msgid "14"
+msgstr "Частично слънчево с порои"
+
+#: xgettextdummy.php:18
+msgid "15"
+msgstr "Гръмотевични бури"
+
+#: xgettextdummy.php:19
+msgid "16"
+msgstr "Предимно облачно и дъжд с гръмотевици"
+
+#: xgettextdummy.php:20
+msgid "17"
+msgstr "Частично слънчево и дъжд с гръмотевици"
+
+#: xgettextdummy.php:21
+msgid "18"
+msgstr "Дъжд"
+
+#: xgettextdummy.php:22
+msgid "19"
+msgstr "Виелица"
+
+#: xgettextdummy.php:23
+msgid "20"
+msgstr "Предимно облачно с виелица"
+
+#: xgettextdummy.php:24
+msgid "21"
+msgstr "Частично слънчево с виелица"
+
+#: xgettextdummy.php:25
+msgid "22"
+msgstr "Сняг"
+
+#: xgettextdummy.php:26
+msgid "23"
+msgstr "Предимно облачно със сняг"
+
+#: xgettextdummy.php:27
+msgid "24"
+msgstr "Лед"
+
+#: xgettextdummy.php:28
+msgid "25"
+msgstr "Суграшица"
+
+#: xgettextdummy.php:29
+msgid "26"
+msgstr "Леден дъжд"
+
+#: xgettextdummy.php:30
+msgid "29"
+msgstr "Дъжд и сняг"
+
+#: xgettextdummy.php:31
+msgid "30"
+msgstr "Горещо"
+
+#: xgettextdummy.php:32
+msgid "31"
+msgstr "Студено"
+
+#: xgettextdummy.php:33
+msgid "32"
+msgstr "Ветровито"
+
+#: xgettextdummy.php:34
+msgid "33"
+msgstr "Ясно"
+
+#: xgettextdummy.php:35
+msgid "34"
+msgstr "Предимно ясно"
+
+#: xgettextdummy.php:36
+msgid "35"
+msgstr "Частична облачност"
+
+#: xgettextdummy.php:37
+msgid "36"
+msgstr "Разкъсана облачност"
+
+#: xgettextdummy.php:38
+msgid "37"
+msgstr "Мъглива нощ"
+
+#: xgettextdummy.php:39
+msgid "38"
+msgstr "Предимно облачно"
+
+#: xgettextdummy.php:40
+msgid "39"
+msgstr "Частична облачност с порои"
+
+#: xgettextdummy.php:41
+msgid "40"
+msgstr "Предимно облачно с порои"
+
+#: xgettextdummy.php:42
+msgid "41"
+msgstr "Частична облачност с гръмотевични бури"
+
+#: xgettextdummy.php:43
+msgid "42"
+msgstr "Предимно облачно с гръмотевични бури"
+
+#: xgettextdummy.php:44
+msgid "43"
+msgstr "Предимно облачно с виелица"
+
+#: xgettextdummy.php:45
+msgid "44"
+msgstr "Предимно облачно със сняг"
+
+#: xgettextdummy.php:46
+msgid "Monday"
+msgstr "понеделник"
+
+#: xgettextdummy.php:47
+msgid "Tuesday"
+msgstr "вторник"
+
+#: xgettextdummy.php:48
+msgid "Wednesday"
+msgstr "сряда"
+
+#: xgettextdummy.php:49
+msgid "Thursday"
+msgstr "четвъртък"
+
+#: xgettextdummy.php:50
+msgid "Friday"
+msgstr "петък"
+
+#: xgettextdummy.php:51
+msgid "Saturday"
+msgstr "събота"
+
+#: xgettextdummy.php:52
+msgid "Sunday"
+msgstr "неделя"
+
+#: xgettextdummy.php:53
+msgid "N"
+msgstr "С"
+
+#: xgettextdummy.php:54
+msgid "E"
+msgstr "И"
+
+#: xgettextdummy.php:55
+msgid "W"
+msgstr "З"
+
+#: xgettextdummy.php:56
+msgid "S"
+msgstr "Ю"
+
+#: xgettextdummy.php:57
+msgid "30% Chance Drizzle"
+msgstr "30% вероятност за ситен дъжд"
+
+#: xgettextdummy.php:58
+msgid "30% Chance Freezing Drizzle"
+msgstr "30% вероятност за леден ситен дъжд"
+
+#: xgettextdummy.php:59
+msgid "30% Chance Freezing Rain"
+msgstr "30% вероятност за леден дъжд"
+
+#: xgettextdummy.php:60
+msgid "30% Chance Frozen Drizzle"
+msgstr "30% вероятност за заледен дъждец"
+
+#: xgettextdummy.php:61
+msgid "30% Chance Frozen Mix"
+msgstr "30% вероятност за заледяване"
+
+#: xgettextdummy.php:62
+msgid "30% Chance Rain Shower"
+msgstr "30% вероятност за порои"
+
+#: xgettextdummy.php:63
+msgid "30% Chance Snow Shower"
+msgstr "30% вероятност за снежни порои"
+
+#: xgettextdummy.php:64
+msgid "30% Chance of Drizzle"
+msgstr "30% вероятност за ситен дъжд"
+
+#: xgettextdummy.php:65 xgettextdummy.php:66
+msgid "30% Chance of Flurry"
+msgstr "30% вероятност за виелици"
+
+#: xgettextdummy.php:67
+msgid "30% Chance of Frozen Mix"
+msgstr "30% вероятност за заледяване"
+
+#: xgettextdummy.php:68
+msgid "30% Chance of Light Snow"
+msgstr "30% вероятност за лек сняг"
+
+#: xgettextdummy.php:69
+msgid "30% Chance of Rain"
+msgstr "30% вероятност за дъжд"
+
+#: xgettextdummy.php:70
+msgid "30% Chance of Sleet"
+msgstr "30% вероятност за суграшица"
+
+#: xgettextdummy.php:71
+msgid "30% Chance of Snow"
+msgstr "30% вероятност за сняг"
+
+#: xgettextdummy.php:72
+msgid "30% Chance of Storms"
+msgstr "30% вероятност за бури"
+
+#: xgettextdummy.php:73
+msgid "40% Chance Drizzle"
+msgstr "40% вероятност за ситен дъжд"
+
+#: xgettextdummy.php:74
+msgid "40% Chance Fozen Drizzle"
+msgstr "40% вероятност за заледен дъждец"
+
+#: xgettextdummy.php:75
+msgid "40% Chance Freezing Drizzle"
+msgstr "40% вероятност за леден ситен дъжд"
+
+#: xgettextdummy.php:76
+msgid "40% Chance Freezing Rain"
+msgstr "40% вероятност за леден дъжд"
+
+#: xgettextdummy.php:77
+msgid "40% Chance Frozen Drizzle"
+msgstr "40% вероятност за заледен дъждец"
+
+#: xgettextdummy.php:78
+msgid "40% Chance Frozen Mix"
+msgstr "40% вероятност за заледяване"
+
+#: xgettextdummy.php:79
+msgid "40% Chance Rain Shower"
+msgstr "40% вероятност за порои"
+
+#: xgettextdummy.php:80
+msgid "40% Chance Snow Shower"
+msgstr "40% вероятност за снежни порои"
+
+#: xgettextdummy.php:81
+msgid "40% Chance of Drizzle"
+msgstr "40% вероятност за ситен дъжд"
+
+#: xgettextdummy.php:82
+msgid "40% Chance of Flurry"
+msgstr "40% вероятност за виелици"
+
+#: xgettextdummy.php:83
+msgid "40% Chance of Frozen Mix"
+msgstr "40% вероятност за заледяване"
+
+#: xgettextdummy.php:84
+msgid "40% Chance of Light Snow"
+msgstr "40% вероятност за лек сняг"
+
+#: xgettextdummy.php:85
+msgid "40% Chance of Rain"
+msgstr "40% вероятност за дъжд"
+
+#: xgettextdummy.php:86
+msgid "40% Chance of Sleet"
+msgstr "40% вероятност за суграшица"
+
+#: xgettextdummy.php:87
+msgid "40% Chance of Snow"
+msgstr "40% вероятност за сняг"
+
+#: xgettextdummy.php:88
+msgid "40% Chance of Storms"
+msgstr "40% вероятност за бури"
+
+#: xgettextdummy.php:89
+msgid "50% Chance Freezing Drizzle"
+msgstr "50% вероятност за леден ситен дъжд"
+
+#: xgettextdummy.php:90
+msgid "50% Chance Freezing Rain"
+msgstr "50% вероятност за леден дъжд"
+
+#: xgettextdummy.php:91
+msgid "50% Chance Rain Shower"
+msgstr "50% вероятност за порои"
+
+#: xgettextdummy.php:92
+msgid "50% Chance Snow Shower"
+msgstr "50% вероятност за снежни порои"
+
+#: xgettextdummy.php:93
+msgid "50% Chance of Drizzle"
+msgstr "50% вероятност за ситен дъжд"
+
+#: xgettextdummy.php:94
+msgid "50% Chance of Flurry"
+msgstr "50% вероятност за виелици"
+
+#: xgettextdummy.php:95
+msgid "50% Chance of Frozen Mix"
+msgstr "50% вероятност за заледяване"
+
+#: xgettextdummy.php:96
+msgid "50% Chance of Light Snow"
+msgstr "50% вероятност за лек сняг"
+
+#: xgettextdummy.php:97
+msgid "50% Chance of Rain"
+msgstr "50% вероятност за дъжд"
+
+#: xgettextdummy.php:98
+msgid "50% Chance of Sleet"
+msgstr "50% вероятност за суграшица"
+
+#: xgettextdummy.php:99
+msgid "50% Chance of Snow"
+msgstr "50% вероятност за сняг"
+
+#: xgettextdummy.php:100
+msgid "50% Chance of Storms"
+msgstr "50% вероятност за бури"
+
+#: xgettextdummy.php:101
+msgid "Chance Freezing Drizzle"
+msgstr "Вероятност за леден ситен дъжд"
+
+#: xgettextdummy.php:102
+msgid "Chance Freezing Rain"
+msgstr "Вероятност за леден дъжд"
+
+#: xgettextdummy.php:103
+msgid "Chance Rain Shower"
+msgstr "Вероятност за порои"
+
+#: xgettextdummy.php:104
+msgid "Chance Snow Shower"
+msgstr "Вероятност за снежни порои"
+
+#: xgettextdummy.php:105
+msgid "Chance of Drizzle"
+msgstr "Вероятност за ситен дъжд"
+
+#: xgettextdummy.php:106
+msgid "Chance of Flurry"
+msgstr "Вероятност за виелици"
+
+#: xgettextdummy.php:107
+msgid "Chance of Freezing Drizzle"
+msgstr "Вероятност за леден ситен дъжд"
+
+#: xgettextdummy.php:108
+msgid "Chance of Frozen Drizzle"
+msgstr "Вероятност за заледен дъждец"
+
+#: xgettextdummy.php:109
+msgid "Chance of Frozen Mix"
+msgstr "Вероятност за заледяване"
+
+#: xgettextdummy.php:110
+msgid "Chance of Light Snow"
+msgstr "Вероятност за лек сняг"
+
+#: xgettextdummy.php:111
+msgid "Chance of Rain"
+msgstr "Вероятност за дъжд"
+
+#: xgettextdummy.php:112
+msgid "Chance of Rain Showers"
+msgstr "Вероятност за порои"
+
+#: xgettextdummy.php:113
+msgid "Chance of Sleet "
+msgstr "Вероятност за суграшица"
+
+#: xgettextdummy.php:114
+msgid "Chance of Snow"
+msgstr "Вероятност за сняг"
+
+#: xgettextdummy.php:115
+msgid "Chance of Snow Showers"
+msgstr "Вероятност за снежни порои"
+
+#: xgettextdummy.php:116
+msgid "Chance of Storms"
+msgstr "Вероятност за бури"
+
+#: xgettextdummy.php:117
+msgid "Clear"
+msgstr "Ясно"
+
+#: xgettextdummy.php:118
+msgid "Clearing"
+msgstr "Изясняващо се"
+
+#: xgettextdummy.php:119
+msgid "Cloudy"
+msgstr "Облачно"
+
+#: xgettextdummy.php:120
+msgid "Drizzle"
+msgstr "Ръми"
+
+#: xgettextdummy.php:121
+msgid "Fair"
+msgstr "Добро"
+
+#: xgettextdummy.php:122
+msgid "Flurries"
+msgstr "Виелици"
+
+#: xgettextdummy.php:123
+msgid "Fog"
+msgstr "Мъгла"
+
+#: xgettextdummy.php:124
+msgid "Foggy"
+msgstr "Мъгливо"
+
+#: xgettextdummy.php:125
+msgid "Freezing Drizzle"
+msgstr "Леден дъждец"
+
+#: xgettextdummy.php:126
+msgid "Freezing Rain"
+msgstr "Леден дъжд"
+
+#: xgettextdummy.php:127
+msgid "Frozen Mix"
+msgstr "Заледяване"
+
+#: xgettextdummy.php:128
+msgid "Hazy"
+msgstr "Замъгляване"
+
+#: xgettextdummy.php:129
+msgid "Headline"
+msgstr ""
+
+#: xgettextdummy.php:130
+msgid "Heavy Rain"
+msgstr "Силен дъжд"
+
+#: xgettextdummy.php:131
+msgid "Heavy Snow"
+msgstr "Силен сняг"
+
+#: xgettextdummy.php:132
+msgid "Hot and Humid"
+msgstr "Горещо и влажно"
+
+#: xgettextdummy.php:133
+msgid "Increasing Clouds"
+msgstr "Заоблачаване"
+
+#: xgettextdummy.php:134
+msgid "Light Snow"
+msgstr "Лек сняг"
+
+#: xgettextdummy.php:135
+msgid "Mostly Clear"
+msgstr "Предимно ясно"
+
+#: xgettextdummy.php:136
+msgid "Mostly Cloudy"
+msgstr "Предимно облачно"
+
+#: xgettextdummy.php:137
+msgid "Mostly Sunny"
+msgstr "Предимно слънчево"
+
+#: xgettextdummy.php:138
+msgid "Nowcast"
+msgstr ""
+
+#: xgettextdummy.php:139
+msgid "Partly Cloudy"
+msgstr "Частична облачност"
+
+#: xgettextdummy.php:140
+msgid "Partly Sunny"
+msgstr "Частично слънчево"
+
+#: xgettextdummy.php:141
+msgid "Rain"
+msgstr "Дъжд"
+
+#: xgettextdummy.php:142
+msgid "Rain Showers"
+msgstr "Порои"
+
+#: xgettextdummy.php:143
+msgid "Scattered Showers"
+msgstr "Разпръснати порои"
+
+#: xgettextdummy.php:144
+msgid "Scattered Thunderstorms"
+msgstr "Разпръснати гръмотевични бури"
+
+#: xgettextdummy.php:145
+msgid "Sleet"
+msgstr "Суграшица"
+
+#: xgettextdummy.php:146
+msgid "Snow"
+msgstr "Сняг"
+
+#: xgettextdummy.php:147
+msgid "Snow Showers"
+msgstr "Снежни порои"
+
+#: xgettextdummy.php:148
+msgid "Sunny"
+msgstr "Слънчево"
+
+#: xgettextdummy.php:149
+msgid "Thunderstorms"
+msgstr "Гръмотевични бури"
+
+#: xgettextdummy.php:151
+msgid "Very Cold"
+msgstr "Много студено"
+
+#: xgettextdummy.php:152
+msgid "Very Hot"
+msgstr "Много горещо"
+
+#: xgettextdummy.php:153
+msgid "Warm and Humid"
+msgstr "Топло и влажно"
+
+#: xgettextdummy.php:154
+msgid "Windy"
+msgstr "Ветровито"
+
+#~ msgid "No locations found."
+#~ msgstr "Няма намерени места."
+
+#~ msgid "Set location"
+#~ msgstr "Избери място"
